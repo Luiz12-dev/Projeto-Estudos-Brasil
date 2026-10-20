@@ -620,3 +620,11 @@ Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da popu
 - Nota sobre o quesito "se considera indígena", como nas outras entradas do IBGE.
 
 A primeira frase da pergunta ("por muito tempo se disse...") é um convite à discussão, não um dado verificado.
+
+## RJ — A região que resistiu
+
+Fonte: o mesmo artigo usado na primeira entrada do RJ (*Religião & Sociedade*, 2015). URL: https://www.scielo.br/j/rs/a/bCPNfFkbtrHvWDMwWmj66XG/?lang=pt
+
+- Citação de Birman, Fernandes e Pierobon (2014) no artigo: "[...] essa região possui uma vasta história de resistências populares: [...] Lembremos que foi nessa mesma região, a duas quadras da Estação Ferroviária, que existiu o maior cortiço da história da cidade no início do século XX, o Cabeça de Porco, que acolheu cerca de 4 mil pessoas (Chalhoub 1996). A sua destruição foi aplaudida como um sinal de apoio às reformas urbanas e higienistas da ocasião. Nessa região, ocorreram também as Barricadas da Saúde, insurreição que marcou o imaginário político da cidade, mais conhecida como a Revolta da Vacina, em 1904 [...]"
+
+A fonte situa o cortiço "no início do século XX". O texto omite essa data porque ela não pôde ser confrontada com a obra citada (Chalhoub, 1996).
