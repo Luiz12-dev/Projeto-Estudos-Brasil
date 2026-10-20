@@ -709,3 +709,14 @@ Fonte: a mesma página do Observatório História e Saúde usada na primeira ent
 - "Em 1910, a profilaxia da malária para a expansão ferroviária na Amazônia levou à contratação de Oswaldo Cruz (1872-1917), em 1909, pela empresa Madeira–Mamoré Railway Company, do empresário norte-americano Percival Farquhar."
 - "Alvo de críticas pela tentativa de realização da obra, Farquhar decidiu contratar o médico com o propósito de neutralizar a resistência de que era objeto a construção da ferrovia de 356 quilômetros de extensão. Cruz não era apenas diretor do Instituto Oswaldo Cruz (IOC), mas também um médico respeitado pela comunidade científica nacional e internacional, principalmente depois da bem-sucedida campanha contra a febre amarela na capital federal."
 - "Em 'Considerações gerais sobre as condições sanitárias do Rio Madeira', descreve o quadro de doenças e as condições de abandono dos operários recrutados para a construção da Madeira-Mamoré, entre norte-americanos, bolivianos e cearenses, estes últimos expulsos pela seca e atraídos pela extração da borracha."
+
+## PA — Cidades transformadas em quartéis
+
+Fonte: a mesma dissertação de Durbens Martins Nascimento usada na entrada do TO (NAEA/UFPA, 2000). PDF: https://repositorio.ufpa.br/jspui/bitstream/2011/2458/1/Dissertacao_GuerrilhaAraguaiaPaulistas.pdf
+
+- "A investida das forças repressivas concentrou-se nas cidades de Marabá, no Pará e Xambioá (próxima a Serra das Andorinhas), em Goiás e Imperatriz no Maranhão."
+- "Aproximadamente 20 Soldados, no dia 24 de abril, fortemente armados, invadiram São Domingos do Araguaia. As cidades transformaram-se em 'quartéis' de combate aos paulistas."
+- "O morador que, de uma forma ou de outra, tivesse estabelecido algum tipo de relação com os paulistas, recebia o tratamento de simpatizante da Guerrilha [...]"
+- "Ao contrário os familiares recebiam os corpos dos mortos sem serem comunicados dos reais motivos do óbito. Nem sempre a versão oficial do comando das Forças Armadas ou de uma das Armas indicava o local da morte e as circunstâncias. Há casos de militares mortos em [...]"
+
+O texto não dá o ano do dia 24 de abril, que o trecho omite; o campo `periodo` (1972) vem da datação da dissertação para o início dos combates ("em abril de 1972"). O trecho sobre os corpos fala de militares mortos ("Há casos de militares mortos [...]"); o texto diz "familiares de militares mortos".
