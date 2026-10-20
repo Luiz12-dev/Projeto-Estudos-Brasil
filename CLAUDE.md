@@ -114,6 +114,10 @@ export type Curiosidade = {
 
 `verificado: false` é o padrão de toda entrada nova. Nenhum item com `verificado: false` deve ir para produção.
 
+> **Alteração aprovada pelo Luiz em 2026-10-20:**
+> 1. **Exibição em conferência.** Enquanto a conferência humana não termina, entradas com `verificado: false` aparecem no site com o aviso "Em conferência — fonte ainda não revisada pelo curador". Para voltar à regra original, troque `MOSTRAR_EM_CONFERENCIA` para `false` em `src/painel.ts`.
+> 2. **Várias curiosidades por recorte.** O schema não mudou: o JSON pode ter mais de uma entrada com a mesma `uf`, e o painel navega entre elas.
+
 ## 7. Regras de conteúdo — crítico
 
 Esta é a seção mais importante do documento.
