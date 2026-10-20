@@ -383,3 +383,15 @@ Fonte: D'AVILA, Cristiane. "O avanço sobre a Amazônia: exploração econômica
 - Autoria do estudo: "[...] afirmam pesquisadores do Instituto de Pesquisa Econômica Aplicada (Ipea)."
 
 Atenção: o dado é da Amazônia Legal como um todo, não só do Amazonas. O ideal seria trocar a fonte pelo estudo original do Ipea, que não foi aberto.
+
+## AP — Escravizados no governo de Counani
+
+Fonte: o mesmo capítulo de Adalberto Paz usado na primeira entrada do AP (UNIFAP, 2018). PDF: https://www2.unifap.br/editora/files/2018/05/Livro-Trabalhadores-Migra%C3%A7%C3%B5es-e-Natureza-no-Brasil-Equatorial.pdf
+
+- "[...] no dia 3 de novembro de 1883, o presidente do Pará remeteu ao ministro [...] um recorte do jornal Liberal do Pará daquele mesmo dia, no qual constava a notícia de que os franceses haviam chegado ao Cunani e feito 'os negros fugidos e desertores, que ali se acham, jurarem bandeira, declarando-se cidadãos franceses'."
+- "Segundo o periódico, o quilombo de Counani – 'conhecido desde largos anos' – habitado por escravos fugidos de Macapá, Vigia, Cintra e Belém, tinha sido elevado a categoria de 'colônia, com autoridades constituídas em nome da república francesa'." (Diário de Belém, 20/01/1884)
+- Lista publicada: "Trajano (escravo de Raymundo Alves), capitão; [...] Pedro de Souza (escravo de Cassiano Alvares), maire da vila; [...] Quintino Maciel (escravo da orphã d. Maria da Glória, de S. Caeatano), juiz de paz [...]"
+- "[...] o Cunani possuía um corpo burocrático composto em sua maioria por escravos que haviam encontrado refúgio seguro no Amapá [...]"
+- "[...] relatórios sobre o Contestado franco-brasileiro [...]"
+
+O texto usa "teria virado" porque a informação vem da imprensa da época, como o próprio autor ressalva ("Nomeados ou não pelo governo francês [...]").
