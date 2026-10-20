@@ -1,13 +1,14 @@
 [
   {
     "uf": "BR",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "A fome tem endereço e cor",
+    "texto": "No fim de 2023, cerca de 3,2 milhões de domicílios brasileiros (4,1%) passaram fome em algum momento de um período de três meses, segundo a PNAD Contínua do IBGE. Na Região Norte, a proporção de lares em insegurança alimentar grave (7,7%) foi cerca de quatro vezes a da Região Sul (2,0%). Entre esses lares, 58,1% tinham como responsável uma pessoa parda — mais que o dobro dos chefiados por pessoas brancas (23,4%).",
+    "periodo": "2023",
+    "pergunta": "Por que a fome no Brasil se concentra em certas regiões e em certos grupos de cor ou raça? Que processos históricos ajudam a explicar isso?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "IBGE — PNAD Contínua: Segurança Alimentar 2023",
+      "ano": "2024",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102084.pdf"
     },
     "verificado": false
   },
