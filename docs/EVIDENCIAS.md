@@ -237,3 +237,14 @@ Fonte: CARVALHO, Genimar M. R. de; LIMA, Solimar Oliveira. "Escravidão e constr
 - "Percebe-se na documentação pesquisada uma frequência considerável de pedidos ou ordens de devolução de trabalhadores escravizados às fazendas nacionais [...] a motivação principal das devoluções de escravizados para as fazendas nacionais, parece ter sido o não aprendizado, propositadamente, de um ofício, como forma de resistência."
 
 O período termina em 1871 por causa do recorte do título (1850-1871). Buscas indicam que os escravizados da Nação foram libertados pela Lei n.º 2.040, de 1871, mas isso não está no trecho conferido. **Confirme ou mude o fim do período.**
+
+## PR — O açoite que a lei manteve
+
+Fonte: Projeto de Extensão Afro Curitiba (UFPR), página "Cadeia e Pelourinho: histórias de escravidão". https://afrocuritiba.ufpr.br/praca-borges-de-macedo/ — sem data de publicação visível (campo `ano` como TODO).
+
+- "Na atual Praça Borges de Macedo, duas referências nos dizem algumas coisas sobre as experiências vividas por pessoas escravizadas na cidade de Curitiba. [...] Um deles é o monumento que rememora o pelourinho."
+- "Na memória contemporânea, entretanto, o Pelourinho tornou-se um símbolo da escravidão [...]" / "Se o Pelourinho servia para aplicação de penas de pessoas livres tanto quanto de escravos, porque então, na memória contemporânea, o Pelourinho é tão diretamente associado à opressão praticada contra os escravizados [...]?"
+- Constituição de 1824, art. 179, citada na página: "XIX. Desde já ficam abolidos os açoites, a tortura, a marca de ferro quente, e todas as mais penas cruéis"
+- Código Criminal de 1830, art. 60, citado na página: "Se o réu for escravo, e incorrer em pena, que não seja a capital, ou de galés, será condenado na de açoutes, e depois de os sofrer, será entregue a seu senhor, que se obrigará a trazê-lo com ferro, pelo tempo e maneira que o Juiz designar. O número de açoutes será fixado na sentença; e o escravo não poderá levar por dia mais de cinquenta."
+
+Atenção: a página traz datas que se contradizem sobre o pelourinho ("Erigido em Curitiba em 1698, antes mesmo que fosse instalada a Câmara – o que ocorreu somente em 1693"). Por isso o texto não informa quando o pelourinho foi erguido. O texto da Constituição está no art. 179, que trata dos direitos dos cidadãos, daí a pergunta.

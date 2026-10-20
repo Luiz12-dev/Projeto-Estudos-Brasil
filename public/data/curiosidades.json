@@ -208,13 +208,14 @@
   },
   {
     "uf": "PR",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "O açoite que a lei manteve",
+    "texto": "Na Praça Borges de Macedo, em Curitiba, um monumento lembra o pelourinho da cidade. Ele servia para punir pessoas livres e escravizadas, mas ficou na memória como símbolo da escravidão. Uma pista do porquê: a Constituição de 1824 aboliu os açoites, a tortura e “todas as mais penas cruéis”, mas o Código Criminal de 1830 manteve o açoite para escravizados — até 50 por dia —, e depois o senhor era obrigado a mantê-los com ferro.",
+    "periodo": "1824–1830",
+    "pergunta": "Como uma Constituição podia proibir o açoite e, seis anos depois, uma lei mantê-lo para escravizados? Quem era considerado “cidadão”?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Projeto de Extensão Afro Curitiba (UFPR)",
+      "ano": "TODO: verificar",
+      "url": "https://afrocuritiba.ufpr.br/praca-borges-de-macedo/"
     },
     "verificado": false
   },
