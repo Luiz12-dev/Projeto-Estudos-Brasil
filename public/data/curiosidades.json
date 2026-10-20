@@ -415,6 +415,19 @@
     "verificado": false
   },
   {
+    "uf": "RN",
+    "titulo": "Indígenas no Rio Grande do Norte",
+    "texto": "Entre 2010 e 2022, a população indígena do Rio Grande do Norte cresceu 351,4% — a maior variação entre todas as Unidades da Federação no Censo do IBGE. A média nacional foi de 89,0%. No mesmo período, a população preta do estado aumentou 82,3%. O total de indígenas inclui quem respondeu “sim” à pergunta “você se considera indígena?”, aplicada de forma ampliada em 2022.",
+    "periodo": "2010–2022",
+    "pergunta": "Muita gente acha que não existem indígenas no Nordeste litorâneo. O que esses números dizem sobre essa ideia? O que leva alguém a se declarar indígena?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "RS",
     "titulo": "O charque era feito por escravizados",
     "texto": "A economia do charque em Pelotas (RS) dependia do trabalho escravizado. Em 1832, a Câmara de Pelotas afirmava que o distrito tinha “mais de quatro mil escravos” reunidos nas charqueadas e temia que emissários do “Estado vizinho” os levassem à revolta. Entre 1809 e 1825, segundo registros analisados por historiadores, 95% dos 6.984 cativos que entraram no Rio Grande do Sul eram africanos.",

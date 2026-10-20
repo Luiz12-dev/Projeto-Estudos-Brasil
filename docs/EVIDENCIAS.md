@@ -481,3 +481,13 @@ Fonte: a mesma dissertação de Juliana Ferreira Alves usada na primeira entrada
 - "[...] a interrupção do filme Cabra Marcado para Morrer, em 1964, aquele taxado de subversivo, era seguida também pela perseguição das pessoas que fizeram parte da direção e do elenco. No documentário de 1984 [...]"
 
 A dissertação também menciona o suicídio da filha mais velha e um atentado contra um filho. Esses fatos ficaram fora do texto por serem muito pesados para a atividade, mas podem ser acrescentados.
+
+## RN — Indígenas no Rio Grande do Norte
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- Tabela 3 (Variação 2010-2022), colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Rio Grande do Norte 4,3% 0,1% 82,3% -84,0% 1,1% 351,4%" e "Brasil 6,5% -3,1% 42,3% -59,2% 11,9% 89,0%".
+- "Maior variação": comparei a coluna Indígena de todas as UFs. As seguintes são Bahia (281,6%) e Ceará (172,4%).
+- Nota: "O total de pessoas indígenas compreende as pessoas declaradas por meio do quesito de cor ou raça e aquelas declaradas por meio do quesito 'se considera indígena'." / "[...] a manutenção da pergunta de cobertura 'se considera indígena', com aplicação ampliada [...]"
+
+A primeira frase da pergunta ("muita gente acha...") é um convite à discussão, não um dado.
