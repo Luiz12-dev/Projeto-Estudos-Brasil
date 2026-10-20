@@ -80,3 +80,17 @@ Não há total de mortos: a fonte não traz estimativa geral e as buscas só mos
 - "O conflito atingiu um grande território do planalto e meio-oeste catarinense, além do sul do Paraná."
 - "Demandas econômicas e sociais, como a luta pela terra e pela emancipação da tutela dos Coronéis, estão presentes [...]"
 - "[...] entre os anos de 1912 a 1916, a Guerra do Contestado mobilizou a sociedade nacional no combate aos chamados 'fanáticos', termo de época carregado de preconceitos e felizmente hoje em desuso."
+
+## SP — 111 mortos no Carandiru
+
+Fonte: FERREIRA, Luisa M. A.; MACHADO, Marta R. de A.; MACHADO, Maíra Rocha. "Massacre do Carandiru: vinte anos sem responsabilização". *Novos Estudos CEBRAP*, n. 94, nov. 2012 (seção Opinião). https://doi.org/10.1590/S0101-33002012000300001 — URL usada: https://www.scielo.br/j/nec/a/ZbWF3kvfSYJMQCMSN9ZfmFt/?lang=pt
+
+- "[...] o que aconteceu na tarde do dia 2 de outubro de 1992 [...]"
+- "[...] relatório da operação 'para conter a Rebelião na casa de detenção' [...] A tropa de choque, segundo o documento, teve autorização para a entrada no pavilhão [...]"
+- "Dos 111 mortos, 93 receberam três ou mais disparos [...]"
+- "Em março de 1993, o promotor de justiça militar Luiz Roque Lombardo Barbosa ofereceu denúncia contra 120 policiais militares envolvidos no massacre [...]"
+- "Passados vinte anos, nenhuma autoridade competente foi capaz de atribuir responsabilidades pelo Massacre do Carandiru."
+- "[...] os processos civis de indenização pelos danos materiais e morais foram concluídos integralmente somente para vinte e seis dos familiares das 111 vítimas."
+- Autoria ligada à FGV: "[...] pesquisa conduzida pelas autoras [...] no Núcleo de Estudos sobre o Crime e a Pena da Direito GV [...]"
+
+Atenção: o texto descreve a situação de 2012. Fatos posteriores (julgamentos, anulações) não foram verificados e não entram no texto.
