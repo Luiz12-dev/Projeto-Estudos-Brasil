@@ -173,3 +173,14 @@ Fonte: MARQUES, Dimas Bezerra. *Pelo bem de meus serviços, rogo-lhe esta mercê
 - "[...] sobreviventes, que ainda resistiram durante o século XVIII."
 
 **Localização em Alagoas:** esta fonte não diz explicitamente que Palmares ficava no atual território alagoano. Outra dissertação da UFAL, aberta durante a pesquisa, diz: "[...] cujo principal mocambo foi o de Macacos localizado na atual Serra da Barriga [...]" e "[...] situava-se na atual Serra da Barriga, em União dos Palmares [...]" (LIMA, Marcia Susana Gonçalves. *A história do Quilombo dos Palmares na política curricular do município de União dos Palmares*, UFAL — https://www.repositorio.ufal.br/bitstream/123456789/8083/1/A%20hist%C3%B3ria%20do%20Quilombo%20dos%20Palmares%20na%20pol%C3%ADtica%20curricular%20do%20munic%C3%ADpio%20de%20Uni%C3%A3o%20dos%20Palmares.pdf). Por isso o texto não usa o nome "Alagoas". A segunda pergunta (concentração de terras) é um convite à discussão, não uma afirmação da fonte.
+
+## AP — Desterrados no Oiapoque
+
+Fonte: PAZ, Adalberto. "Muitos sujeitos, outros governos, nenhuma pátria: fugitivos, autoridades e disputas territoriais na Amazônia entre os séculos XIX e XX". In: *Trabalhadores, migrações e natureza no Brasil equatorial*. Macapá: UNIFAP, 2018 (ISBN 978-85-5476-016-8). PDF: https://www2.unifap.br/editora/files/2018/05/Livro-Trabalhadores-Migra%C3%A7%C3%B5es-e-Natureza-no-Brasil-Equatorial.pdf
+
+- "[...] seria apenas no início da década de 1920 que o governo brasileiro enviaria uma comissão ao Amapá, no intuito de estabelecer as bases para uma experiência agrícola efetiva naquela região de fronteira. [...] a maioria dos quais eram cearenses atingidos pela grande seca de 1915-1919 – que ocupariam o Núcleo Colonial Cleveland."
+- "Em pouco tempo, porém, Cleveland integrou a longa lista de fracassos em colônias agrícolas no Pará. [...] Transformada em colônia penal, Clevelândia do Norte passou a ser o destino de muitos dissidentes, anarquistas, comunistas e demais 'indesejáveis' ao poder público em regime de exceção, a partir da chamada Revolução de 1924."
+- "[...] segundo Paulo Sérgio Pinheiro, um relatório encaminhado ao Ministro da Agricultura de Artur Bernardes informava 'que, em 1926, dos 946 prisioneiros desterrados para Clevelândia, 444 haviam morrido'."
+- "Após 1927, com o fim do estado de sítio [...]"
+
+Dado em disputa: buscas mostram outras contagens de presos (948 no relatório oficial de Oldemar Murtinho, 1.630 segundo Manoelzinho dos Santos). Por isso o texto atribui os números ao relatório citado.

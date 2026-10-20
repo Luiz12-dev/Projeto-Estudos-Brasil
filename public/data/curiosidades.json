@@ -40,13 +40,14 @@
   },
   {
     "uf": "AP",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Desterrados no Oiapoque",
+    "texto": "No início dos anos 1920, o governo criou na região de fronteira do Amapá o Núcleo Colonial Cleveland, ocupado sobretudo por cearenses atingidos pela seca de 1915–1919. A colônia agrícola fracassou e virou colônia penal: a partir de 1924, Clevelândia do Norte recebeu dissidentes, anarquistas, comunistas e outros “indesejáveis”. Segundo um relatório da época citado por historiadores, em 1926, dos 946 presos enviados para lá, 444 tinham morrido.",
+    "periodo": "1924–1927",
+    "pergunta": "Por que um governo enviaria opositores políticos para um lugar tão distante e insalubre? O que esse episódio revela sobre o uso do território como castigo?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Adalberto Paz — em “Trabalhadores, migrações e natureza no Brasil equatorial” (UNIFAP)",
+      "ano": "2018",
+      "url": "https://www2.unifap.br/editora/files/2018/05/Livro-Trabalhadores-Migra%C3%A7%C3%B5es-e-Natureza-no-Brasil-Equatorial.pdf"
     },
     "verificado": false
   },
