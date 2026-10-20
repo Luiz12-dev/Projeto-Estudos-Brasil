@@ -628,3 +628,15 @@ Fonte: o mesmo artigo usado na primeira entrada do RJ (*Religião & Sociedade*, 
 - Citação de Birman, Fernandes e Pierobon (2014) no artigo: "[...] essa região possui uma vasta história de resistências populares: [...] Lembremos que foi nessa mesma região, a duas quadras da Estação Ferroviária, que existiu o maior cortiço da história da cidade no início do século XX, o Cabeça de Porco, que acolheu cerca de 4 mil pessoas (Chalhoub 1996). A sua destruição foi aplaudida como um sinal de apoio às reformas urbanas e higienistas da ocasião. Nessa região, ocorreram também as Barricadas da Saúde, insurreição que marcou o imaginário político da cidade, mais conhecida como a Revolta da Vacina, em 1904 [...]"
 
 A fonte situa o cortiço "no início do século XX". O texto omite essa data porque ela não pôde ser confrontada com a obra citada (Chalhoub, 1996).
+
+## RR — Quando o garimpo chegou
+
+Fonte: PITHAN, Oneron A.; CONFALONIERI, Ulisses E. C.; MORGADO, Anastácio F. "A situação de saúde dos índios Yanomámi: diagnóstico a partir da Casa do Índio de Boa Vista, Roraima, 1987-1989". *Cadernos de Saúde Pública*, 7 (4), dez. 1991. https://doi.org/10.1590/S0102-311X1991000400007 — URL usada: https://www.scielo.br/j/csp/a/J3nLCgVDs8NhZzYPpgqpM4P/?lang=pt
+
+- "Do lado brasileiro, até 1987, o seu território tradicional, que se estende por uma área de cerca de 94.500 Km2, continha uma população total de cerca de 9 mil indivíduos. Estes tinham contato sistemático apenas com um reduzido número de não-índios [...]"
+- "[...] em função do fluxo de garimpeiros ter se dado a partir de agosto de 1987."
+- "A infecção malárica [...] teve um aumento de cerca de 500% na sua ocorrência entre 1987 e 1989."
+- "Dentre 495 internações, constatou-se que os principais agravos observados foram, em ordem descrescente, a malária, as infecções respiratórias agudas, a tuberculose, a desnutrição grave e as doenças sexualmente transmissíveis. Dentre os 114 óbitos, a malária foi a causa principal nos três anos est[udados]"
+- "[...] verifica-se também uma maior concentração de casos em áreas de maior atividade garimpeira."
+
+Atenção: os 114 óbitos incluem mortes registradas fora da Casa do Índio ("também foram incluídos no estudo óbitos ocorridos fora da CIBV [...]"). O texto diz "entre os 114 óbitos registrados" sem localizá-los na Casa do Índio.
