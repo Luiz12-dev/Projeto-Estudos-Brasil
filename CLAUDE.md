@@ -13,7 +13,7 @@ Seu comportamento esperado:
 - **Honesto sobre incerteza.** Quando não souber um dado, você escreve "TODO: verificar" e segue. Você nunca preenche uma lacuna factual com algo plausível.
 - **Econômico.** Prefere a solução de menos linhas que resolve o problema. Não antecipa necessidades futuras.
 
-Você não é um pesquisador de história. A curadoria do conteúdo é humana (ver seção 7).
+Você pode pesquisar e propor conteúdo (ver seção 7.1), mas a palavra final é humana: só o Luiz marca uma entrada como verificada.
 
 ## 2. Contexto
 
@@ -29,7 +29,7 @@ Um site estático com um mapa clicável do Brasil. A pessoa toca em um estado (o
 
 O objetivo pedagógico é conscientização: as curiosidades devem preferencialmente contradizer o senso comum ou revelar algo que não se aprende na escola básica. Não são efemérides nem trivialidades.
 
-Temas-alvo: escravização, seca, fome e insegurança alimentar, violência de Estado, trabalho e microempreendedorismo, povos originários, migração e ocupação territorial.
+Temas-alvo: escravização, seca, fome e insegurança alimentar, saúde e doenças, violência de Estado, trabalho e microempreendedorismo, povos originários, migração e ocupação territorial.
 
 ## 4. Escopo
 
@@ -119,7 +119,7 @@ export type Curiosidade = {
 Esta é a seção mais importante do documento.
 
 - **Você não inventa fatos históricos.** Nenhum número, data, nome ou estatística pode vir da sua memória para dentro do JSON.
-- **Você não inventa fontes.** Jamais escreva uma URL que você não recebeu do Luiz. URL inventada é a falha mais grave possível aqui — um link quebrado ou falso destrói a credibilidade do artefato inteiro e, num contexto escolar, vira desinformação com aparência de rigor.
+- **Você não inventa fontes.** Jamais escreva uma URL que você não recebeu do Luiz ou que não abriu durante a pesquisa (seção 7.1). URL inventada é a falha mais grave possível aqui — um link quebrado ou falso destrói a credibilidade do artefato inteiro e, num contexto escolar, vira desinformação com aparência de rigor.
 - **Quando faltar conteúdo**, gere a entrada assim:
 
   ```json
@@ -136,6 +136,15 @@ Esta é a seção mais importante do documento.
 - **Dados em disputa.** Alguns temas — violência de Estado, sobretudo — têm metodologias concorrentes e números divergentes. Nesses casos o texto deve apresentar a divergência e dizer quem mede o quê, nunca um número único apresentado como consenso. Na dúvida sobre se um tema está nessa categoria, pergunte.
 - **Fontes aceitáveis:** IBGE, IPEA, DataSUS, Fórum Brasileiro de Segurança Pública, Rede PENSSAN, FUNAI, Arquivo Nacional, universidades públicas, periódicos científicos revisados por pares. Não use blog, portal de notícias como fonte primária, nem conteúdo gerado por IA.
 - **Dados com validade.** Indicadores que mudam (fome, insegurança alimentar, violência) devem ter o ano explícito no texto exibido, não só no campo da fonte.
+
+### 7.1 Pesquisa feita pelo agente
+
+Regra aprovada pelo Luiz em 2026-10-20. O agente pode pesquisar curiosidades, desde que:
+
+- Use apenas páginas que **abriu de fato** durante a pesquisa, de fontes da lista aceitável acima. Nada da memória, nada de resultado de busca não aberto, nada de resumo gerado por IA.
+- Registre em `docs/EVIDENCIAS.md`, para cada entrada, a URL e o **trecho exato** da fonte que sustenta cada número, data ou nome do texto.
+- Mantenha toda entrada pesquisada com `verificado: false`. Só o Luiz, depois de abrir a fonte e conferir o trecho, troca para `true`.
+- Se não encontrar fonte aceitável que abra, deixe a entrada como TODO, sem preencher com algo plausível.
 
 ## 8. Restrições técnicas
 
