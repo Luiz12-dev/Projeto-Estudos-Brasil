@@ -306,7 +306,10 @@ Fonte: Observatório História e Saúde (Casa de Oswaldo Cruz/Fiocruz), "O avan�
 - "Inaugurada em 1912, a ferrovia ligava Porto Velho a Guajará-Mirim [...] foram tantas as mortes por malária, beribéri e outras doenças tropicais durante sua construção, que a obra acabou não justificando o investimento, visto que a borracha brasileira já perdia mercado para os seringais da Ásia."
 - "[...] as condições de abandono dos operários recrutados para a construção da Madeira-Mamoré, entre norte-americanos, bolivianos e cearenses, estes últimos expulsos pela seca [...]"
 
-Dado em disputa: o número de mortos não está no texto. Buscas mostram estimativas muito diferentes ("mais de seis mil" em artigo da HCSM; 1.593 em outro; 6.208 sobre 21.817 contratados citado por um blog). Nenhuma delas foi conferida numa página aberta, por isso a pergunta trata a frase "uma vida por dormente" como lenda a discutir.
+- Citação de Jaime Benchimol e André Felipe Cândido da Silva na mesma página: "No mesmo ano, a Madeira Mamoré Railway apresentou ao governo os custos finais da construção da ferrovia, em dinheiro e vidas. Dos 21.817 trabalhadores contratados, estima-se o total de mortos em 6.208 pessoas."
+- Autoria da página: "Por Cristiane d'Avila em Café História".
+
+**Correção (2026-10-20):** na primeira versão, esta evidência dizia que o número de mortos não estava na página. Estava: ele aparece na citação acima, e o texto agora o informa, atribuindo a estimativa à própria empresa. Dado em disputa: buscas mostram outras estimativas ("mais de seis mil" em artigo da HCSM; 1.593 em outro). A pergunta trata a frase "uma vida por dormente" como lenda a discutir.
 
 ## RS — O charque era feito por escravizados
 
@@ -339,3 +342,172 @@ Fonte: NASCIMENTO, Durbens Martins. *A Guerrilha do Araguaia: "paulistas" e mili
 - "O morador que, de uma forma ou de outra, tivesse estabelecido algum tipo de relação com os paulistas, recebia o tratamento de simpatizante da Guerrilha [...] Bate-paus conhecidos foram 'contratados' como guias, na promessa de, ao final da operação militar, receberem o pagamento em terras que seriam doadas pelo INCRA. Vários guias, entretanto, foram obrigados, inclusive após sessões de tortura, a trabalhar para o Exército na mata."
 
 Notas: a fonte chama os guias de "bate-paus" e "mateiros" (nota 68: "Homens contratados pelo Exército como informantes. Eram utilizados como guias, também conhecidos como 'mateiros'"). O texto não traz o número de mortos e desaparecidos: buscas mostram contagens diferentes (62 na sentença da Corte Interamericana, cerca de 70 segundo dados atribuídos à CNV), que não foram conferidas em página aberta.
+
+## AC — Quantos soldados da borracha sumiram?
+
+Fonte: MARTINELLO, Pedro. *A batalha da borracha na Segunda Guerra Mundial*. Rio Branco: Edufac, 2024 (ISBN 978-65-88975-82-4). PDF: http://www2.ufac.br/editora/livros/Abatalha.pdf
+
+**Dado em disputa:** o texto mostra os três números e quem os deu.
+
+- "O próprio contingente de cinquenta e cinco mil nordestinos que foi recrutado às pressas, para extração do precioso látex, levou o nome de exército da borracha, e os novos seringueiros permaneceram, até hoje, com a alcunha de soldados da borracha."
+- "[...] uma violenta denúncia de uma caravana de estudantes cearenses, que, visitando a Amazônia para comprovar in loco a situação de seus coestaduanos, constataram o desaparecimento de 23 mil nordestinos, tragados pela batalha da borracha. Tal denúncia, que julgamos ter sido até um tanto exagerada quanto aos números, repercutiu como um rastilho de pólvora na imprensa de todo o país [...]"
+- Editorial do *Jornal do Brasil* citado no livro, "A tragédia dos soldados da borracha": "A ditadura cavilosa e desumana arrancou dos labores rurais, em plena guerra, 50.000 nordestinos e fê-los marchar para a fome e para a morte [...]"
+- "A resposta dos representantes da Amazônia, além de minimizar a tragédia e o número de mortes [...]"
+
+O período 1942–1945 é o da Segunda Guerra, contexto do livro. Atenção: o livro trata da Amazônia como um todo, não só do Acre.
+
+## AC — A doença que seguiu a borracha
+
+Fonte: o mesmo capítulo usado na entrada do MT ("Comportamento epidemiológico da hanseníase no Brasil", *Saúde Brasil 2008*, Ministério da Saúde). PDF: https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content
+
+- "Agrícola (1975) avaliou a situação epidemiológica da hanseníase no País, em 1973, apontando que o estado do Acre, com economia baseada na borracha, tinha a pior situação epidemiológica. Ele também aponta que a região Nordeste tinha então o menor coeficiente de prevalência. Atualmente, os estados pertencentes à Amazônia brasileira apresentam a pior situação epidemiológica da hanseníase, com os maiores coeficientes de detecção. A região Nordeste foi substituída pela região Sul como aquela com menos hanseníase."
+
+"Atualmente" no trecho se refere à época do estudo (série 1980-2009), por isso o texto diz "décadas depois". Ano de publicação como TODO: veja a nota da entrada do MT.
+
+## AM — Quase meio milhão de indígenas
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população, por sexo e idade: resultados do universo* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- Tabela 2, linha do Amazonas: "Amazonas 3 941 613 725 007 193 667 5 963 2 711 618 490 935". A última coluna é "Indígena".
+- Tabela 3 (Variação 2010-2022), coluna "Indígena": "Brasil [...] 89,0%" e "Amazonas [...] 167,5%".
+- Nota das tabelas: "O total de pessoas indígenas compreende as pessoas declaradas por meio do quesito de cor ou raça e aquelas declaradas por meio do quesito 'se considera indígena'."
+- "[...] a manutenção da pergunta de cobertura 'se considera indígena', com aplicação ampliada [...]"
+
+A pergunta não afirma a causa do crescimento: a publicação não a atribui a um fator.
+
+## AM — Floresta derrubada, malária em alta
+
+Fonte: D'AVILA, Cristiane. "O avanço sobre a Amazônia: exploração econômica e doenças". Observatório História e Saúde (Casa de Oswaldo Cruz/Fiocruz), 03/04/2023. https://ohs.coc.fiocruz.br/posts_ohs/o-avanco-sobre-a-amazonia-exploracao-economica-e-doencas/
+
+- "No estudo, intitulado 'Impacto do desmatamento sobre a incidência de doenças na Amazônia', foram relacionados dados do desmatamento e estatísticas de doenças em 773 municípios da Amazônia Legal, entre 2004 e 2012. Constatou-se que para cada 1% de floresta derrubada por ano há um acréscimo de 23% nos casos de malária. A incidência de leishmaniose também cresceu com o avanço do desmatamento, com um aumento entre 8% e 9% de casos."
+- Autoria do estudo: "[...] afirmam pesquisadores do Instituto de Pesquisa Econômica Aplicada (Ipea)."
+
+Atenção: o dado é da Amazônia Legal como um todo, não só do Amazonas. O ideal seria trocar a fonte pelo estudo original do Ipea, que não foi aberto.
+
+## AP — Escravizados no governo de Counani
+
+Fonte: o mesmo capítulo de Adalberto Paz usado na primeira entrada do AP (UNIFAP, 2018). PDF: https://www2.unifap.br/editora/files/2018/05/Livro-Trabalhadores-Migra%C3%A7%C3%B5es-e-Natureza-no-Brasil-Equatorial.pdf
+
+- "[...] no dia 3 de novembro de 1883, o presidente do Pará remeteu ao ministro [...] um recorte do jornal Liberal do Pará daquele mesmo dia, no qual constava a notícia de que os franceses haviam chegado ao Cunani e feito 'os negros fugidos e desertores, que ali se acham, jurarem bandeira, declarando-se cidadãos franceses'."
+- "Segundo o periódico, o quilombo de Counani – 'conhecido desde largos anos' – habitado por escravos fugidos de Macapá, Vigia, Cintra e Belém, tinha sido elevado a categoria de 'colônia, com autoridades constituídas em nome da república francesa'." (Diário de Belém, 20/01/1884)
+- Lista publicada: "Trajano (escravo de Raymundo Alves), capitão; [...] Pedro de Souza (escravo de Cassiano Alvares), maire da vila; [...] Quintino Maciel (escravo da orphã d. Maria da Glória, de S. Caeatano), juiz de paz [...]"
+- "[...] o Cunani possuía um corpo burocrático composto em sua maioria por escravos que haviam encontrado refúgio seguro no Amapá [...]"
+- "[...] relatórios sobre o Contestado franco-brasileiro [...]"
+
+O texto usa "teria virado" porque a informação vem da imprensa da época, como o próprio autor ressalva ("Nomeados ou não pelo governo francês [...]").
+
+## PA — Rebeldes em nome do imperador
+
+Fonte: o mesmo artigo de Magda Ricci usado na primeira entrada do PA (*Tempo*, 2007). URL: https://www.scielo.br/j/tem/a/ZX5z5skg9g7YyC47qtn533N/?lang=pt
+
+- "[...] Malcher visualizava o clímax da luta cabana nos episódios do 7 de janeiro de 1835. Nesta data, em nome de Pedro II, Malcher foi aclamado pelo povo para governar o Grão-Pará durante a menoridade do Imperador."
+- "Durante a primeira tomada de Belém, em 7 de janeiro [...]"
+- "A bandeira de luta dos levantados de janeiro resumia-se na morte aos portugueses e aos maçons."
+- "Eles se autodenominavam 'patriotas', mas ser patriota não era necessariamente sinônimo de ser brasileiro."
+
+O texto diz "o menino Pedro II" porque a fonte fala em "Imperador menino, Pedro II" ("[...] mantinham vínculos com o regime constitucional carioca, especialmente com o Imperador menino, Pedro II").
+
+## RO — Um estado de migrantes
+
+Fonte: o mesmo capítulo de *Saúde Brasil 2008* usado na entrada do MT. PDF: https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content
+
+- "As áreas dos clusters na região Amazônica coincidem com áreas de projetos de assentamento e de polos de desenvolvimento agropecuário. No censo de 1980, não haviam nascido no estado de residência 35,5% da população no Mato Grosso e 40,7% em Rondônia. A densidade demográfica passou de 0,15 habitante por km2, em 1950, para 5,8 habitantes/km2 em 2000, em Rondônia [...] Há, ainda, a circulação de garimpeiros, à procura de ouro e cassiterita, nas áreas desses clusters."
+
+"Quase 40 vezes" é conta minha: 5,8 ÷ 0,15 ≈ 38,7.
+
+## RR — O estado que mais cresceu
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- Tabela 3 (Variação 2010-2022), colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Brasil 6,5% -3,1% 42,3% -59,2% 11,9% 89,0%" e "Roraima 41,3% 39,3% 86,6% -81,8% 32,1% 74,7%".
+- "Maior variação entre todas as UFs": comparei a coluna Total de todas as UFs da Tabela 3. A seguinte é Santa Catarina, com 21,8%.
+- "[...] Roraima, com 15,4% de sua população residente indígena [...]"
+
+A publicação não explica a causa do crescimento, por isso a entrada não afirma nenhuma. "Seis vezes" na pergunta é conta minha: 41,3 ÷ 6,5 ≈ 6,4.
+
+## TO — O terceiro estado mais preto do país
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- "Analisando o peso relativo da população preta nas Unidades da Federação, o destaque vai para a Bahia, com 22,4%, seguida do Rio de Janeiro, com 16,2%, e Tocantins, com 13,2%. Os menores pesos relativos encontravam-se nas Unidades da Federação de Santa Catarina, com 4,1% de população preta, seguida do Paraná, com 4,3%, e do Amazonas, com 4,9%."
+- Tabela 3: "Tocantins 9,3% 1,6% 58,0% -86,7% 7,6% 41,8%" (a coluna Preta é a terceira).
+
+## AL — A noite em que quebraram os terreiros
+
+Fonte: LUNA, Lenilda. "Quebra do Xangô: pesquisadores avaliam a intolerância religiosa". Notícias UFAL, 01/02/2012 (atualizado em 06/05/2024). https://noticias.ufal.br/ufal/noticias/2012/01/quebra-do-xango-pesquisadores-avaliam-a-intolerancia-religiosa
+
+**Atenção:** é uma notícia de universidade pública com falas de pesquisadoras da UFAL, não um artigo revisado por pares. Fonte complementar aberta: o TCC de Diogo Fabiano Barbosa Pimentel, *O Quebra de Xangô de 1912: uma reflexão histórica* (UFAL, 2022), que confirma a data ("naquela fatídica noite de 1º de fevereiro de 1912").
+
+- "Foi na noite de 1º de fevereiro de 1912 que o terror se espalhou pelos terreiros de cultos afro-brasileiros em Alagoas. O quebra-quebra foi liderado pela Liga dos Repúblicanos Combatentes, agremiação política que fazia oposição ao governador da época, Euclides Malta. As invasões, espancamentos e prisões aos praticantes de candomblé, umbanda e outros cultos durou até a madrugada de 2 de fevereiro [...]"
+- "O Quebra provocou o fechamento de vários terreiros e a dispersão de ialorixás e babalorixás para outros Estados."
+- Fala da historiadora Clara Suassuna: "Esse evento durante muitos anos ficou restrito aos jornais como sendo uma ação para limpar as almas da população das práticas religiosas demoníacas e perigosas para a sociedade".
+
+## BA — O estado mais preto do Brasil
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- "Analisando o peso relativo da população preta nas Unidades da Federação, o destaque vai para a Bahia, com 22,4%, seguida do Rio de Janeiro, com 16,2% [...]"
+- "As três Unidades da Federação com menor peso relativo de população branca na população residente eram: Amazonas com 18,4%, Pará com 19,3% e Bahia com 19,6%."
+- Tabela 3 (Variação 2010-2022): "Bahia 0,9% -10,9% 32,0% -89,9% -2,3% 281,6%" (a última coluna é Indígena). Pela tabela, só o Rio Grande do Norte (351,4%) teve variação indígena maior.
+
+A pergunta liga o dado ao tráfico de escravizados como convite à discussão: a fonte (IBGE) não faz essa ligação.
+
+## CE — A polícia tomava, mas devolvia
+
+Fonte: o mesmo artigo de Frederico de Castro Neves usado na primeira entrada do CE (*Revista Brasileira de História*, 2001). URL: https://www.scielo.br/j/rbh/a/5GNSQTXnMM7kTM3rr8B4TrM/?format=html&lang=pt
+
+- "[...] a multidão que se apossou das mercadorias em Orós e outras cidades do Ceará nas primeiras semanas de 1932 [...]"
+- Telegrama do interventor Menezes Pimentel citado no artigo: "[...] estão se concentrando milhares famintos numerosos municipios Estado, havendo cerca 6.000 Sobral, 4 a 5.000 Senador Pompeu, 1.000 Jaguaribe, aproximadamente 2.000 Canindé e outros tantos Tauá e muitos outros pontos interior. Nesta Capital existem cerca 5.000 flagelados."
+- "A atitude com relação ao saque era ambígua: a polícia tomava, mas imediatamente devolvia os alimentos aos saqueadores."
+
+O telegrama é da seca de 1942: ele vem logo depois do trecho "Em 19 de março de 1942, dia de São José, a seca foi novamente 'decretada' no Ceará [...]". A frase sobre a polícia aparece na parte do artigo sobre 1942.
+
+## MA — Foguetes no território quilombola
+
+Fonte: FEITOZA, Ilnar Fernandes. "Lutas e enfrentamentos das comunidades quilombolas de Alcântara frente ao modelo colonialista da base espacial" (resenha do livro de Danilo da Conceição Serejo Lopes, *A atemporalidade do colonialismo*, UEMA, 2020). *Rev. Pós Ciênc. Soc.*, São Luís, v. 20, n. 1, p. 199-204, jan./abr. 2023. PDF: https://periodicoseletronicos.ufma.br/index.php/rpcsoc/article/download/20939/11683/63313
+
+- "Para a implantação do Centro de Lançamento de Alcântara (CLA), em 1980, foi destinada inicialmente uma área de 52 mil hectares pelo governo do estado do Maranhão. Em 1991, o presidente Fernando Collor acrescentou 10 mil hectares, perfazendo um total de 62 mil hectares. Para iniciar a construção do centro, em 1986 e 1987, o Estado brasileiro deslocou compulsoriamente 312 famílias, que formavam 23 povoados, para 7 agrovilas."
+- "A remoção para agrovilas impôs prejuízos irreparáveis: imposição de novas condutas de vida, alteração da vizinhança, separação dos parentes, além da disponibilização de terras inférteis para agricultura e dificuldade de acesso aos locais de pesca, entre outros."
+
+O termo "famílias quilombolas" segue o título e o tema da resenha ("comunidades quilombolas de Alcântara"). Atenção: é uma resenha, que resume o livro de Lopes.
+
+## PB — A viúva que assumiu a luta
+
+Fonte: a mesma dissertação de Juliana Ferreira Alves usada na primeira entrada da PB (UFPB, 2019). PDF: https://repositorio.ufpb.br/jspui/bitstream/123456789/19966/1/JulianaFerreiraAlves_Dissert.pdf
+
+- Fala de Elizabeth citada na dissertação: "Mas quando eu vi ali, estraçalhado de bala, eu olhei bem para ele e disse: - João Pedro, a partir de hoje, eu marcharei na tua luta. [...] Mas eu te juro, João Pedro, eu darei continuidade à tua luta!" (ELIZABETH TEIXEIRA apud BANDEIRA et al., 2012, p. 89)
+- "[...] a Liga Camponesa de Sapé, após o assassinato do seu líder João Pedro Teixeira, adotou uma nova postura sob comando de Elizabeth Teixeira [...]"
+- "[...] ameaças, ofensas verbais ou prisões realizadas por militares e polícias contra ela [...] a separação forçada da sua prole (que ficaram para ser distribuídos entre os parentes), a fuga e entrada na clandestinidade [...] ao rememorarem no documentário Cabra Marcado para Morrer, a infância que sofreram, sendo órfão de pai, longe da mãe e distantes dos irmãos"
+- "[...] a interrupção do filme Cabra Marcado para Morrer, em 1964, aquele taxado de subversivo, era seguida também pela perseguição das pessoas que fizeram parte da direção e do elenco. No documentário de 1984 [...]"
+
+A dissertação também menciona o suicídio da filha mais velha e um atentado contra um filho. Esses fatos ficaram fora do texto por serem muito pesados para a atividade, mas podem ser acrescentados.
+
+## RN — Indígenas no Rio Grande do Norte
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- Tabela 3 (Variação 2010-2022), colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Rio Grande do Norte 4,3% 0,1% 82,3% -84,0% 1,1% 351,4%" e "Brasil 6,5% -3,1% 42,3% -59,2% 11,9% 89,0%".
+- "Maior variação": comparei a coluna Indígena de todas as UFs. As seguintes são Bahia (281,6%) e Ceará (172,4%).
+- Nota: "O total de pessoas indígenas compreende as pessoas declaradas por meio do quesito de cor ou raça e aquelas declaradas por meio do quesito 'se considera indígena'." / "[...] a manutenção da pergunta de cobertura 'se considera indígena', com aplicação ampliada [...]"
+
+A primeira frase da pergunta ("muita gente acha...") é um convite à discussão, não um dado.
+
+## RN — O capitão do mato cercado
+
+Fonte: o mesmo e-book da UERN usado na primeira entrada do RN (2024). PDF: https://portal.uern.br/wp-content/uploads/sites/14/2024/09/E-book-30-de-Setembro-por-uma-historia-da-libertacao.pdf
+
+- Trecho citado no e-book (LIMA, 1938): "[...] chegara aqui, em busca de um casal em fuga, o capitão do mato Lacerda, vindo de Piancó. Estevam e Merencia estavam, de fato, homiziados em casa de Preto José, já liberto [...] Conseguindo retomá-los, conduziu-os para a cidade e os prendeu, à noite, em um armazém [...] Avisado do plano, o Clube dos Spartacus, logo às 5 horas, partiu com sua república, ou quartel, fardados e bem armados. [...] intimaram Lacerda a deixar irem-se em paz os dois infelizes [...] a cena empolgou a massa popular, que já ali se formara. Havia tumulto [...] quando intervieram os diretores da Libertadora, que conseguiram conter a onda de indignação, apelando para os meios legais. Foi requerido e feito, dentro de minutos, o depósito dos escravos aludidos [...] E o bravio capitão, embolsado da indenização, partiu no dia seguinte [...]"
+- "[...] Clube dos Spartacus [...] composto principalmente por ex-escravizados [...]"
+
+Atenção: o ano do episódio não aparece no trecho; o e-book o situa na campanha abolicionista de Mossoró, que terminou em 1883. Por isso a entrada não tem o campo `periodo`. O relato vem de um livro de 1938 (LIMA) citado no e-book.
+
+## SE — Cabeça em troca de promoção
+
+Fonte: o mesmo artigo de José Ferreira Júnior usado na primeira entrada de SE (*Ponta de Lança*, UFS, 2023). PDF: https://periodicos.ufs.br/pontadelanca/article/download/19549/14977
+
+- "No embate entre cangaceiros e volantes a prática de cortar cabeças, todavia, era realizada unilateralmente. Somente ocorria por parte dos soldados de volante. Não se conhece tal prática entre cangaceiros. Estes, na violência que externalizavam, protagonizavam atos de crueldade inominável, como castrações, marcação com ferro em brasa, esfolamento, sangramentos. Todavia, desconhece-se na historiografia cangaceira a prática de cortar cabeças de vítimas suas, fossem essas até mesmo policiais."
+- "José Osório de Farias, conhecido com Zé Rufino, é tido na historiografia cangaceira como o maior cortador de cabeças de cangaceiros. [...] Zé Rufino teria feito um acordo com o governo estadual, quanto mais cabeças de cangaceiros fossem cortadas, mais promoções seriam conquistadas."
+- Citação no artigo: "[...] havia um acordo secreto com o governo daquele estado. Cada cabeça que o contratado apresentasse era trocada por uma promoção."
+- Período: título do artigo, "(1922 – 1938)".
+
+Atenção: Zé Rufino atuava pela polícia da Bahia. A entrada está em SE porque o artigo trata do cangaço a partir de Angico (SE).

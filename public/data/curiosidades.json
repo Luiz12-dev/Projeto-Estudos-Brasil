@@ -26,6 +26,32 @@
     "verificado": false
   },
   {
+    "uf": "AC",
+    "titulo": "Quantos soldados da borracha sumiram?",
+    "texto": "Na Segunda Guerra, cerca de 55 mil nordestinos foram recrutados às pressas para extrair látex na Amazônia — o “exército da borracha”. Depois da guerra, uma caravana de estudantes cearenses denunciou o desaparecimento de 23 mil nordestinos “tragados pela batalha da borracha”; o historiador Pedro Martinello considera esse número um tanto exagerado. Um editorial do Jornal do Brasil falou em 50 mil levados “para a fome e para a morte”. Representantes da Amazônia minimizavam a tragédia.",
+    "periodo": "1942–1945",
+    "pergunta": "Cada lado do debate tinha interesse em um número diferente. Por que é tão difícil — e tão político — contar os mortos de uma tragédia como essa?",
+    "fonte": {
+      "nome": "Pedro Martinello — A batalha da borracha na Segunda Guerra Mundial (Edufac)",
+      "ano": "2024",
+      "url": "http://www2.ufac.br/editora/livros/Abatalha.pdf"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "AC",
+    "titulo": "A doença que seguiu a borracha",
+    "texto": "Em 1973, uma avaliação nacional da hanseníase apontou que o Acre, com economia baseada na borracha, tinha a pior situação epidemiológica do país, enquanto o Nordeste tinha o menor coeficiente de prevalência. Décadas depois, segundo estudo publicado pelo Ministério da Saúde, os estados da Amazônia continuavam com a pior situação, e o Nordeste deixou de ser a região com menos hanseníase — posto que passou ao Sul.",
+    "periodo": "1973",
+    "pergunta": "O que uma doença pode revelar sobre as condições de vida e de trabalho de uma economia, como a da borracha?",
+    "fonte": {
+      "nome": "Penna, Gross, Rocha e Penna — Saúde Brasil 2008 (Ministério da Saúde)",
+      "ano": "TODO: verificar",
+      "url": "https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content"
+    },
+    "verificado": false
+  },
+  {
     "uf": "AL",
     "titulo": "Destruir Palmares dava prêmio",
     "texto": "Os mocambos de Palmares duraram mais de um século; as primeiras tentativas de destruí-los, pelo governo da Capitania de Pernambuco, datam de 1602. Na segunda metade do século XVII, várias expedições levaram centenas de soldados contra eles. Quem lutava pedia ao rei “mercês”: títulos, cargos e terras. Bandeirantes paulistas chamados para a guerra ganharam extensos lotes na região palmarina, o que lhes garantiu bases para se enraizar em Pernambuco.",
@@ -39,11 +65,37 @@
     "verificado": false
   },
   {
+    "uf": "AL",
+    "titulo": "A noite em que quebraram os terreiros",
+    "texto": "Na noite de 1º de fevereiro de 1912, terreiros de religiões afro-brasileiras de Alagoas foram invadidos. O ataque foi liderado pela Liga dos Republicanos Combatentes, oposição ao governador Euclides Malta, e as invasões, espancamentos e prisões duraram até a madrugada de 2 de fevereiro. Vários terreiros fecharam, e ialorixás e babalorixás se dispersaram para outros estados. Por muitos anos, jornais trataram o episódio como uma “ação de limpeza”.",
+    "periodo": "1912",
+    "pergunta": "O ataque foi apresentado como disputa política contra o governador. Por que justamente os terreiros foram o alvo? Que formas de intolerância religiosa ainda existem hoje?",
+    "fonte": {
+      "nome": "Lenilda Luna — Notícias UFAL",
+      "ano": "2012",
+      "url": "https://noticias.ufal.br/ufal/noticias/2012/01/quebra-do-xango-pesquisadores-avaliam-a-intolerancia-religiosa"
+    },
+    "verificado": false
+  },
+  {
     "uf": "AP",
     "titulo": "Desterrados no Oiapoque",
     "texto": "No início dos anos 1920, o governo criou na região de fronteira do Amapá o Núcleo Colonial Cleveland, ocupado sobretudo por cearenses atingidos pela seca de 1915–1919. A colônia agrícola fracassou e virou colônia penal: a partir de 1924, Clevelândia do Norte recebeu dissidentes, anarquistas, comunistas e outros “indesejáveis”. Segundo um relatório da época citado por historiadores, em 1926, dos 946 presos enviados para lá, 444 tinham morrido.",
     "periodo": "1924–1927",
     "pergunta": "Por que um governo enviaria opositores políticos para um lugar tão distante e insalubre? O que esse episódio revela sobre o uso do território como castigo?",
+    "fonte": {
+      "nome": "Adalberto Paz — em “Trabalhadores, migrações e natureza no Brasil equatorial” (UNIFAP)",
+      "ano": "2018",
+      "url": "https://www2.unifap.br/editora/files/2018/05/Livro-Trabalhadores-Migra%C3%A7%C3%B5es-e-Natureza-no-Brasil-Equatorial.pdf"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "AP",
+    "titulo": "Escravizados no governo de Counani",
+    "texto": "Em 1883, num território disputado entre Brasil e França, jornais de Belém noticiaram que franceses chegaram ao Cunani e fizeram “os negros fugidos e desertores” jurarem bandeira como cidadãos franceses. O quilombo de Counani, formado por escravizados fugidos de Macapá, Vigia, Cintra e Belém, teria virado “colônia” francesa. A lista de autoridades publicada pela imprensa trazia escravizados fugidos como capitão, prefeito (“maire”) e juiz de paz.",
+    "periodo": "1883–1884",
+    "pergunta": "Por que pessoas escravizadas no Brasil aceitariam jurar a bandeira de outro país? O que a fronteira significava para quem fugia da escravidão?",
     "fonte": {
       "nome": "Adalberto Paz — em “Trabalhadores, migrações e natureza no Brasil equatorial” (UNIFAP)",
       "ano": "2018",
@@ -65,6 +117,32 @@
     "verificado": false
   },
   {
+    "uf": "AM",
+    "titulo": "Quase meio milhão de indígenas",
+    "texto": "O Amazonas tinha 490.935 indígenas em 2022, segundo o Censo do IBGE. Entre 2010 e 2022, a população indígena do estado cresceu 167,5%, bem acima da média nacional (89,0%). O total de indígenas soma quem se declarou indígena na pergunta de cor ou raça e quem respondeu “sim” à pergunta “você se considera indígena?”, aplicada de forma ampliada em 2022.",
+    "periodo": "2010–2022",
+    "pergunta": "Esse crescimento significa mais pessoas indígenas, mais pessoas se declarando indígenas, ou as duas coisas? Que diferença isso faz?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "AM",
+    "titulo": "Floresta derrubada, malária em alta",
+    "texto": "Um estudo do Ipea cruzou dados de desmatamento e de doenças em 773 municípios da Amazônia Legal entre 2004 e 2012. Concluiu que, para cada 1% de floresta derrubada por ano, os casos de malária aumentam 23%. A incidência de leishmaniose também cresceu com o avanço do desmatamento, com aumento entre 8% e 9% dos casos.",
+    "periodo": "2004–2012",
+    "pergunta": "Se derrubar floresta aumenta doenças, quem paga essa conta? O desmatamento é só um problema ambiental?",
+    "fonte": {
+      "nome": "Cristiane d’Avila — Observatório História e Saúde (COC/Fiocruz)",
+      "ano": "2023",
+      "url": "https://ohs.coc.fiocruz.br/posts_ohs/o-avanco-sobre-a-amazonia-exploracao-economica-e-doencas/"
+    },
+    "verificado": false
+  },
+  {
     "uf": "BA",
     "titulo": "Quilombo não é só passado",
     "texto": "A Bahia tem a maior população quilombola do Brasil: 397.059 pessoas, quase 30% do total do país, segundo o Censo 2022. Os dois municípios com mais quilombolas são baianos: Senhor do Bonfim (15.999) e a capital, Salvador (15.897). No Brasil inteiro, apenas 12,6% dos quilombolas vivem em territórios oficialmente reconhecidos; os demais estão fora de áreas formalmente delimitadas.",
@@ -78,11 +156,37 @@
     "verificado": false
   },
   {
+    "uf": "BA",
+    "titulo": "O estado mais preto do Brasil",
+    "texto": "Segundo o Censo 2022, a Bahia tem a maior proporção de pessoas pretas do país: 22,4% dos moradores, seguida do Rio de Janeiro (16,2%). É também um dos três estados com menor proporção de pessoas brancas (19,6%). Entre 2010 e 2022, a população indígena da Bahia cresceu 281,6%, uma das maiores variações do país.",
+    "periodo": "2022",
+    "pergunta": "Por que a Bahia concentra tanta população negra? Que relação isso tem com a história do tráfico de africanos escravizados?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "CE",
     "titulo": "Campos de concentração no sertão",
     "texto": "Na seca de 1932, o governo implantou no Ceará campos de concentração para retirantes: famintos eram induzidos a entrar e proibidos de sair. Cinco campos ficavam perto das principais vias de acesso a Fortaleza, para impedir a chegada dos flagelados à capital. Lá dentro, recebiam rações e eram submetidos a regras de moradia, trabalho e comportamento. O maior campo, no Crato, chegou a abrigar quase 60 mil pessoas.",
     "periodo": "1932",
     "pergunta": "Os campos eram apresentados como assistência aos famintos. O que os torna, ao mesmo tempo, uma forma de controle? Por que esse episódio é tão pouco conhecido?",
+    "fonte": {
+      "nome": "Frederico de Castro Neves — Revista Brasileira de História",
+      "ano": "2001",
+      "url": "https://www.scielo.br/j/rbh/a/5GNSQTXnMM7kTM3rr8B4TrM/?format=html&lang=pt"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "CE",
+    "titulo": "A polícia tomava, mas devolvia",
+    "texto": "Nas primeiras semanas de 1932, multidões de retirantes famintos se apossaram de mercadorias em Orós e outras cidades do Ceará. Na seca de 1942, o interventor avisou Vargas por telegrama: havia cerca de 6.000 famintos em Sobral, 4 a 5.000 em Senador Pompeu e 5.000 em Fortaleza. Segundo o historiador Frederico de Castro Neves, a atitude diante dos saques era ambígua: a polícia tomava os alimentos, mas imediatamente os devolvia aos saqueadores.",
+    "periodo": "1932–1942",
+    "pergunta": "Saquear comida para não morrer de fome é crime? Por que a própria polícia devolvia os alimentos?",
     "fonte": {
       "nome": "Frederico de Castro Neves — Revista Brasileira de História",
       "ano": "2001",
@@ -143,6 +247,19 @@
     "verificado": false
   },
   {
+    "uf": "MA",
+    "titulo": "Foguetes no território quilombola",
+    "texto": "Para implantar o Centro de Lançamento de Alcântara (MA), o governo do estado destinou 52 mil hectares em 1980; em 1991, mais 10 mil foram acrescentados. Em 1986 e 1987, o Estado brasileiro removeu compulsoriamente 312 famílias quilombolas, de 23 povoados, para 7 agrovilas. As famílias perderam vizinhos e parentes, receberam terras inférteis para a agricultura e tiveram dificuldade de acesso aos locais de pesca.",
+    "periodo": "1980–1991",
+    "pergunta": "Um projeto de interesse nacional justifica remover comunidades tradicionais? Quem deveria ser ouvido numa decisão como essa?",
+    "fonte": {
+      "nome": "Ilnar Fernandes Feitoza — Revista de Pós-Graduação em Ciências Sociais (UFMA)",
+      "ano": "2023",
+      "url": "https://periodicoseletronicos.ufma.br/index.php/rpcsoc/article/download/20939/11683/63313"
+    },
+    "verificado": false
+  },
+  {
     "uf": "MT",
     "titulo": "Uma doença antiga na fronteira nova",
     "texto": "Segundo um estudo publicado pelo Ministério da Saúde no relatório Saúde Brasil 2008, as áreas de maior risco de hanseníase na Amazônia coincidiam com projetos de assentamento e polos de desenvolvimento agropecuário. No Censo de 1980, 35,5% dos moradores de Mato Grosso não tinham nascido no estado. Entre 1950 e 2000, a densidade passou de 0,42 para 2,47 habitantes por km². Mato Grosso estava entre os estados com alta detecção em menores de 15 anos, sinal de transmissão recente.",
@@ -194,11 +311,37 @@
     "verificado": false
   },
   {
+    "uf": "PA",
+    "titulo": "Rebeldes em nome do imperador",
+    "texto": "Em 7 de janeiro de 1835, os cabanos tomaram Belém e aclamaram Félix Clemente Malcher para governar o Grão-Pará — em nome do menino Pedro II, durante sua menoridade. A bandeira dos revoltosos de janeiro era “morte aos portugueses e aos maçons”. Os cabanos se chamavam “patriotas”, mas, segundo a historiadora Magda Ricci, ser patriota não era necessariamente sinônimo de ser brasileiro.",
+    "periodo": "1835",
+    "pergunta": "Uma revolta pode ser contra o governo e, ao mesmo tempo, a favor do imperador? O que significava ser “patriota” na Amazônia de 1835?",
+    "fonte": {
+      "nome": "Magda Ricci — Revista Tempo",
+      "ano": "2007",
+      "url": "https://www.scielo.br/j/tem/a/ZX5z5skg9g7YyC47qtn533N/?lang=pt"
+    },
+    "verificado": false
+  },
+  {
     "uf": "PB",
     "titulo": "O fim do cambão",
     "texto": "Nos anos 1960, a Liga Camponesa de Sapé (PB) lutava pelo fim do “cambão”: dias de trabalho gratuito que camponeses eram obrigados a dar ao dono da terra. Seu líder, João Pedro Teixeira, foi assassinado em 2 de abril de 1962, numa emboscada na estrada entre Café do Vento e Sapé, quando voltava de João Pessoa. Um dos executores acusou Agnaldo Veloso Borges de ser o mandante. A pesquisa aponta um sentimento de impunidade em torno do crime.",
     "periodo": "1962",
     "pergunta": "O “cambão” lembra que formas de trabalho não pago continuaram depois da abolição. Que outras formas de trabalho forçado você conhece no Brasil de hoje?",
+    "fonte": {
+      "nome": "Juliana Ferreira Alves — Dissertação de Mestrado em História, UFPB",
+      "ano": "2019",
+      "url": "https://repositorio.ufpb.br/jspui/bitstream/123456789/19966/1/JulianaFerreiraAlves_Dissert.pdf"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "PB",
+    "titulo": "A viúva que assumiu a luta",
+    "texto": "Diante do corpo do marido, João Pedro Teixeira, Elizabeth Teixeira jurou continuar sua luta e passou a comandar a Liga Camponesa de Sapé (PB). Com o golpe de 1964, o filme “Cabra Marcado para Morrer” foi interrompido e pessoas da direção e do elenco foram perseguidas. Elizabeth sofreu ameaças e prisões, entrou na clandestinidade e teve os filhos separados entre parentes. No documentário lançado em 1984, os filhos relembram a infância longe da mãe e dos irmãos.",
+    "periodo": "1962–1984",
+    "pergunta": "Que preço pagaram as famílias de quem lutava por terra no Brasil? Por que a história de mulheres como Elizabeth demorou tanto a ser contada?",
     "fonte": {
       "nome": "Juliana Ferreira Alves — Dissertação de Mestrado em História, UFPB",
       "ano": "2019",
@@ -272,6 +415,31 @@
     "verificado": false
   },
   {
+    "uf": "RN",
+    "titulo": "Indígenas no Rio Grande do Norte",
+    "texto": "Entre 2010 e 2022, a população indígena do Rio Grande do Norte cresceu 351,4% — a maior variação entre todas as Unidades da Federação no Censo do IBGE. A média nacional foi de 89,0%. No mesmo período, a população preta do estado aumentou 82,3%. O total de indígenas inclui quem respondeu “sim” à pergunta “você se considera indígena?”, aplicada de forma ampliada em 2022.",
+    "periodo": "2010–2022",
+    "pergunta": "Muita gente acha que não existem indígenas no Nordeste litorâneo. O que esses números dizem sobre essa ideia? O que leva alguém a se declarar indígena?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "RN",
+    "titulo": "O capitão do mato cercado",
+    "texto": "Em Mossoró, o capitão do mato Lacerda, vindo de Piancó, recapturou um casal em fuga, Estevam e Merencia, e os prendeu num armazém. Avisado, o Clube dos Spartacus — formado sobretudo por ex-escravizados — foi às 5 horas da manhã, fardado e armado, até o armazém e exigiu a libertação dos dois. A multidão se juntou. Diretores da Libertadora Mossoroense intervieram, e o casal foi liberado por meios legais, com o capitão indenizado.",
+    "pergunta": "Por que a libertação precisou de “meios legais” e indenização ao capitão do mato, mesmo com o povo nas ruas? Quem a lei protegia?",
+    "fonte": {
+      "nome": "Costa e Falcão (orgs.) — E-book “30 de Setembro: por uma história da libertação” (UERN)",
+      "ano": "2024",
+      "url": "https://portal.uern.br/wp-content/uploads/sites/14/2024/09/E-book-30-de-Setembro-por-uma-historia-da-libertacao.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "RS",
     "titulo": "O charque era feito por escravizados",
     "texto": "A economia do charque em Pelotas (RS) dependia do trabalho escravizado. Em 1832, a Câmara de Pelotas afirmava que o distrito tinha “mais de quatro mil escravos” reunidos nas charqueadas e temia que emissários do “Estado vizinho” os levassem à revolta. Entre 1809 e 1825, segundo registros analisados por historiadores, 95% dos 6.984 cativos que entraram no Rio Grande do Sul eram africanos.",
@@ -287,13 +455,26 @@
   {
     "uf": "RO",
     "titulo": "A ferrovia que não valeu a pena",
-    "texto": "A Estrada de Ferro Madeira-Mamoré foi construída de 1907 a 1912 para ligar Porto Velho a Guajará-Mirim. Morreram tantos trabalhadores de malária, beribéri e outras doenças que a obra não justificou o investimento: a borracha brasileira já perdia mercado para os seringais da Ásia. Na época, dizia-se que cada dormente assentado custara a vida de um operário. Entre os trabalhadores havia norte-americanos, bolivianos e cearenses expulsos pela seca. A ferrovia foi desativada em 1972.",
+    "texto": "A Estrada de Ferro Madeira-Mamoré foi construída de 1907 a 1912 para ligar Porto Velho a Guajará-Mirim. Segundo os custos apresentados pela própria empresa ao governo, citados por pesquisadores da Fiocruz, dos 21.817 trabalhadores contratados estima-se que 6.208 morreram — sobretudo de malária, beribéri e outras doenças. A obra não justificou o investimento: a borracha brasileira já perdia mercado para a Ásia. Na época, dizia-se que cada dormente custara a vida de um operário.",
     "periodo": "1907–1912",
-    "pergunta": "A frase “uma vida por dormente” é um dado ou uma lenda? Por que é tão difícil saber quantas pessoas morreram em grandes obras como essa?",
+    "pergunta": "A própria empresa calculou os mortos. Que interesses podem influenciar uma contagem assim? E a frase “uma vida por dormente” é dado ou lenda?",
     "fonte": {
-      "nome": "Observatório História e Saúde — Casa de Oswaldo Cruz/Fiocruz",
+      "nome": "Cristiane d’Avila — Observatório História e Saúde (COC/Fiocruz)",
       "ano": "2023",
       "url": "https://ohs.coc.fiocruz.br/posts_ohs/o-avanco-sobre-a-amazonia-exploracao-economica-e-doencas/"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "RO",
+    "titulo": "Um estado de migrantes",
+    "texto": "No Censo de 1980, 40,7% dos moradores de Rondônia não tinham nascido no estado. Entre 1950 e 2000, a densidade demográfica passou de 0,15 para 5,8 habitantes por km² — quase 40 vezes mais. Segundo estudo publicado pelo Ministério da Saúde, as áreas de maior risco de hanseníase na Amazônia coincidiam com projetos de assentamento e polos agropecuários, por onde também circulavam garimpeiros em busca de ouro e cassiterita.",
+    "periodo": "1950–2000",
+    "pergunta": "O que acontece com a saúde de uma região quando sua população cresce tão rápido, vinda de tantos lugares diferentes?",
+    "fonte": {
+      "nome": "Penna, Gross, Rocha e Penna — Saúde Brasil 2008 (Ministério da Saúde)",
+      "ano": "TODO: verificar",
+      "url": "https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content"
     },
     "verificado": false
   },
@@ -303,6 +484,19 @@
     "texto": "Em Roraima, 15,4% da população é indígena — a maior proporção entre todas as Unidades da Federação, segundo o Censo 2022 do IBGE. Em seguida vêm Amazonas (12,5%) e Mato Grosso do Sul (4,2%). No outro extremo, Rio de Janeiro e São Paulo têm apenas 0,1% de população indígena. No Brasil, são 1.694.836 indígenas, 0,8% da população.",
     "periodo": "2022",
     "pergunta": "Muita gente imagina os povos indígenas como parte do passado do Brasil. O que esses números dizem sobre o presente?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "RR",
+    "titulo": "O estado que mais cresceu",
+    "texto": "Entre 2010 e 2022, a população de Roraima cresceu 41,3% — a maior variação entre todas as Unidades da Federação no Censo, contra 6,5% no Brasil. No mesmo período, a população preta do estado aumentou 86,6% e a indígena, 74,7%. Roraima também tem a maior proporção de indígenas do país: 15,4% dos moradores.",
+    "periodo": "2010–2022",
+    "pergunta": "O que pode fazer a população de um estado crescer seis vezes mais rápido que a do país? Que perguntas você faria para investigar isso?",
     "fonte": {
       "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
       "ano": "2023",
@@ -350,6 +544,19 @@
     "verificado": false
   },
   {
+    "uf": "SE",
+    "titulo": "Cabeça em troca de promoção",
+    "texto": "No conflito entre cangaceiros e volantes (tropas policiais), cortar cabeças era prática de um lado só: dos soldados. Segundo o historiador José Ferreira Júnior, cangaceiros cometiam crueldades como castrações e marcas com ferro em brasa, mas a historiografia não conhece casos de cangaceiros decapitando vítimas. Zé Rufino, da Polícia Militar baiana, é tido como o maior cortador de cabeças de cangaceiros e teria feito um acordo: cada cabeça apresentada valia uma promoção.",
+    "periodo": "1922–1938",
+    "pergunta": "Por que a imagem do cangaceiro violento ficou mais conhecida que a da violência das forças do Estado? O que é diferente quando quem pratica a violência é o próprio Estado?",
+    "fonte": {
+      "nome": "José Ferreira Júnior — Ponta de Lança (UFS)",
+      "ano": "2023",
+      "url": "https://periodicos.ufs.br/pontadelanca/article/download/19549/14977"
+    },
+    "verificado": false
+  },
+  {
     "uf": "TO",
     "titulo": "Guias à força",
     "texto": "Na Guerrilha do Araguaia (combates de 1972 a 1975), a repressão se concentrou em Marabá (PA), em Xambioá — então em Goiás, hoje no Tocantins — e em Imperatriz (MA). Moradores com qualquer relação com os guerrilheiros eram tratados como simpatizantes. Mateiros da região foram contratados como guias com a promessa de receber terras do INCRA; vários foram obrigados a trabalhar para o Exército, inclusive após sessões de tortura. Escavações em Xambioá e no sul do Pará ajudam a investigar como as vítimas morreram.",
@@ -359,6 +566,19 @@
       "nome": "Durbens Martins Nascimento — Dissertação de Mestrado, NAEA/UFPA",
       "ano": "2000",
       "url": "https://repositorio.ufpa.br/jspui/bitstream/2011/2458/1/Dissertacao_GuerrilhaAraguaiaPaulistas.pdf"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "TO",
+    "titulo": "O terceiro estado mais preto do país",
+    "texto": "Segundo o Censo 2022, o Tocantins tem a terceira maior proporção de pessoas pretas do país: 13,2% dos moradores. Fica atrás apenas da Bahia (22,4%) e do Rio de Janeiro (16,2%). Entre 2010 e 2022, a população preta do estado cresceu 58,0%. As menores proporções estão em Santa Catarina (4,1%), no Paraná (4,3%) e no Amazonas (4,9%).",
+    "periodo": "2022",
+    "pergunta": "Você imaginava o Tocantins entre os estados com mais pessoas pretas? De onde vem a nossa imagem de onde vive a população negra no Brasil?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
     "verificado": false
   }
