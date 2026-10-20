@@ -42,14 +42,13 @@ Cada entrada de `public/data/curiosidades.json` segue o schema de `src/types.ts`
 
 No site publicado, entradas não verificadas aparecem como **"Conteúdo em curadoria"**. No modo de desenvolvimento, elas aparecem com o aviso "não verificado" para revisão.
 
+As 28 entradas foram pesquisadas conforme a seção 7.1 do `CLAUDE.md`. O link e o trecho de cada fonte estão em [`docs/EVIDENCIAS.md`](docs/EVIDENCIAS.md), que tem uma lista de conferência no topo.
+
 Regras completas: seção 7 do [`CLAUDE.md`](CLAUDE.md).
 
 ## Mapa
 
-O mapa deve ser gerado a partir da API de malhas do IBGE, com a divisão por UF. Para o código funcionar, cada estado no SVG precisa:
-
-- ser um elemento `<path>` (ou `<g>`) com o atributo `data-uf="SIGLA"` (ex.: `data-uf="PR"`);
-- ter a origem registrada em um comentário no topo do arquivo.
+`public/brasil.svg` vem da API de Malhas do IBGE (divisão por UF). A origem está registrada em um comentário no topo do arquivo. Cada estado é um `<path>` com `data-uf="SIGLA"`.
 
 ## Privacidade
 

@@ -4,6 +4,42 @@ Para cada entrada de `public/data/curiosidades.json`: a URL aberta durante a pes
 
 Como conferir: abra a URL, localize o trecho (Ctrl+F) e confirme que o texto da curiosidade não diz nada além do que o trecho diz.
 
+## Lista de conferência
+
+Depois de conferir uma entrada, marque `[x]` aqui e troque `"verificado": false` por `true` em `public/data/curiosidades.json`. Ou avise o agente quais UFs foram aprovadas.
+
+| UF | Título | Atenção | Conferido |
+|---|---|---|---|
+| BR | A fome tem endereço e cor | Série de 2023 pode ter sido revisada pelo IBGE | [ ] |
+| AC | Nem revolução, nem acreana? | — | [ ] |
+| AL | Destruir Palmares dava prêmio | Localização em AL vem de outra fonte | [ ] |
+| AP | Desterrados no Oiapoque | Número de presos em disputa | [ ] |
+| AM | Os soldados esquecidos da borracha | Artigo trata da Amazônia em geral | [ ] |
+| BA | Quilombo não é só passado | `ano` TODO | [ ] |
+| CE | Campos de concentração no sertão | — | [ ] |
+| DF | Quantos morreram na construção de Brasília? | `ano` TODO; dado em disputa | [ ] |
+| ES | A revolta no dia da festa | Fonte é TCC (sem revisão por pares) | [ ] |
+| GO | O brilho azul do césio-137 | — | [ ] |
+| MA | Uma cidade quilombola | `ano` TODO | [ ] |
+| MT | Uma doença antiga na fronteira nova | Ministério da Saúde/Fiocruz (fora da lista); `ano`: busca indica 2009, não conferido | [ ] |
+| MS | Confinados em 60 hectares | — | [ ] |
+| MG | O “trem de doido” de Barbacena | — | [ ] |
+| PA | A revolução que dizimou a Amazônia | Total de mortos em disputa | [ ] |
+| PB | O fim do cambão | — | [ ] |
+| PR | O açoite que a lei manteve | Projeto de extensão UFPR; `ano` TODO | [ ] |
+| PE | “Liga” era apelido | — | [ ] |
+| PI | Quando o dono era o Estado | Conferir fim do período (1871) | [ ] |
+| RJ | O cais que ficou enterrado | Número de desembarcados deixado de fora (disputa) | [ ] |
+| RN | Os libertos que libertavam | E-book didático PIBID | [ ] |
+| RS | O charque era feito por escravizados | — | [ ] |
+| RO | A ferrovia que não valeu a pena | Observatório Fiocruz (fora da lista) | [ ] |
+| RR | O estado mais indígena do país | — | [ ] |
+| SC | Os “pelados” contra a ferrovia | Sem total de mortos (disputa) | [ ] |
+| SP | 111 mortos no Carandiru | — | [ ] |
+| SE | Cabeças em exposição | Data do sepultamento em disputa (1969 × 1971) | [ ] |
+| TO | Guias à força | Sem total de mortos (disputa) | [ ] |
+
+
 ## BR — A fome tem endereço e cor
 
 Fonte: IBGE, *Pesquisa Nacional por Amostra de Domicílios Contínua — Segurança alimentar 2023* (© IBGE 2024). PDF: https://biblioteca.ibge.gov.br/visualizacao/livros/liv102084.pdf
@@ -200,7 +236,7 @@ Fonte: SOUSA, Nair Heloisa Bicalho de. "O massacre da Pacheco Fernandes Dantas e
 
 ## MT — Uma doença antiga na fronteira nova
 
-Fonte: PENNA, Maria Lucia Fernandes; GROSS, Maria Aparecida de Faria; ROCHA, Margarida Cristiana Napoleão; PENNA, Gerson Oliveira. "Comportamento epidemiológico da hanseníase no Brasil". Capítulo 12 de *Saúde Brasil 2008: 20 anos de Sistema Único de Saúde (SUS) no Brasil*, Secretaria de Vigilância em Saúde/Ministério da Saúde. PDF no repositório Arca/Fiocruz: https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content — o ano de publicação não aparece no trecho (o capítulo analisa 1980-2009), então o campo `ano` ficou como TODO.
+Fonte: PENNA, Maria Lucia Fernandes; GROSS, Maria Aparecida de Faria; ROCHA, Margarida Cristiana Napoleão; PENNA, Gerson Oliveira. "Comportamento epidemiológico da hanseníase no Brasil". Capítulo 12 de *Saúde Brasil 2008: 20 anos de Sistema Único de Saúde (SUS) no Brasil*, Secretaria de Vigilância em Saúde/Ministério da Saúde. PDF no repositório Arca/Fiocruz: https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content — o ano de publicação não aparece no trecho (o capítulo analisa 1980-2009), então o campo `ano` ficou como TODO. Uma busca indica que o livro *Saúde Brasil 2008* foi impresso em 2009 (Ministério da Saúde, ISBN 978-85-334-1600-0), mas o PDF oficial (https://bvsms.saude.gov.br/bvs/publicacoes/saude_brasil_2008.pdf) não abriu no ambiente do agente: confira antes de preencher.
 
 - "As áreas dos clusters na região Amazônica coincidem com áreas de projetos de assentamento e de polos de desenvolvimento agropecuário. No censo de 1980, não haviam nascido no estado de residência 35,5% da população no Mato Grosso e 40,7% em Rondônia. A densidade demográfica passou de 0,15 habitante por km2, em 1950, para 5,8 habitantes/km2 em 2000, em Rondônia; e de 0,42 para 2,47, nos mesmos anos, em Mato Grosso [...]"
 - "Apresentam taxa de detecção, em menores de 15 anos, maior do que dez casos por 100 mil habitantes os estados de Rondônia, Pará, Tocantins, Maranhão, Piauí, Pernambuco e Mato Grosso, refletindo transmissão recente do bacilo."
