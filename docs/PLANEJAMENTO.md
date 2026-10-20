@@ -22,14 +22,14 @@ Documento de referência: [`CLAUDE.md`](../CLAUDE.md).
 | 3. Painel | Título, período, texto, pergunta, fonte visível, botão Copiar | concluída |
 | 4. Visitados | `storage.ts` como único acesso ao localStorage; marcação com ícone e texto, não só cor | concluída |
 | 5. Visual | CSS puro, mobile-first, 360 px, contraste AA | concluída — testado em 360 px |
-| 6. Deploy | GitHub Actions → GitHub Pages | workflow pronto; ativar Pages no repositório |
+| 6. Deploy | GitHub Actions → GitHub Pages | concluída — https://luiz12-dev.github.io/Projeto-Estudos-Brasil/ |
 | 7. Curadoria | Preencher as 28 entradas com fonte e `verificado: true` | **humana — Luiz** |
 
 ## Pendências
 
 - [ ] **SVG do mapa:** o ambiente de desenvolvimento não alcança `servicodados.ibge.gov.br`. Obter o SVG e normalizá-lo (ver `public/brasil.svg` e o README).
 - [ ] **Curadoria:** 28 entradas em `public/data/curiosidades.json`.
-- [ ] **GitHub Pages:** em *Settings → Pages*, escolher *Source: GitHub Actions*.
+- [x] **GitHub Pages:** ativado com *Source: GitHub Actions*.
 
 ## Checklist "Pronto quando" (seção 9)
 
