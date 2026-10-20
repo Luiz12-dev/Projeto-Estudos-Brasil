@@ -36,10 +36,10 @@ Documento de referência: [`CLAUDE.md`](../CLAUDE.md).
 
 ## Checklist "Pronto quando" (seção 9)
 
-- [ ] Carrega em menos de 3 s em 4G
-- [ ] Funciona em tela de 360 px de largura
-- [ ] Todas as 28 entradas com `verificado: true`
-- [ ] Toda URL de fonte abre e corresponde ao fato afirmado
-- [ ] Navegável por teclado, com lista alternativa ao mapa
-- [ ] `npm run build` sem erro e sem warning de TypeScript
-- [ ] Zero dependências de runtime
+- [x] Carrega em menos de 3 s em 4G — site publicado medido com perfil "Slow 4G" (1,6 Mbps, 150 ms): mapa interativo em 1,9 s, 40 KB transferidos (2026-10-20)
+- [x] Funciona em tela de 360 px de largura — testado sem rolagem horizontal
+- [ ] Todas as 28 entradas com `verificado: true` — **depende da conferência humana**
+- [ ] Toda URL de fonte abre e corresponde ao fato afirmado — as 28 URLs foram abertas na pesquisa; a correspondência é parte da conferência humana
+- [x] Navegável por teclado, com lista alternativa ao mapa — Tab/Enter/Espaço no mapa e na lista
+- [x] `npm run build` sem erro e sem warning de TypeScript
+- [x] Zero dependências de runtime — só `vite` e `typescript` em devDependencies
