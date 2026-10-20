@@ -565,3 +565,11 @@ Fonte: o mesmo artigo de Suzane de Alencar Vieira (*Estudos Avançados*, 2013). 
 - "Oito anos mais tarde, no ano 1995, seria criado um novo município para abrigar o lixo radioativo que carregaria em sua bandeira o trevo quinado amarelo, símbolo da radioatividade. O depósito de rejeitos instalar-se-ia definitivamente nas adjacências do pequeno povoado emancipado como município de Abadia de Goiás."
 
 Atenção: o artigo diz que o município foi criado "para abrigar o lixo radioativo". O texto não repete essa motivação. Confira se quer incluí-la.
+
+## MT — Primeiro lugar que ninguém quer
+
+Fonte: TAVARES, Aline Menezes Rossi et al. "Perfil epidemiológico da hanseníase no estado de Mato Grosso: estudo descritivo". *Einstein (São Paulo)*, 19, 2021. https://doi.org/10.31744/einstein_journal/2021AO5622 — URL usada: https://www.scielo.br/j/eins/a/sFYSvJxNsH3MF3W4ydfzSnd/?lang=pt
+
+- "O Brasil destaca-se como o segundo país em número de casos absolutos. Há alguns anos, o estado do Mato Grosso (MT), Brasil apresenta nível hiperendêmico para casos de hanseníase, ocupando a primeira posição, com as maiores taxas de prevalência e incidência da doença no país."
+- Resumo: "No período em estudo notificaram-se 11.388 casos no estado, com maior prevalência no ano de 2017." Pela conclusão, o período é 2014 a 2017: "Dos indivíduos notificados com hanseníase entre 2014 a 2017 [...]"
+- "[...] sistema este que, em 2014, apresentou fragilidades, como a subnotificação, resultando na notificação de apenas três casos em todo o estado de Mato Grosso."
