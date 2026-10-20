@@ -661,3 +661,12 @@ Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da popu
 - "Maior crescimento de pardos" e "segunda maior variação total": comparei as colunas de todas as UFs da Tabela 3. Na parda, SC (88,6%) vem antes de RS (41,3%); no total, SC (21,8%) só fica atrás de RR (41,3%).
 
 A migração é mencionada só na pergunta: a fonte não explica a causa.
+
+## SC — Da guerra às serrarias
+
+Fonte: a mesma apresentação do dossiê usada na primeira entrada de SC (*Revista Esboços*, UFSC, 2012). PDF: https://periodicos.ufsc.br/index.php/esbocos/article/download/2175-7976.2012v19n28p1/25643/104106
+
+Resumo, feito na apresentação, do artigo de Alexandre Assis Tomporoski:
+- "[...] analisa a materialidade da existência e a sociabilidade dos sertanejos no periodo anterior à penetração de forças capitalistas na região, através de práticas como o pixirum, processo de trabalho coletivo e gerador de solidariedade. Em um segundo momento, o autor destaca o advento das empresas estrangeiras na região e a abrupta mudança no estilo de vida das populações locais, representada pela introdução da Estrada de Ferro São Paulo – Rio Grande e pela implantação das serrarias pertencentes à Southern Brazil Lumber and Colonization Company [...] Em uma terceira parte do artigo, Tomporoski estuda o período pós guerra, quando parte dos remanescentes torna-se operário nas serrarias, desenvolvendo greves nos anos de 1917 e 1919. Acredita o autor que exista uma relação de continuidade na resistência desenvolvida durante e após o movimento por parte dos trabalhadores."
+
+Atenção: é o resumo de outro artigo do mesmo dossiê. O ideal seria trocar a fonte pelo artigo de Tomporoski, que não foi aberto.
