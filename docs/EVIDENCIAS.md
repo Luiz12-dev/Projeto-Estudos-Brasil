@@ -470,3 +470,14 @@ Fonte: FEITOZA, Ilnar Fernandes. "Lutas e enfrentamentos das comunidades quilomb
 - "A remoção para agrovilas impôs prejuízos irreparáveis: imposição de novas condutas de vida, alteração da vizinhança, separação dos parentes, além da disponibilização de terras inférteis para agricultura e dificuldade de acesso aos locais de pesca, entre outros."
 
 O termo "famílias quilombolas" segue o título e o tema da resenha ("comunidades quilombolas de Alcântara"). Atenção: é uma resenha, que resume o livro de Lopes.
+
+## PB — A viúva que assumiu a luta
+
+Fonte: a mesma dissertação de Juliana Ferreira Alves usada na primeira entrada da PB (UFPB, 2019). PDF: https://repositorio.ufpb.br/jspui/bitstream/123456789/19966/1/JulianaFerreiraAlves_Dissert.pdf
+
+- Fala de Elizabeth citada na dissertação: "Mas quando eu vi ali, estraçalhado de bala, eu olhei bem para ele e disse: - João Pedro, a partir de hoje, eu marcharei na tua luta. [...] Mas eu te juro, João Pedro, eu darei continuidade à tua luta!" (ELIZABETH TEIXEIRA apud BANDEIRA et al., 2012, p. 89)
+- "[...] a Liga Camponesa de Sapé, após o assassinato do seu líder João Pedro Teixeira, adotou uma nova postura sob comando de Elizabeth Teixeira [...]"
+- "[...] ameaças, ofensas verbais ou prisões realizadas por militares e polícias contra ela [...] a separação forçada da sua prole (que ficaram para ser distribuídos entre os parentes), a fuga e entrada na clandestinidade [...] ao rememorarem no documentário Cabra Marcado para Morrer, a infância que sofreram, sendo órfão de pai, longe da mãe e distantes dos irmãos"
+- "[...] a interrupção do filme Cabra Marcado para Morrer, em 1964, aquele taxado de subversivo, era seguida também pela perseguição das pessoas que fizeram parte da direção e do elenco. No documentário de 1984 [...]"
+
+A dissertação também menciona o suicídio da filha mais velha e um atentado contra um filho. Esses fatos ficaram fora do texto por serem muito pesados para a atividade, mas podem ser acrescentados.
