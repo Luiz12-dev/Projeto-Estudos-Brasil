@@ -738,3 +738,11 @@ Fonte: a mesma resenha usada na segunda entrada do MA (*Rev. Pós Ciênc. Soc.*,
 - "[...] destacando a inexistência de estudos de impacto ambiental até o presente momento. O texto relembra ainda, que não houve êxito nas tentativas de lançamento pelo CLA e que na última, ocorrida em 2003, o foguete explodiu no momento do lançamento, matando 21 cientistas."
 
 "Associação estadual" resume o nome "Associação das Comunidades Negras Rurais Quilombolas do Maranhão". "Até a publicação" traduz "até o presente momento" do livro resenhado (2020).
+
+## RJ — Preto, sim; indígena, quase nada
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- "[...] o destaque vai para a Bahia, com 22,4%, seguida do Rio de Janeiro, com 16,2% [...]"
+- "Rio de Janeiro e São Paulo apresentavam o menor peso relativo de população indígena, ambas com 0,1%."
+- Tabela 3, colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Rio de Janeiro 0,4% -11,1% 31,1% -82,2% 6,3% 6,9%".

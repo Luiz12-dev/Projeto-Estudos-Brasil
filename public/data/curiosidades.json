@@ -622,6 +622,19 @@
     "verificado": false
   },
   {
+    "uf": "RJ",
+    "titulo": "Preto, sim; indígena, quase nada",
+    "texto": "Segundo o Censo 2022, o Rio de Janeiro tem a segunda maior proporção de pessoas pretas do país (16,2%), atrás só da Bahia. Ao mesmo tempo, o Rio e São Paulo têm a menor proporção de indígenas: 0,1% da população cada. Entre 2010 e 2022, a população preta do estado cresceu 31,1%, enquanto a branca caiu 11,1%.",
+    "periodo": "2022",
+    "pergunta": "Por que há tão poucas pessoas que se declaram indígenas no Rio hoje? E por que a população negra é tão grande no estado?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "RN",
     "titulo": "Os libertos que libertavam",
     "texto": "Em 30 de setembro de 1883, Mossoró (RN) declarou oficialmente libertos todos os seus escravizados. A história costuma destacar a elite da Sociedade Libertadora Mossoroense, mas ela não agiu sozinha. O pouco conhecido Clube dos Spartacus, formado principalmente por ex-escravizados e presidido por Rafael Mossoroense da Glória, ajudava em fugas, enfrentava capitães do mato e levava libertos e fugitivos em comboios até o Ceará.",
