@@ -680,3 +680,14 @@ Fonte: MONSMA, Karl. "Vantagens de imigrantes e desvantagens de negros: emprego,
 - "Entretanto, os resultados desta pesquisa mostram que os negros não eram excluídos do colonato. [...] esta também era a categoria ocupacional mais comum entre chefes de família negros. Eram colonos, em 1907, 43,5% das famílias com chefe masculino preto e 31,3% das com chefe mulato."
 - Resumo em inglês: "Meanwhile, Blacks were almost completely absent from the elites, and literacy rates were extremely low among Blacks, including in the new generation, born after Abolition."
 - "[...] o governo paulista só pagava passagens para famílias de agricultores - ou para aqueles que se diziam agricultores - [...]" (sobre os imigrantes)
+
+## PR — O professor escravizado
+
+Fonte: a mesma página do Projeto Afro Curitiba (UFPR) usada na primeira entrada do PR, seção "II – Cadeia". https://afrocuritiba.ufpr.br/praca-borges-de-macedo/
+
+- "[...] no final de 1878 e no ano de 1879, algumas salas da cadeia vinham sendo reformadas e uma delas deveria servir ao funcionamento de uma escola para os presos."
+- "Em setembro de 1879, a escola da cadeia foi inaugurada. [...] Para exercer a função de professor, foi escolhido um dos detentos, considerado pelo chefe de polícia o 'mais habilitado frente aos outros'. Tratava-se de Pedro Antonio, um dos presos mais antigos da cadeia que, segundo a autoridade, era um autodidata que havia aprendido a manejar as letras sozinho. Estava ali desde 1853 [...] Naquele ano Pedro Antonio tinha 19 alunos [...]"
+- "É interessante registrar que entre os detentos, um homem escravo era o que tinha as melhores condições de letramento para exercer a função de professor [...]"
+- "Em 1880, quando visitou a escola, o Presidente da Província – Souza Dantas Filho – considerou que não era adequado que as aulas da cadeia fossem regidas por um escravo que, a seu ver, não possuía a 'força moral necessária a um mestre'. Pedro Antonio foi então demitido da função, e em seu lugar foi nomeado um professor público. Sob a regência desse professor, ao menos no primeiro ano, o número de alunos na escola ficou reduzida à quase a metade. Quanto a Pedro Antonio, sabemos que fugiu da prisão em 1881 [...]"
+
+A página cita como fonte a dissertação de Noemi Santos da Silva ("O 'batismo na instrução' [...]"), que não foi aberta.
