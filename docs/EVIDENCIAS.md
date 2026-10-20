@@ -546,3 +546,11 @@ Fonte: FERREIRA, Simone Raquel Batista. "'Donos do lugar': a geo-grafia negra e 
 
 - "O 'imprensamento' trouxe a falta de espaço para a reprodução da vida e escassas alternativas de trabalho e sobrevivência. Dentre elas, a coleta dos resíduos de eucalipto não aproveitados pelas empresas – o 'facho' – vendidos como carvão para siderurgias ou como lenha para olarias."
 - "Essa atividade era proibida pela empresa – que dispunha de polícia particular para vigiar seus plantios contra a retirada de lenha ou qualquer outro produto pelos moradores locais – e se tornou o principal fator de conflito com as comunidades negras. Esse conflito adquiriu destaque a partir do ano de 2003, quando diversas pessoas foram presas enquanto coletavam os resíduos de eucalipto numa área recém-cortada pela Aracruz Celulose. As comunidades engendraram um enfrentamento à situação, exigindo a soltura das pessoas presas [...] Na ocasião, disseminados pelo Sapê do Norte, vários focos de incêndio queimaram talhões de eucalipto da empresa."
+
+## GO — Barrados por serem de Goiânia
+
+Fonte: o mesmo artigo de Suzane de Alencar Vieira usado na primeira entrada de GO (*Estudos Avançados*, 2013). URL: https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt
+
+- "No Estádio Olímpico, milhares de pessoas atormentadas pelas suspeitas de contaminação alongavam as filas para exames dosimétricos. Outras pessoas se encaminhavam ao Estádio a fim de solicitar atestados de descontaminação para fazer viagens para fora do Estado de Goiás. Em outros Estados, os goianienses eram barrados em hotéis, restaurantes e aeroportos, e veículos com placa de Goiânia eram depredados. Naqueles dias, tudo o que fosse originário do Estado de Goiás era tido como contaminado."
+
+O estádio é "o Estádio Olímpico", em Goiânia, onde as vítimas foram abrigadas ("[...] abrigados em barracas plásticas no Estádio Olímpico").

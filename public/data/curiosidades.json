@@ -286,6 +286,19 @@
     "verificado": false
   },
   {
+    "uf": "GO",
+    "titulo": "Barrados por serem de Goiânia",
+    "texto": "Depois do acidente com o césio-137, em 1987, milhares de pessoas fizeram fila no Estádio Olímpico de Goiânia para exames de contaminação. Muitas pediam atestados de descontaminação para poder viajar. Em outros estados, goianienses eram barrados em hotéis, restaurantes e aeroportos, e veículos com placa de Goiânia eram depredados. Naqueles dias, tudo o que vinha de Goiás era tratado como contaminado.",
+    "periodo": "1987",
+    "pergunta": "Por que o medo se voltou contra as vítimas, e não contra os responsáveis pelo abandono da cápsula? Você conhece outros casos em que uma doença ou desastre gerou preconceito?",
+    "fonte": {
+      "nome": "Suzane de Alencar Vieira — Estudos Avançados",
+      "ano": "2013",
+      "url": "https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt"
+    },
+    "verificado": false
+  },
+  {
     "uf": "MA",
     "titulo": "Uma cidade quilombola",
     "texto": "Em Alcântara, no Maranhão, 15.616 dos 18.466 habitantes — 84,57% — são quilombolas, segundo o Censo 2022. O Maranhão tem a segunda maior população quilombola do país, com 269.074 pessoas. Somados, Maranhão e Bahia reúnem 50,16% de todos os quilombolas do Brasil.",
