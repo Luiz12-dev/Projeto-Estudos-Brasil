@@ -402,6 +402,19 @@
     "verificado": false
   },
   {
+    "uf": "RR",
+    "titulo": "O estado que mais cresceu",
+    "texto": "Entre 2010 e 2022, a população de Roraima cresceu 41,3% — a maior variação entre todas as Unidades da Federação no Censo, contra 6,5% no Brasil. No mesmo período, a população preta do estado aumentou 86,6% e a indígena, 74,7%. Roraima também tem a maior proporção de indígenas do país: 15,4% dos moradores.",
+    "periodo": "2010–2022",
+    "pergunta": "O que pode fazer a população de um estado crescer seis vezes mais rápido que a do país? Que perguntas você faria para investigar isso?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "SC",
     "titulo": "Os “pelados” contra a ferrovia",
     "texto": "Entre 1912 e o início de 1916, o planalto e o meio-oeste catarinense e o sul do Paraná viveram a Guerra do Contestado. De um lado, os governos estaduais e federal, grandes fazendeiros e as empresas Southern Brazil Railway e Lumber and Colonization Company. Do outro, peões, agregados, tropeiros, ervateiros e pequenos sitiantes, que se chamavam “pelados”. A luta pela terra estava entre as causas, mas os sertanejos ficaram conhecidos como “fanáticos”.",

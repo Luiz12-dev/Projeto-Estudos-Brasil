@@ -414,3 +414,13 @@ Fonte: o mesmo capítulo de *Saúde Brasil 2008* usado na entrada do MT. PDF: ht
 - "As áreas dos clusters na região Amazônica coincidem com áreas de projetos de assentamento e de polos de desenvolvimento agropecuário. No censo de 1980, não haviam nascido no estado de residência 35,5% da população no Mato Grosso e 40,7% em Rondônia. A densidade demográfica passou de 0,15 habitante por km2, em 1950, para 5,8 habitantes/km2 em 2000, em Rondônia [...] Há, ainda, a circulação de garimpeiros, à procura de ouro e cassiterita, nas áreas desses clusters."
 
 "Quase 40 vezes" é conta minha: 5,8 ÷ 0,15 ≈ 38,7.
+
+## RR — O estado que mais cresceu
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- Tabela 3 (Variação 2010-2022), colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Brasil 6,5% -3,1% 42,3% -59,2% 11,9% 89,0%" e "Roraima 41,3% 39,3% 86,6% -81,8% 32,1% 74,7%".
+- "Maior variação entre todas as UFs": comparei a coluna Total de todas as UFs da Tabela 3. A seguinte é Santa Catarina, com 21,8%.
+- "[...] Roraima, com 15,4% de sua população residente indígena [...]"
+
+A publicação não explica a causa do crescimento, por isso a entrada não afirma nenhuma. "Seis vezes" na pergunta é conta minha: 41,3 ÷ 6,5 ≈ 6,4.
