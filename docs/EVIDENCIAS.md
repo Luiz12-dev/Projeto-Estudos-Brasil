@@ -746,3 +746,13 @@ Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da popu
 - "[...] o destaque vai para a Bahia, com 22,4%, seguida do Rio de Janeiro, com 16,2% [...]"
 - "Rio de Janeiro e São Paulo apresentavam o menor peso relativo de população indígena, ambas com 0,1%."
 - Tabela 3, colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Rio de Janeiro 0,4% -11,1% 31,1% -82,2% 6,3% 6,9%".
+
+## RS — O estado mais branco
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- "As três Unidades da Federação com maior peso relativo de população branca estavam localizadas na Região Sul. Eram elas: Rio Grande do Sul, com 78,4% de população branca [...]"
+- "Os três Estados da Região Sul apresentavam os menores pesos relativos da população parda, destacando-se o Rio Grande do Sul, com 14,7%, e Santa Catarina, com 19,2%, únicos abaixo de 30% de população parda."
+- Tabela 3, colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Rio Grande do Sul 1,8% -4,1% 19,3% -77,1% 41,3% 6,2%".
+
+A pergunta liga o dado às entradas sobre as charqueadas (mesmo recorte).

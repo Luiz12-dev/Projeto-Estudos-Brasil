@@ -699,6 +699,19 @@
     "verificado": false
   },
   {
+    "uf": "RS",
+    "titulo": "O estado mais branco",
+    "texto": "Segundo o Censo 2022, o Rio Grande do Sul é o estado com a maior proporção de pessoas brancas: 78,4%. É também onde há menos pessoas pardas (14,7%). Ainda assim, entre 2010 e 2022, a população parda do estado cresceu 41,3% e a preta, 19,3%, enquanto a branca caiu 4,1%.",
+    "periodo": "2022",
+    "pergunta": "Se o charque de Pelotas foi feito por milhares de escravizados, por que o Rio Grande do Sul é hoje o estado mais branco? Que perguntas isso levanta sobre imigração e sobre como as pessoas se declaram?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "RO",
     "titulo": "A ferrovia que não valeu a pena",
     "texto": "A Estrada de Ferro Madeira-Mamoré foi construída de 1907 a 1912 para ligar Porto Velho a Guajará-Mirim. Segundo os custos apresentados pela própria empresa ao governo, citados por pesquisadores da Fiocruz, dos 21.817 trabalhadores contratados estima-se que 6.208 morreram — sobretudo de malária, beribéri e outras doenças. A obra não justificou o investimento: a borracha brasileira já perdia mercado para a Ásia. Na época, dizia-se que cada dormente custara a vida de um operário.",
