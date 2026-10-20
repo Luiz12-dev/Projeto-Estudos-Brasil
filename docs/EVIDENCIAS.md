@@ -828,3 +828,14 @@ Fonte: o mesmo artigo de Carvalho e Lima usado na primeira entrada do PI (*Infor
 - "Teresina (em homenagem à imperatriz Teresa Cristina) e transferindo para esta última a sede do Governo e todas as repartições públicas."
 
 O nome Lourenço aparece duas vezes na lista da fonte; o texto o cita uma vez. O ano de 1850 é o início do recorte do artigo (1850-1871), e o trecho fala dos "primeiros trabalhadores".
+
+## SE — Três em cada quatro nasceram aqui
+
+Fonte: Portal UFS, "Entre 1800 e 1849, três em cada quatro escravos em Sergipe eram nascidos no Brasil, revela pesquisa", 02/06/2021. https://www.ufs.br/conteudo/67348-tres-em-cada-quatro-escravos-em-sergipe-eram-nascidos-no-brasil-entre-1800-e-1849-revela-pesquisa — notícia sobre artigo de Carlos Malaquias e Isabela Leite publicado na revista *Resgate* (Unicamp), que não foi aberto.
+
+- "O estudo analisou 885 inventários com informações de 7.052 escravos para a partilha (divisão de bens)."
+- "O estudo aponta que três em cada quatro escravos em Sergipe, entre 1800 e 1849, eram nascidos no Brasil."
+- "Quanto à idade, 46,63% eram jovens e adultos (13 e 49 anos), 37,45% crianças (0 e 12 anos) e 9,59% idosos (acima de 50 anos)."
+- "[...] e pela 'impossibilidade de importar negros diretamente da costa da África', uma vez que Sergipe não possuía porto para navios de trato transatlântico"
+- Fala de Malaquias: "O tráfico sempre esteve presente em Sergipe [...] sendo responsável por um a cada quatro escravos ou a cada cinco, a depender da década"
+- "[...] o caso dos quilombos volantes em Sergipe, que são escravos que fogem, não se afastam do território escravista e vivem circulando os antigos engenhos. [...] os fugitivos recebem apoio dos escravos, de quem ainda estava na senzala, como lugar para dormir, alimentos e equipamentos roubados da fazenda"
