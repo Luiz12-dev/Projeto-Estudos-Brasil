@@ -39,6 +39,7 @@ main { display: grid; gap: 1rem; }
   fill: var(--uf);
   stroke: var(--superficie);
   stroke-width: 1;
+  vector-effect: non-scaling-stroke; /* a malha do IBGE usa escala 0.0001 */
   cursor: pointer;
   outline: none;
 }

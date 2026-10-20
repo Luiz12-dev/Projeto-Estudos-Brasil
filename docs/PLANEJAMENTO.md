@@ -18,7 +18,7 @@ Documento de referência: [`CLAUDE.md`](../CLAUDE.md).
 |---|---|---|
 | 0. Base | Vite + TypeScript strict, sem framework; README, CLAUDE.md, planejamento | concluída |
 | 1. Dados | `types.ts` conforme o schema; `curiosidades.json` com 28 entradas TODO (26 estados, DF e BR) | concluída |
-| 2. Mapa | SVG inline com `aria-label` e teclado em cada UF; lista de estados como alternativa | código pronto; **SVG pendente** (ver Pendências) |
+| 2. Mapa | SVG inline com `aria-label` e teclado em cada UF; lista de estados como alternativa | concluída — malha do IBGE, testada em 360 px |
 | 3. Painel | Título, período, texto, pergunta, fonte visível, botão Copiar | concluída |
 | 4. Visitados | `storage.ts` como único acesso ao localStorage; marcação com ícone e texto, não só cor | concluída |
 | 5. Visual | CSS puro, mobile-first, 360 px, contraste AA | concluída — testado em 360 px |
@@ -27,7 +27,7 @@ Documento de referência: [`CLAUDE.md`](../CLAUDE.md).
 
 ## Pendências
 
-- [ ] **SVG do mapa:** o ambiente de desenvolvimento não alcança `servicodados.ibge.gov.br`. Obter o SVG e normalizá-lo (ver `public/brasil.svg` e o README).
+- [x] **SVG do mapa:** malha de UFs da API do IBGE, origem registrada no topo de `public/brasil.svg`.
 - [ ] **Curadoria:** 28 entradas em `public/data/curiosidades.json`.
 - [x] **GitHub Pages:** ativado com *Source: GitHub Actions*.
 
