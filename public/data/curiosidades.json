@@ -287,11 +287,11 @@
   {
     "uf": "RO",
     "titulo": "A ferrovia que não valeu a pena",
-    "texto": "A Estrada de Ferro Madeira-Mamoré foi construída de 1907 a 1912 para ligar Porto Velho a Guajará-Mirim. Morreram tantos trabalhadores de malária, beribéri e outras doenças que a obra não justificou o investimento: a borracha brasileira já perdia mercado para os seringais da Ásia. Na época, dizia-se que cada dormente assentado custara a vida de um operário. Entre os trabalhadores havia norte-americanos, bolivianos e cearenses expulsos pela seca. A ferrovia foi desativada em 1972.",
+    "texto": "A Estrada de Ferro Madeira-Mamoré foi construída de 1907 a 1912 para ligar Porto Velho a Guajará-Mirim. Segundo os custos apresentados pela própria empresa ao governo, citados por pesquisadores da Fiocruz, dos 21.817 trabalhadores contratados estima-se que 6.208 morreram — sobretudo de malária, beribéri e outras doenças. A obra não justificou o investimento: a borracha brasileira já perdia mercado para a Ásia. Na época, dizia-se que cada dormente custara a vida de um operário.",
     "periodo": "1907–1912",
-    "pergunta": "A frase “uma vida por dormente” é um dado ou uma lenda? Por que é tão difícil saber quantas pessoas morreram em grandes obras como essa?",
+    "pergunta": "A própria empresa calculou os mortos. Que interesses podem influenciar uma contagem assim? E a frase “uma vida por dormente” é dado ou lenda?",
     "fonte": {
-      "nome": "Observatório História e Saúde — Casa de Oswaldo Cruz/Fiocruz",
+      "nome": "Cristiane d’Avila — Observatório História e Saúde (COC/Fiocruz)",
       "ano": "2023",
       "url": "https://ohs.coc.fiocruz.br/posts_ohs/o-avanco-sobre-a-amazonia-exploracao-economica-e-doencas/"
     },

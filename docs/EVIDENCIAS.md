@@ -306,7 +306,10 @@ Fonte: Observatório História e Saúde (Casa de Oswaldo Cruz/Fiocruz), "O avan�
 - "Inaugurada em 1912, a ferrovia ligava Porto Velho a Guajará-Mirim [...] foram tantas as mortes por malária, beribéri e outras doenças tropicais durante sua construção, que a obra acabou não justificando o investimento, visto que a borracha brasileira já perdia mercado para os seringais da Ásia."
 - "[...] as condições de abandono dos operários recrutados para a construção da Madeira-Mamoré, entre norte-americanos, bolivianos e cearenses, estes últimos expulsos pela seca [...]"
 
-Dado em disputa: o número de mortos não está no texto. Buscas mostram estimativas muito diferentes ("mais de seis mil" em artigo da HCSM; 1.593 em outro; 6.208 sobre 21.817 contratados citado por um blog). Nenhuma delas foi conferida numa página aberta, por isso a pergunta trata a frase "uma vida por dormente" como lenda a discutir.
+- Citação de Jaime Benchimol e André Felipe Cândido da Silva na mesma página: "No mesmo ano, a Madeira Mamoré Railway apresentou ao governo os custos finais da construção da ferrovia, em dinheiro e vidas. Dos 21.817 trabalhadores contratados, estima-se o total de mortos em 6.208 pessoas."
+- Autoria da página: "Por Cristiane d'Avila em Café História".
+
+**Correção (2026-10-20):** na primeira versão, esta evidência dizia que o número de mortos não estava na página. Estava: ele aparece na citação acima, e o texto agora o informa, atribuindo a estimativa à própria empresa. Dado em disputa: buscas mostram outras estimativas ("mais de seis mil" em artigo da HCSM; 1.593 em outro). A pergunta trata a frase "uma vida por dormente" como lenda a discutir.
 
 ## RS — O charque era feito por escravizados
 
