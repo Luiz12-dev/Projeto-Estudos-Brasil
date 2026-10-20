@@ -640,3 +640,13 @@ Fonte: PITHAN, Oneron A.; CONFALONIERI, Ulisses E. C.; MORGADO, Anastácio F. "A
 - "[...] verifica-se também uma maior concentração de casos em áreas de maior atividade garimpeira."
 
 Atenção: os 114 óbitos incluem mortes registradas fora da Casa do Índio ("também foram incluídos no estudo óbitos ocorridos fora da CIBV [...]"). O texto diz "entre os 114 óbitos registrados" sem localizá-los na Casa do Índio.
+
+## RS — Vindos da África
+
+Fonte: a mesma dissertação de Marcelo Garcia da Rocha usada na primeira entrada do RS (UFPel, 2014). PDF: https://wp.ufpel.edu.br/ppgmp/files/2016/11/Marcelo-Garcia.pdf
+
+- "Berute (2006) [...] pontuou uma série de dados sobre as origens, sexo e idade dos escravos, num período relativo entre 1788 e 1802. Seus cálculos sobre a origem dos escravos nos dão um total de 88% de Africanos e 12% de crioulos. Deve-se ponderar, contudo, a relatividade da amostragem feita pelo autor, quem ressalva a impossibilidade de analisar as origens de 3% dos 3.294 desembarcados na capitania de Rio Grande durante o período acima mencionado."
+- "Para os registros de 1809-1825, num um total de 6.984 cativos que deram entrada nas bandas do Rio Grande do Sul, a margem varia entre 95% (6.635) de africanos e 5% (349) de crioulos. Nesta contagem, temos um total de 5.375 africanos novos, correspondendo a 81%, e 1260 cativos ladinos, quantidade que se refere a 19% de escravos conhecedores de língua portuguesa (PESSI, 2008, p. 3)."
+- "[...] provinham do tronco linguístico Banto, o qual engloba as regiões de Angola, Benguela e Congo [...]" (citando FAUSTINO, 1991)
+
+"Que ainda não falavam português" resume a definição da fonte, que opõe os "africanos novos" aos "ladinos", "escravos conhecedores de língua portuguesa". Pela mesma fonte, Faustino diz que esses escravizados vinham em sua maioria do tráfico interprovincial (de Pernambuco e do Rio de Janeiro), não direto da África: o texto diz "Muitos vinham do tronco linguístico banto", sem dizer por qual rota.
