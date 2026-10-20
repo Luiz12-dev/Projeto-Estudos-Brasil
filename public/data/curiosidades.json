@@ -233,13 +233,14 @@
   },
   {
     "uf": "PI",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Quando o dono era o Estado",
+    "texto": "No Piauí, o próprio Estado foi dono de escravizados. Fazendas deixadas aos jesuítas viraram, em 1760, as “Fazendas do Fisco” — eram 39 — e, depois da Independência, “Fazendas da Nação”, mantendo o trabalho escravo. Em 1844, parte delas foi dada como dote à irmã do imperador Pedro II. Escravizados dessas fazendas foram enviados para construir Teresina, a nova capital; muitos eram devolvidos, e pesquisadores veem nisso uma possível forma de resistência.",
+    "periodo": "1760–1871",
+    "pergunta": "O que muda na nossa ideia de escravidão quando o “senhor” é o próprio governo? Que tipo de resistência era possível nessas condições?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Genimar M. R. de Carvalho e Solimar Oliveira Lima — Informe Econômico (UFPI)",
+      "ano": "2012",
+      "url": "https://periodicos.ufpi.br/index.php/ie/article/download/1908/1735/5464"
     },
     "verificado": false
   },

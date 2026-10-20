@@ -227,3 +227,13 @@ Fonte: DEZEMONE, Marcus. "A questão agrária, o governo Goulart e o golpe de 19
 - Período: "[...] da existência daquelas entidades, de 1955 a 1964."
 
 Atenção: o artigo diz que a primeira Liga "teria surgido" em 1955. Buscas mostram fontes que dão 1954. O texto mantém 1955 para o nome SAPPP, que o artigo afirma sem ressalva. A entrada da PB também fala do cambão, mas com outro foco.
+
+## PI — Quando o dono era o Estado
+
+Fonte: CARVALHO, Genimar M. R. de; LIMA, Solimar Oliveira. "Escravidão e construção civil: negros da Nação nas obras públicas de Teresina (1850-1871)". *Informe Econômico* (UFPI), ano 13, n. 28, nov. 2012. PDF: https://periodicos.ufpi.br/index.php/ie/article/download/1908/1735/5464
+
+- "[...] eram todos trabalhadores enviados das fazendas nacionais, as quais originaram-se do legado deixado por Domingos Afonso Sertão, após sua morte em 1711, aos padres inacianos. Acrescidas de outras propriedades, totalizaram 39 fazendas em 1760, ano da expulsão dos jesuítas, quando passaram a chamar-se Fazendas do Real Fisco ou simplesmente Fazendas do Fisco. [...] Após a independência do Brasil em 1822, estas propriedades passaram a denominar-se Fazendas da Nação ou Nacionais, mantendo a mesma estrutura e o assentamento no trabalho escravo. Em 1844, as propriedades da Inspeção Canindé passaram à posse do conde e condessa de Áquila, sendo esta última irmã do imperador D. Pedro II e as recebido como dote [...]"
+- "Entre estes primeiros trabalhadores que deram início ao processo de construção das obras públicas de Teresina, estavam os escravizados nacionais [...]"
+- "Percebe-se na documentação pesquisada uma frequência considerável de pedidos ou ordens de devolução de trabalhadores escravizados às fazendas nacionais [...] a motivação principal das devoluções de escravizados para as fazendas nacionais, parece ter sido o não aprendizado, propositadamente, de um ofício, como forma de resistência."
+
+O período termina em 1871 por causa do recorte do título (1850-1871). Buscas indicam que os escravizados da Nação foram libertados pela Lei n.º 2.040, de 1871, mas isso não está no trecho conferido. **Confirme ou mude o fim do período.**
