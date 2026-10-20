@@ -701,3 +701,11 @@ Fonte: FRACCARO, Glaucia Cristina Candian. "Mulheres, sindicato e organização 
 - "Com a deflagração da greve, a polícia igualmente se mobilizou e as pressões [...] resultaram em investigação de ativistas, repressão de algumas lideranças, fechamento de reuniões e até assassinato de trabalhadores, como o de José Gimenez Martinez, sapateiro, anarquista, com 21 anos."
 
 O título ("metade do salário") é uma aproximação: 1.800 é 45% de 4.000 réis.
+
+## RO — Um cientista para calar as críticas
+
+Fonte: a mesma página do Observatório História e Saúde usada na primeira entrada de RO (03/04/2023). https://ohs.coc.fiocruz.br/posts_ohs/o-avanco-sobre-a-amazonia-exploracao-economica-e-doencas/
+
+- "Em 1910, a profilaxia da malária para a expansão ferroviária na Amazônia levou à contratação de Oswaldo Cruz (1872-1917), em 1909, pela empresa Madeira–Mamoré Railway Company, do empresário norte-americano Percival Farquhar."
+- "Alvo de críticas pela tentativa de realização da obra, Farquhar decidiu contratar o médico com o propósito de neutralizar a resistência de que era objeto a construção da ferrovia de 356 quilômetros de extensão. Cruz não era apenas diretor do Instituto Oswaldo Cruz (IOC), mas também um médico respeitado pela comunidade científica nacional e internacional, principalmente depois da bem-sucedida campanha contra a febre amarela na capital federal."
+- "Em 'Considerações gerais sobre as condições sanitárias do Rio Madeira', descreve o quadro de doenças e as condições de abandono dos operários recrutados para a construção da Madeira-Mamoré, entre norte-americanos, bolivianos e cearenses, estes últimos expulsos pela seca e atraídos pela extração da borracha."
