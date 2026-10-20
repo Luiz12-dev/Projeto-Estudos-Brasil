@@ -395,3 +395,14 @@ Fonte: o mesmo capítulo de Adalberto Paz usado na primeira entrada do AP (UNIFA
 - "[...] relatórios sobre o Contestado franco-brasileiro [...]"
 
 O texto usa "teria virado" porque a informação vem da imprensa da época, como o próprio autor ressalva ("Nomeados ou não pelo governo francês [...]").
+
+## PA — Rebeldes em nome do imperador
+
+Fonte: o mesmo artigo de Magda Ricci usado na primeira entrada do PA (*Tempo*, 2007). URL: https://www.scielo.br/j/tem/a/ZX5z5skg9g7YyC47qtn533N/?lang=pt
+
+- "[...] Malcher visualizava o clímax da luta cabana nos episódios do 7 de janeiro de 1835. Nesta data, em nome de Pedro II, Malcher foi aclamado pelo povo para governar o Grão-Pará durante a menoridade do Imperador."
+- "Durante a primeira tomada de Belém, em 7 de janeiro [...]"
+- "A bandeira de luta dos levantados de janeiro resumia-se na morte aos portugueses e aos maçons."
+- "Eles se autodenominavam 'patriotas', mas ser patriota não era necessariamente sinônimo de ser brasileiro."
+
+O texto diz "o menino Pedro II" porque a fonte fala em "Imperador menino, Pedro II" ("[...] mantinham vínculos com o regime constitucional carioca, especialmente com o Imperador menino, Pedro II").
