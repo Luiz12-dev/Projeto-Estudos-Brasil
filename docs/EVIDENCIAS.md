@@ -69,3 +69,14 @@ Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da popu
 
 - "Analisando o total de pessoas indígenas, ou seja, considerando a soma dos declarados pelos quesitos de cor ou raça e se considera indígena, as três Unidades da Federação que mostraram a maior concentração de indígenas na sua população residente foram Roraima, com 15,4% de sua população residente indígena, seguida do Amazonas, com 12,5%, e do Mato Grosso do Sul, com 4,2%. Rio de Janeiro e São Paulo apresentavam o menor peso relativo de população indígena, ambas com 0,1%."
 - "[...] a população residente no Brasil é formada por 92 083 286 pessoas pardas (45,3%), 88 252 121 brancas (43,5%), 20 656 458 pretas (10,2%), 1 694 836 indígenas (0,8%) e 850 130 amarelas (0,4%)."
+
+## SC — Os “pelados” contra a ferrovia
+
+Fonte: KARSBURG, Alexandre de Oliveira; MACHADO, Paulo Pinheiro; VALENTINI, Delmir José. Apresentação do dossiê "Centenário do Contestado". *Revista Esboços* (PPG em História da UFSC), v. 19, n. 28, p. 1-12, dez. 2012. PDF: https://periodicos.ufsc.br/index.php/esbocos/article/download/2175-7976.2012v19n28p1/25643/104106
+
+Não há total de mortos: a fonte não traz estimativa geral e as buscas só mostraram números parciais ou sem método.
+
+- "[...] um conflito que, em diferentes fases e com características próprias, estendeu-se até o início de 1916. A Guerra do Contestado colocou de um lado os 'peludos' representados pelos governos (estaduais e federal) os grandes fazendeiros, os representantes da estrada de ferro Southern Brazil Railway e da Lumber and Colonization Company e, de outro, peões, agregados, tropeiros, ervateiros, médios e pequenos sitiantes, que se autodenominaram 'pelados'."
+- "O conflito atingiu um grande território do planalto e meio-oeste catarinense, além do sul do Paraná."
+- "Demandas econômicas e sociais, como a luta pela terra e pela emancipação da tutela dos Coronéis, estão presentes [...]"
+- "[...] entre os anos de 1912 a 1916, a Guerra do Contestado mobilizou a sociedade nacional no combate aos chamados 'fanáticos', termo de época carregado de preconceitos e felizmente hoje em desuso."
