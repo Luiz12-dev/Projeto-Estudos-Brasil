@@ -819,3 +819,12 @@ Fonte: a mesma notícia da UFAL usada na segunda entrada de AL (01/02/2012). htt
 - "O Estado reconheceu seu erro e oficializou o seu perdão [...]" (fala da mesma historiadora, no centenário)
 
 "Cem anos depois": a notícia é do centenário (2012) e fala do perdão no passado. A data exata do pedido de perdão não está no texto, por isso a entrada não a informa.
+
+## PI — Os primeiros construtores de Teresina
+
+Fonte: o mesmo artigo de Carvalho e Lima usado na primeira entrada do PI (*Informe Econômico*, UFPI, 2012). PDF: https://periodicos.ufpi.br/index.php/ie/article/download/1908/1735/5464
+
+- "Entre estes primeiros trabalhadores que deram início ao processo de construção das obras públicas de Teresina, estavam os escravizados nacionais Marcelino, Antônio, Lourenço, Policarpo, Cassiano, Eusébio, Casimiro, Nicolau, Manoel e Lourenço e as escravizadas Hilária e Ignez, responsáveis pela preparação dos alimentos e lavagem das roupas dos trabalhadores (APEPI, CX. 496); eram todos trabalhadores enviados das fazendas nacionais [...]"
+- "Teresina (em homenagem à imperatriz Teresa Cristina) e transferindo para esta última a sede do Governo e todas as repartições públicas."
+
+O nome Lourenço aparece duas vezes na lista da fonte; o texto o cita uma vez. O ano de 1850 é o início do recorte do artigo (1850-1871), e o trecho fala dos "primeiros trabalhadores".
