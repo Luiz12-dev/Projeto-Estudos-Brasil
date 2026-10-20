@@ -50,3 +50,16 @@ export function montarLista(ul: HTMLElement, aoSelecionar: AoSelecionar): void {
     ul.append(li);
   }
 }
+
+// Visitado é indicado por classe (cor + contorno tracejado no mapa),
+// texto "visitado" no aria-label e ícone ✓ na lista: nunca só por cor.
+export function marcarVisitados(visitados: Set<string>): void {
+  document.querySelectorAll<HTMLElement | SVGElement>('[data-uf]').forEach((e) => {
+    const sigla = e.dataset.uf ?? '';
+    const visitado = visitados.has(sigla);
+    const nome = NOMES[sigla] ?? sigla;
+    e.classList.toggle('visitado', visitado);
+    e.setAttribute('aria-label', visitado ? `${nome}, visitado` : nome);
+    if (e instanceof HTMLButtonElement) e.textContent = visitado ? `✓ ${nome}` : nome;
+  });
+}
