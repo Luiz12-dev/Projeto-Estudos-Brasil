@@ -670,3 +670,13 @@ Resumo, feito na apresentação, do artigo de Alexandre Assis Tomporoski:
 - "[...] analisa a materialidade da existência e a sociabilidade dos sertanejos no periodo anterior à penetração de forças capitalistas na região, através de práticas como o pixirum, processo de trabalho coletivo e gerador de solidariedade. Em um segundo momento, o autor destaca o advento das empresas estrangeiras na região e a abrupta mudança no estilo de vida das populações locais, representada pela introdução da Estrada de Ferro São Paulo – Rio Grande e pela implantação das serrarias pertencentes à Southern Brazil Lumber and Colonization Company [...] Em uma terceira parte do artigo, Tomporoski estuda o período pós guerra, quando parte dos remanescentes torna-se operário nas serrarias, desenvolvendo greves nos anos de 1917 e 1919. Acredita o autor que exista uma relação de continuidade na resistência desenvolvida durante e após o movimento por parte dos trabalhadores."
 
 Atenção: é o resumo de outro artigo do mesmo dossiê. O ideal seria trocar a fonte pelo artigo de Tomporoski, que não foi aberto.
+
+## SP — Os colonos negros que a história esqueceu
+
+Fonte: MONSMA, Karl. "Vantagens de imigrantes e desvantagens de negros: emprego, propriedade, estrutura familiar e alfabetização depois da abolição no oeste paulista". *Dados*, 53 (3), 2010. https://doi.org/10.1590/S0011-52582010000300001 — URL usada: https://www.scielo.br/j/dados/a/mcWkb8BJqWT8GckNn8zn9Lf/?lang=pt
+
+- "A maior parte da literatura afirma que, nas regiões cafeicultoras mais novas e ricas do Oeste paulista, os imigrantes monopolizaram os contratos familiares do colonato [...]"
+- "Este artigo compara a situação de negros, brasileiros brancos e vários grupos imigrantes no município de São Carlos, no centro-oeste paulista, em 1907 [...] quando se realizou um censo local."
+- "Entretanto, os resultados desta pesquisa mostram que os negros não eram excluídos do colonato. [...] esta também era a categoria ocupacional mais comum entre chefes de família negros. Eram colonos, em 1907, 43,5% das famílias com chefe masculino preto e 31,3% das com chefe mulato."
+- Resumo em inglês: "Meanwhile, Blacks were almost completely absent from the elites, and literacy rates were extremely low among Blacks, including in the new generation, born after Abolition."
+- "[...] o governo paulista só pagava passagens para famílias de agricultores - ou para aqueles que se diziam agricultores - [...]" (sobre os imigrantes)
