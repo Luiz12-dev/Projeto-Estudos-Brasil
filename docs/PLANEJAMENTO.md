@@ -16,13 +16,13 @@ Documento de referência: [`CLAUDE.md`](../CLAUDE.md).
 
 | Fase | Entrega | Status |
 |---|---|---|
-| 0. Base | Vite + TypeScript strict, sem framework; README, CLAUDE.md, planejamento | pendente |
-| 1. Dados | `types.ts` conforme o schema; `curiosidades.json` com 28 entradas TODO (26 estados, DF e BR) | pendente |
-| 2. Mapa | SVG inline com `aria-label` e teclado em cada UF; lista de estados como alternativa | pendente |
-| 3. Painel | Título, período, texto, pergunta, fonte visível, botão Copiar | pendente |
-| 4. Visitados | `storage.ts` como único acesso ao localStorage; marcação com ícone e texto, não só cor | pendente |
-| 5. Visual | CSS puro, mobile-first, 360 px, contraste AA | pendente |
-| 6. Deploy | GitHub Actions → GitHub Pages | pendente |
+| 0. Base | Vite + TypeScript strict, sem framework; README, CLAUDE.md, planejamento | concluída |
+| 1. Dados | `types.ts` conforme o schema; `curiosidades.json` com 28 entradas TODO (26 estados, DF e BR) | concluída |
+| 2. Mapa | SVG inline com `aria-label` e teclado em cada UF; lista de estados como alternativa | código pronto; **SVG pendente** (ver Pendências) |
+| 3. Painel | Título, período, texto, pergunta, fonte visível, botão Copiar | concluída |
+| 4. Visitados | `storage.ts` como único acesso ao localStorage; marcação com ícone e texto, não só cor | concluída |
+| 5. Visual | CSS puro, mobile-first, 360 px, contraste AA | concluída — testado em 360 px |
+| 6. Deploy | GitHub Actions → GitHub Pages | workflow pronto; ativar Pages no repositório |
 | 7. Curadoria | Preencher as 28 entradas com fonte e `verificado: true` | **humana — Luiz** |
 
 ## Pendências
