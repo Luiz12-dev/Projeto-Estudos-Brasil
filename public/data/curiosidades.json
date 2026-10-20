@@ -50,13 +50,14 @@
   },
   {
     "uf": "AM",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Os soldados esquecidos da borracha",
+    "texto": "Na Segunda Guerra, os Aliados precisavam de borracha, e o governo Vargas criou em 1942 o SEMTA para recrutar trabalhadores para a “Batalha da Borracha” na Amazônia. A sede ficou em Fortaleza, onde a seca facilitava encontrar “flagelados candidatos a seringueiros”. A propaganda mostrava a Amazônia como terra de fartura e esperança, e os retirantes eram alistados como “soldados”. Para o historiador Frederico de Castro Neves, o fim da guerra mostrou o contrário: o soldado foi esquecido.",
+    "periodo": "1942",
+    "pergunta": "Por que o governo usou palavras de guerra — “batalha”, “soldados” — para recrutar retirantes da seca? O que isso escondia sobre as condições de trabalho nos seringais?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Frederico de Castro Neves — Revista Brasileira de História",
+      "ano": "2001",
+      "url": "https://www.scielo.br/j/rbh/a/5GNSQTXnMM7kTM3rr8B4TrM/?format=html&lang=pt"
     },
     "verificado": false
   },

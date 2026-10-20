@@ -94,3 +94,13 @@ Fonte: FERREIRA, Luisa M. A.; MACHADO, Marta R. de A.; MACHADO, Maíra Rocha. "M
 - Autoria ligada à FGV: "[...] pesquisa conduzida pelas autoras [...] no Núcleo de Estudos sobre o Crime e a Pena da Direito GV [...]"
 
 Atenção: o texto descreve a situação de 2012. Fatos posteriores (julgamentos, anulações) não foram verificados e não entram no texto.
+
+## AM — Os soldados esquecidos da borracha
+
+Fonte: NEVES, Frederico de Castro. "Getúlio e a seca: políticas emergenciais na era Vargas". *Revista Brasileira de História*, 21 (40), 2001. URL usada: https://www.scielo.br/j/rbh/a/5GNSQTXnMM7kTM3rr8B4TrM/?format=html&lang=pt
+
+- "[...] o governo criou, em novembro de 1942, o SEMTA (Serviço Especial de Mobilização de Trabalhadores para a Amazônia) com o 'objetivo de alistar e recrutar trabalhadores para a Batalha da Borracha'. A especial coincidência de tais efeitos e necessidades da guerra e a eclosão de mais uma seca fez com que a sede do novo órgão fosse instalada em Fortaleza, onde mais facilmente se poderiam encontrar 'flagelados candidatos a seringueiros'."
+- "[...] os seringais da Amazônia retornaram ao centro do comércio internacional da borracha devido à expansão bélica japonesa sobre as áreas de produção na Ásia."
+- "[...] construíam a idéia de uma Amazônia ideal, terra da 'promissão', da 'fartura' e da 'esperança' [...] os retirantes eram alistados e preparados como soldados que iriam se deparar com uma 'batalha' [...] O fim da guerra iria demonstrar o contrário: o soldado foi esquecido, e o campo de batalha, abandonado."
+
+Atenção: o artigo fala da Amazônia em geral (destinos citados: Belém e Manaus), não só do Amazonas. Se preferir, esta entrada pode ir para o Acre ou o Pará. A segunda parte da pergunta é um convite à discussão: a fonte não descreve as condições nos seringais.
