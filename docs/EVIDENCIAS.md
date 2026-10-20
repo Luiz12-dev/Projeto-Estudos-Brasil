@@ -582,3 +582,13 @@ Fonte: o mesmo artigo de Renata Lourenço usado na primeira entrada do MS (*Fron
 - "Num passado recente, no período da colonização promovida pela CAND, as duas comunidades formavam um único tekohá. [...] as duas aldeias ficaram separadas por 26 km"
 
 O campo `periodo` marca o início do processo; a fonte não dá data de fim.
+
+## MG — Minas quilombola
+
+Fonte: IBGE Educa, página "Quilombolas". https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html — sem data de publicação visível.
+
+- "Na sequência vêm as Unidades de Minas Gerais (135.310), Pará (135.033) e Pernambuco (78.827) [...]" (depois de Bahia e Maranhão)
+- "O município de Senhor do Bonfim/BA possui o maior número de pessoas quilombolas (15.999). Na sequência: Salvador/BA, com 15.897, Alcântara/MA, com 15.616, e Januária/MG, com 15.000."
+- "[...] 12,6% dos quilombolas residentes no Brasil ocupam territórios oficialmente delimitados e 87,4% estão fora de áreas formalmente delimitadas e reconhecidas."
+
+A pergunta liga o dado ao trabalho escravizado nas minas como convite à discussão: a fonte não faz essa ligação.
