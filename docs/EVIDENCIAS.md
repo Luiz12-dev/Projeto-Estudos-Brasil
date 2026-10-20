@@ -128,3 +128,14 @@ Fonte: LOURENÇO, Renata. "A Missão Evangélica Caiuá e a educação escolar p
 - "[...] aproximadamente 280 índios, somente da etnia Kaiowá, permaneceram confinados em 60 hectares, lutando até a obtenção de parte de suas terras, que lhes foram devolvidas somente no final de 2004, quando foram homologados 1.260 hectares como Terra Indígena para esta população."
 
 A pergunta fala em "mais de 60 anos", contados da década de 1940 até 2004.
+
+## PB — O fim do cambão
+
+Fonte: ALVES, Juliana Ferreira. *Violência entre (des)iguais: memórias silenciadas nas lutas da Liga Camponesa de Sapé-PB (1962-1964)*. Dissertação (Mestrado em História), UFPB, agosto de 2019. PDF: https://repositorio.ufpb.br/jspui/bitstream/123456789/19966/1/JulianaFerreiraAlves_Dissert.pdf
+
+- Nota 3: "Cambão era o modo de exploração que consistia em trabalhos gratuitos realizados pelos camponeses (morador e foreiro) para os proprietários de terra. Os dias de trabalhos cedidos para o dono da terra (poderia ser um, dois ou mais dias de serviço), variando muito de uma fazenda para outra."
+- "[...] problemas imediatos, isto é, no fim do cambão, indenizações em caso de desapropriação das terras, melhores condições de trabalho, etc., até porque tratava-se de concepções pregadas por João Pedro [...]"
+- "João Pedro Teixeira, brutamente assassinado a mando do Grupo da Várzea em 02 de abril de 1962. Há um sentimento de impunidade presente nesse crime que teve como executores o vaqueiro Arnaud Nunes Bezerra (Arnaud Claudino) e os policiais Antônio Alexandre da Silva (Gago) e Francisco Pedro da Silva (Chiquinho). Este último foi quem acusou Agnaldo Veloso Borges como mandante do atentado [...]"
+- "[...] o homicídio adveio numa emboscada na estrada que liga Café do Vento a Sapé, quando João Pedro retornava da capital João Pessoa [...]"
+
+Atenção: a fonte não diz a profissão de Agnaldo Veloso Borges (buscas mencionam "usineiro"), então o texto não o qualifica. A dissertação também registra que, na época, as suspeitas recaíram sobre outras pessoas.
