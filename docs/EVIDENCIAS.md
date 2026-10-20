@@ -248,3 +248,14 @@ Fonte: Projeto de Extensão Afro Curitiba (UFPR), página "Cadeia e Pelourinho: 
 - Código Criminal de 1830, art. 60, citado na página: "Se o réu for escravo, e incorrer em pena, que não seja a capital, ou de galés, será condenado na de açoutes, e depois de os sofrer, será entregue a seu senhor, que se obrigará a trazê-lo com ferro, pelo tempo e maneira que o Juiz designar. O número de açoutes será fixado na sentença; e o escravo não poderá levar por dia mais de cinquenta."
 
 Atenção: a página traz datas que se contradizem sobre o pelourinho ("Erigido em Curitiba em 1698, antes mesmo que fosse instalada a Câmara – o que ocorreu somente em 1693"). Por isso o texto não informa quando o pelourinho foi erguido. O texto da Constituição está no art. 179, que trata dos direitos dos cidadãos, daí a pergunta.
+
+## RN — Os libertos que libertavam
+
+Fonte: COSTA, Aryana Lima; FALCÃO, Marcilio Lima (orgs.). *30 de Setembro: por uma história da libertação*. Mossoró: Edições UERN, 2024 (PIBID História UERN). PDF: https://portal.uern.br/wp-content/uploads/sites/14/2024/09/E-book-30-de-Setembro-por-uma-historia-da-libertacao.pdf
+
+**Atenção:** é um material didático do PIBID, organizado por professores da UERN (universidade estadual pública), sem revisão por pares.
+
+- "O dia 30 de setembro de 1883 representa uma das datas mais importantes da Cidade de Mossoró, no Rio Grande do Norte. É nesse dia em que todos os escravizados da cidade são libertados oficialmente [...]"
+- "Apesar da Sociedade Libertadora Mossoroense ter sido extremamente importante na luta pela liberdade dos escravizados mossoroenses, ela não atuou sozinha. Atrelada à Libertadora Mossoroense estava o pouco conhecido Clube dos Spartacus [...] composto principalmente por ex-escravizados que, diferentemente dos membros da Libertadora, utilizavam-se de sua força braçal [...] O clube tinha como presidente Rafael Mossoroense da Glória, ex-escravizado [...] o auxílio em fugas, o enfrentamento a capitães do mato, armações de emboscadas, transporte de libertos e escravizados fugitivos para a província do Ceará em comboios [...]"
+
+O texto chama a Libertadora de "elite" com base neste trecho: "Seus membros eram majoritariamente homens brancos, figuras políticas e socioeconomicamente favorecidas, fator que possibilitou a compra de várias alforrias." A data da Lei Áurea não está na fonte, por isso entrou só como pergunta.

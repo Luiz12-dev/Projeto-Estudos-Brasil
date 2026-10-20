@@ -260,13 +260,14 @@
   },
   {
     "uf": "RN",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Os libertos que libertavam",
+    "texto": "Em 30 de setembro de 1883, Mossoró (RN) declarou oficialmente libertos todos os seus escravizados. A história costuma destacar a elite da Sociedade Libertadora Mossoroense, mas ela não agiu sozinha. O pouco conhecido Clube dos Spartacus, formado principalmente por ex-escravizados e presidido por Rafael Mossoroense da Glória, ajudava em fugas, enfrentava capitães do mato e levava libertos e fugitivos em comboios até o Ceará.",
+    "periodo": "1883",
+    "pergunta": "Quanto tempo antes da Lei Áurea Mossoró aboliu a escravidão? Por que os nomes dos ex-escravizados que lutaram pela abolição são menos lembrados que os da elite?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Costa e Falcão (orgs.) — E-book “30 de Setembro: por uma história da libertação” (UERN)",
+      "ano": "2024",
+      "url": "https://portal.uern.br/wp-content/uploads/sites/14/2024/09/E-book-30-de-Setembro-por-uma-historia-da-libertacao.pdf"
     },
     "verificado": false
   },
