@@ -774,3 +774,15 @@ Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da popu
 - Nota: "O total de pessoas indígenas compreende as pessoas declaradas por meio do quesito de cor ou raça e aquelas declaradas por meio do quesito 'se considera indígena'."
 
 A palavra "invisível" na pergunta é um convite à discussão, não uma afirmação da fonte.
+
+## BA — 234 processos e papéis em árabe
+
+Fonte: IGNACE, Etienne. "A revolta dos Malês (24 para 25 de janeiro de 1835)". Texto datado "Bahia, 1907", republicado na revista *Afro-Ásia* (UFBA). PDF: https://periodicos.ufba.br/index.php/afroasia/article/download/20764/13367
+
+**Atenção:** é um texto de 1907, escrito por um padre do Seminário da Bahia a partir dos processos do Arquivo Público, e tem linguagem preconceituosa da época (chama o plano dos malês de "diabólico plano de carniçaria"). Os dados usados vêm dos processos que ele descreve. A referência acadêmica atual é João José Reis, *Rebelião escrava no Brasil* (Companhia das Letras), que não foi aberta. O campo `ano` traz o ano do texto original; o ano da republicação na *Afro-Ásia* não aparece no PDF.
+
+- Título: "(24 para 25 de janeiro de 1835)".
+- "O Arquivo Público da Bahia possui os processos de 234 revoltosos, sendo 165 nagôs, 3 grumas, 6 gêges, 21 hauçás ou uçás, 5 bornos, 6 tapas, 3 cabindas, 4 congueses [...] 14 mulheres ao todo."
+- "[...] dos documentos em árabe que a polícia apreendeu nas casas dos [...]" e, nas notas, "Letras arábicas", "Caracteres arábicos".
+- "Sabe-se, todavia, que muitos foram punidos com pena de morte; outros condenados aos açoites (200, 500 até 1.000 chicotadas); outros foram transportados para as galeras e para as prisões; outros, enfim, deportados para a Africa."
+- "Os condenados à pena capital deviam ser enforcados no Campo da Pólvora, mas o madeiramento da fôrca estava completamente podre. Tendo sido construída uma nova forca, não se achou nas prisões uma só pessoa que quisesse servir de carrasco, nem mesmo mediante pagamento. Então, o Vice-presidente, Manoel Antônio Galvão, ordenou que fôssem fuzilados [...]"
