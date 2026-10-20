@@ -786,3 +786,10 @@ Fonte: IGNACE, Etienne. "A revolta dos Malês (24 para 25 de janeiro de 1835)". 
 - "[...] dos documentos em árabe que a polícia apreendeu nas casas dos [...]" e, nas notas, "Letras arábicas", "Caracteres arábicos".
 - "Sabe-se, todavia, que muitos foram punidos com pena de morte; outros condenados aos açoites (200, 500 até 1.000 chicotadas); outros foram transportados para as galeras e para as prisões; outros, enfim, deportados para a Africa."
 - "Os condenados à pena capital deviam ser enforcados no Campo da Pólvora, mas o madeiramento da fôrca estava completamente podre. Tendo sido construída uma nova forca, não se achou nas prisões uma só pessoa que quisesse servir de carrasco, nem mesmo mediante pagamento. Então, o Vice-presidente, Manoel Antônio Galvão, ordenou que fôssem fuzilados [...]"
+
+## DF — A polícia paga pela construtora
+
+Fonte: o mesmo artigo de Nair Heloisa Bicalho de Sousa usado nas outras entradas do DF. PDF: https://unb.revistaintercambio.net.br/24h/pessoa/temp/anexo/1/1251/2053.pdf
+
+- "Neste cenário de trabalho intenso na construção da nova capital, uma instituição policial de caráter paramilitar ganha proeminência: a Guarda Especial de Brasília. Criada pelo Departamento Regional de Polícia de Brasília (DRPB) que absorveu a Guarda Policial e a Guarda Rural da Novacap, estava subordinada à Secretaria de Segurança Pública do Estado de Goiás, mas suas despesas de ordem material e pessoal estavam a cargo da Novacap, a companhia responsável pela construção de Brasília. A GEB tinha 'a missão repressiva na área das obras, dos acampamentos e da Cidade Livre, garantindo o intenso ritmo de trabalho, vigiando para que os candangos [...]'"
+- Período: "[...] entre 1957 e 1960 [...]"
