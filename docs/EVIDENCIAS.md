@@ -529,3 +529,13 @@ Fonte: IBGE, *PNAD Contínua — Segurança alimentar 2023* (© IBGE 2024). PDF:
 - "A formalização da ocupação tem impacto significativo na capacidade de garantir a aquisição de alimentos nos domicílios, pois 22,8% dos domicílios encontravam-se em situação de SA quando o responsável é empregado privado com carteira assinada, o maior percentual entre todas as categorias. Já os que não tinham carteira assinada eram apenas 6,1%."
 
 Atenção à leitura: os 22,8% e 6,1% são a participação de cada categoria entre os lares em segurança alimentar (SA), não a chance de um lar estar em SA. O texto foi escrito com esse sentido. A frase "o emprego com carteira assinada protege" resume o trecho "A formalização da ocupação tem impacto significativo [...]".
+
+## DF — Viradas de 24 horas
+
+Fonte: o mesmo artigo de Nair Heloisa Bicalho de Sousa usado na primeira entrada do DF. PDF: https://unb.revistaintercambio.net.br/24h/pessoa/temp/anexo/1/1251/2053.pdf
+
+- "[...] prática de 'viradas' e serão", com a nota 4: "Trabalho durante o dia e à noite que alcançava um total de jornada de 24 horas durante três dias da semana."
+- "[...] à medida em que se aproximava a data de inauguração de Brasília (21 de abril de 1960) as jornadas de trabalho se intensificavam [...]"
+- "Os sanitários era um buraco cavado no chão [...] o acampamento também tinha problema de falta de água. As camas tinham colchões de capim e predominava enorme falta de higiene: pulgas, percevejos e piolhos [...] quebras das cantinas por motivo da comida crua, estragada ou com pequenos animais mortos dentro dela. Nessas ocasiões, a polícia era chamada pela direção da empresa para 'por ordem' no acampamento. Daí se seguiram inúmeros episódios repressivos que resultavam em espancamentos e prisões de operários"
+- "O próprio presidente Juscelino Kubitschek no seu livro 50 anos em 5 [...] relata que 'a nova capital, apesar de sua tradição de operosidade, havia perdido um recorde: o de acidentes de trabalho. Somente 944 ocorrências simples, com um caso fatal, para a maior concentração obreira do mundo em 1960!'"
+- Período: "[...] centenas de trabalhadores entre 1957 e 1960 [...]"
