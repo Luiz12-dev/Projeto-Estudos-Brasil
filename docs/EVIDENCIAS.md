@@ -793,3 +793,11 @@ Fonte: o mesmo artigo de Nair Heloisa Bicalho de Sousa usado nas outras entradas
 
 - "Neste cenário de trabalho intenso na construção da nova capital, uma instituição policial de caráter paramilitar ganha proeminência: a Guarda Especial de Brasília. Criada pelo Departamento Regional de Polícia de Brasília (DRPB) que absorveu a Guarda Policial e a Guarda Rural da Novacap, estava subordinada à Secretaria de Segurança Pública do Estado de Goiás, mas suas despesas de ordem material e pessoal estavam a cargo da Novacap, a companhia responsável pela construção de Brasília. A GEB tinha 'a missão repressiva na área das obras, dos acampamentos e da Cidade Livre, garantindo o intenso ritmo de trabalho, vigiando para que os candangos [...]'"
 - Período: "[...] entre 1957 e 1960 [...]"
+
+## ES — De revolta esquecida a patrimônio
+
+Fonte: o mesmo TCC usado na primeira entrada do ES (UFES, 2024; sem revisão por pares). PDF: https://repositorio.ufes.br/server/api/core/bitstreams/be30139d-f403-4ba1-b74c-4f1313905e5a/content
+
+- "A Revolta de Queimados, ocorrida em 1849 no Espírito Santo, é um evento marcante na história do Brasil, mas por muito tempo foi relativamente pouco estudada [...] Os relatos existentes eram muitas vezes superficiais e centrados na perspectiva dos senhores de escravos e autoridades coloniais. As narrativas iniciais tendiam a descrever a revolta como um distúrbio isolado [...]"
+- "Com a ascensão de novas abordagens historiográficas nas décadas de 1970 e 1980 [...] houve um renovado interesse pelos episódios de resistência escrava."
+- "A insurreição do Queimado, ao longo dos anos, tornou-se um evento comemorado pelo movimento social negro, em escolas, e pelo Estado, que vem criando formas de preservar o patrimônio histórico da insurreição, como o tombamento do local, assim como a criação do Parque Histórico do Queimado. Uma estátua de Chico Prego, figura principal da insurreição foi erguida no centro da Serra [...]"
