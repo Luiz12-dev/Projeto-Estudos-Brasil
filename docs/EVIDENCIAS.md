@@ -451,3 +451,13 @@ Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da popu
 - Tabela 3 (Variação 2010-2022): "Bahia 0,9% -10,9% 32,0% -89,9% -2,3% 281,6%" (a última coluna é Indígena). Pela tabela, só o Rio Grande do Norte (351,4%) teve variação indígena maior.
 
 A pergunta liga o dado ao tráfico de escravizados como convite à discussão: a fonte (IBGE) não faz essa ligação.
+
+## CE — A polícia tomava, mas devolvia
+
+Fonte: o mesmo artigo de Frederico de Castro Neves usado na primeira entrada do CE (*Revista Brasileira de História*, 2001). URL: https://www.scielo.br/j/rbh/a/5GNSQTXnMM7kTM3rr8B4TrM/?format=html&lang=pt
+
+- "[...] a multidão que se apossou das mercadorias em Orós e outras cidades do Ceará nas primeiras semanas de 1932 [...]"
+- Telegrama do interventor Menezes Pimentel citado no artigo: "[...] estão se concentrando milhares famintos numerosos municipios Estado, havendo cerca 6.000 Sobral, 4 a 5.000 Senador Pompeu, 1.000 Jaguaribe, aproximadamente 2.000 Canindé e outros tantos Tauá e muitos outros pontos interior. Nesta Capital existem cerca 5.000 flagelados."
+- "A atitude com relação ao saque era ambígua: a polícia tomava, mas imediatamente devolvia os alimentos aos saqueadores."
+
+O telegrama é da seca de 1942: ele vem logo depois do trecho "Em 19 de março de 1942, dia de São José, a seca foi novamente 'decretada' no Ceará [...]". A frase sobre a polícia aparece na parte do artigo sobre 1942.
