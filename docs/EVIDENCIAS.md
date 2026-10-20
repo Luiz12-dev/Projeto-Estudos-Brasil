@@ -809,3 +809,13 @@ Fonte: a mesma dissertação de Dimas Bezerra Marques usada na primeira entrada 
 - "[...] travar guerra contra Zumbi e seus homens. Pensa-se que as tropas de Domingos Jorge Velho tenham usufruído das sesmarias para se consolidarem na região palmarina. Sabe-se que eles permaneceram nas matas e formaram um terço com o objetivo de vigiar e conter possíveis ameaças dos sobreviventes, que ainda resistiram durante o século XVIII. Como conseguiram mercês nobilitantes, a exemplo dos Hábitos de Cristo, poderiam atestar pra si o título de elite."
 
 O texto usa "teriam se beneficiado" porque a fonte diz "pensa-se que".
+
+## PE — Pernambuco, refúgio dos terreiros
+
+Fonte: a mesma notícia da UFAL usada na segunda entrada de AL (01/02/2012). https://noticias.ufal.br/ufal/noticias/2012/01/quebra-do-xango-pesquisadores-avaliam-a-intolerancia-religiosa
+
+- Fala da historiadora Clara Suassuna, diretora do Neab/UFAL: "Há reflexos diretos na história de Pernambuco, pois muitos dos religiosos de matriz africana tiveram como saída, a migração para o Estado vizinho, para não morrerem ou serem privados da liberdade pessoal ou de culto".
+- "O Quebra provocou o fechamento de vários terreiros [...]"
+- "O Estado reconheceu seu erro e oficializou o seu perdão [...]" (fala da mesma historiadora, no centenário)
+
+"Cem anos depois": a notícia é do centenário (2012) e fala do perdão no passado. A data exata do pedido de perdão não está no texto, por isso a entrada não a informa.
