@@ -573,3 +573,12 @@ Fonte: TAVARES, Aline Menezes Rossi et al. "Perfil epidemiológico da hansenías
 - "O Brasil destaca-se como o segundo país em número de casos absolutos. Há alguns anos, o estado do Mato Grosso (MT), Brasil apresenta nível hiperendêmico para casos de hanseníase, ocupando a primeira posição, com as maiores taxas de prevalência e incidência da doença no país."
 - Resumo: "No período em estudo notificaram-se 11.388 casos no estado, com maior prevalência no ano de 2017." Pela conclusão, o período é 2014 a 2017: "Dos indivíduos notificados com hanseníase entre 2014 a 2017 [...]"
 - "[...] sistema este que, em 2014, apresentou fragilidades, como a subnotificação, resultando na notificação de apenas três casos em todo o estado de Mato Grosso."
+
+## MS — De 40 mil km² a pequenas reservas
+
+Fonte: o mesmo artigo de Renata Lourenço usado na primeira entrada do MS (*Fronteiras*, UFGD, 2010). PDF: https://ojs.ufgd.edu.br/FRONTEIRAS/article/download/598/715/3060
+
+- "[...] espaço territorial tradicional dos Kaiowá que, segundo Meliá, Grunberg e Grunberg (1976), estendia-se ao norte do então estado de Mato Grosso, até os Rios Apa e Dourados e, ao sul, até a Serra de Maracaju e os afluentes do Rio Jejuí, chegando a uma extensão de aproximadamente 40 mil km2, divididos pela fronteira Brasil/Paraguai. Contudo, aquele amplo espaço de ocupação Kaiowá foi drasticamente reduzido, como resultado do processo de colonização que teve início com a criação da Colônia Agrícola Nacional de Dourados (CAND), promovida pelo governo federal a partir da década de 1940."
+- "Num passado recente, no período da colonização promovida pela CAND, as duas comunidades formavam um único tekohá. [...] as duas aldeias ficaram separadas por 26 km"
+
+O campo `periodo` marca o início do processo; a fonte não dá data de fim.
