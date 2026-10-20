@@ -281,3 +281,14 @@ Fonte: ROCHA, Marcelo Garcia da. *Arqueologia da escravidão e patrimônio cultu
 - "Para os registros de 1809-1825, num um total de 6.984 cativos que deram entrada nas bandas do Rio Grande do Sul, a margem varia entre 95% (6.635) de africanos e 5% (349) de crioulos." (citando PESSI, 2008)
 
 A primeira frase ("dependia do trabalho escravizado") resume a dissertação, que trata dos "trabalhadores escravizados nas charqueadas".
+
+## SE — Cabeças em exposição
+
+Fonte: FERREIRA JÚNIOR, José. "Cabeças cortadas: troféus exibidos e punição no embate entre volantes e cangaceiros, sertões nordestinos brasileiros (1922–1938)". *Ponta de Lança: Revista Eletrônica de História, Memória & Cultura* (UFS), São Cristóvão, v. 17, n. 33, jul.-dez. 2023. https://doi.org/10.61895/pl.v17i33.19549 — PDF: https://periodicos.ufs.br/pontadelanca/article/download/19549/14977
+
+- "[...] em território sergipano, no município de Poço Redondo, sertão do estado, na grota da fazenda Angico, ao amanhecer do dia 28 de julho de 1938, uma quinta-feira, Lampião e seus liderados foram cercados e surpreendidos por soldados de volante alagoana [...]"
+- "Segundo a narrativa oficial [...] onze cangaceiros, nove homens e duas mulheres, foram mortos e decapitados, entre eles Lampião e sua companheira, Maria Gomes, posteriormente alcunhada de Bonita. As cabeças foram transportadas para Piranhas, cidade alagoana [...] sendo expostas ao público nos degraus de acesso à prefeitura e, posteriormente [...] exibidas nas cidades alagoanas, em percurso até a capital, Maceió."
+- "As de Lampião e Maria Gomes foram enviadas para a Salvador [...] onde ficaram expostas no Museu Antropológico Estácio de Lima [...] Somente vieram a ser sepultadas em seis de fevereiro de 1969 [...] após familiares conquistarem o direito na Justiça."
+- Para a pergunta: "Além da tática antiga de impor medo através de ações violentas praticadas pelo Estado [...]"
+
+Dado em disputa: buscas mostram um trabalho da UFBA que dá 1971 para o sepultamento. O texto usa 1969, ano desta fonte.
