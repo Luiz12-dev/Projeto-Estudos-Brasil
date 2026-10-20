@@ -491,3 +491,12 @@ Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da popu
 - Nota: "O total de pessoas indígenas compreende as pessoas declaradas por meio do quesito de cor ou raça e aquelas declaradas por meio do quesito 'se considera indígena'." / "[...] a manutenção da pergunta de cobertura 'se considera indígena', com aplicação ampliada [...]"
 
 A primeira frase da pergunta ("muita gente acha...") é um convite à discussão, não um dado.
+
+## RN — O capitão do mato cercado
+
+Fonte: o mesmo e-book da UERN usado na primeira entrada do RN (2024). PDF: https://portal.uern.br/wp-content/uploads/sites/14/2024/09/E-book-30-de-Setembro-por-uma-historia-da-libertacao.pdf
+
+- Trecho citado no e-book (LIMA, 1938): "[...] chegara aqui, em busca de um casal em fuga, o capitão do mato Lacerda, vindo de Piancó. Estevam e Merencia estavam, de fato, homiziados em casa de Preto José, já liberto [...] Conseguindo retomá-los, conduziu-os para a cidade e os prendeu, à noite, em um armazém [...] Avisado do plano, o Clube dos Spartacus, logo às 5 horas, partiu com sua república, ou quartel, fardados e bem armados. [...] intimaram Lacerda a deixar irem-se em paz os dois infelizes [...] a cena empolgou a massa popular, que já ali se formara. Havia tumulto [...] quando intervieram os diretores da Libertadora, que conseguiram conter a onda de indignação, apelando para os meios legais. Foi requerido e feito, dentro de minutos, o depósito dos escravos aludidos [...] E o bravio capitão, embolsado da indenização, partiu no dia seguinte [...]"
+- "[...] Clube dos Spartacus [...] composto principalmente por ex-escravizados [...]"
+
+Atenção: o ano do episódio não aparece no trecho; o e-book o situa na campanha abolicionista de Mossoró, que terminou em 1883. Por isso a entrada não tem o campo `periodo`. O relato vem de um livro de 1938 (LIMA) citado no e-book.
