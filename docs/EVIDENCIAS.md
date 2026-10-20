@@ -117,3 +117,14 @@ Fonte: FLORENTINO, Aline Birchener Villa Nova. *Insurreição do Queimado: um gr
 - "Para cinco deles foi sentenciada a pena capital já que foram considerados 'mentores' do movimento. Outros 25 foram sentenciados à açoites e seis foram absolvidos."
 
 Dado em disputa: buscas mostram outra fonte com cerca de 200 participantes. Por isso o texto atribui os 300 ao jornal da época.
+
+## MS — Confinados em 60 hectares
+
+Fonte: LOURENÇO, Renata. "A Missão Evangélica Caiuá e a educação escolar para os indígenas da Reserva de Dourados e aldeia do Panambizinho – de 1928 a 1968". *Fronteiras*, Dourados, v. 12, n. 21, p. 125-150, jan./jun. 2010. PDF: https://ojs.ufgd.edu.br/FRONTEIRAS/article/download/598/715/3060
+
+- "A Reserva de Dourados foi criada pelo Decreto n. 404, de 03 de setembro de 1917, compreendendo uma área de 3.539 hectares. A área foi reservada especificamente para abrigar índios Guarani. Cabe ressaltar que a demarcação de tal Reserva não seguiu qualquer critério referenciado ao território e ocupação tradicional Guarani [...]"
+- "[...] processo de colonização que teve início com a criação da Colônia Agrícola Nacional de Dourados (CAND), promovida pelo governo federal a partir da década de 1940."
+- "A criação da CAND teve um profundo impacto na vida dos Kaiowá, os quais passaram a conviver em disputa permanente com os novos colonos, trazidos para ocupar os lotes de terra, antes pertencentes aos índios Kaiowá."
+- "[...] aproximadamente 280 índios, somente da etnia Kaiowá, permaneceram confinados em 60 hectares, lutando até a obtenção de parte de suas terras, que lhes foram devolvidas somente no final de 2004, quando foram homologados 1.260 hectares como Terra Indígena para esta população."
+
+A pergunta fala em "mais de 60 anos", contados da década de 1940 até 2004.

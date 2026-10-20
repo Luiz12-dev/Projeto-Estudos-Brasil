@@ -152,13 +152,14 @@
   },
   {
     "uf": "MS",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Confinados em 60 hectares",
+    "texto": "A Reserva de Dourados (MS) foi criada em 1917, com 3.539 hectares, para abrigar indígenas Guarani — sem seguir critérios da ocupação tradicional. A partir dos anos 1940, a Colônia Agrícola Nacional de Dourados, do governo federal, trouxe colonos para terras antes pertencentes aos Kaiowá. Cerca de 280 Kaiowá do Panambi ficaram confinados em 60 hectares até o fim de 2004, quando foram homologados 1.260 hectares como Terra Indígena.",
+    "periodo": "1917–2004",
+    "pergunta": "O que significa um povo esperar mais de 60 anos para ter parte de suas terras reconhecida? Quem ganhou com a colonização da região?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Renata Lourenço — Revista Fronteiras (UFGD)",
+      "ano": "2010",
+      "url": "https://ojs.ufgd.edu.br/FRONTEIRAS/article/download/598/715/3060"
     },
     "verificado": false
   },
