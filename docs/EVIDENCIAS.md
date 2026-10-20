@@ -500,3 +500,14 @@ Fonte: o mesmo e-book da UERN usado na primeira entrada do RN (2024). PDF: https
 - "[...] Clube dos Spartacus [...] composto principalmente por ex-escravizados [...]"
 
 Atenção: o ano do episódio não aparece no trecho; o e-book o situa na campanha abolicionista de Mossoró, que terminou em 1883. Por isso a entrada não tem o campo `periodo`. O relato vem de um livro de 1938 (LIMA) citado no e-book.
+
+## SE — Cabeça em troca de promoção
+
+Fonte: o mesmo artigo de José Ferreira Júnior usado na primeira entrada de SE (*Ponta de Lança*, UFS, 2023). PDF: https://periodicos.ufs.br/pontadelanca/article/download/19549/14977
+
+- "No embate entre cangaceiros e volantes a prática de cortar cabeças, todavia, era realizada unilateralmente. Somente ocorria por parte dos soldados de volante. Não se conhece tal prática entre cangaceiros. Estes, na violência que externalizavam, protagonizavam atos de crueldade inominável, como castrações, marcação com ferro em brasa, esfolamento, sangramentos. Todavia, desconhece-se na historiografia cangaceira a prática de cortar cabeças de vítimas suas, fossem essas até mesmo policiais."
+- "José Osório de Farias, conhecido com Zé Rufino, é tido na historiografia cangaceira como o maior cortador de cabeças de cangaceiros. [...] Zé Rufino teria feito um acordo com o governo estadual, quanto mais cabeças de cangaceiros fossem cortadas, mais promoções seriam conquistadas."
+- Citação no artigo: "[...] havia um acordo secreto com o governo daquele estado. Cada cabeça que o contratado apresentasse era trocada por uma promoção."
+- Período: título do artigo, "(1922 – 1938)".
+
+Atenção: Zé Rufino atuava pela polícia da Bahia. A entrada está em SE porque o artigo trata do cangaço a partir de Angico (SE).
