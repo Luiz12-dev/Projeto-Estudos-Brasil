@@ -713,6 +713,19 @@
     "verificado": false
   },
   {
+    "uf": "SC",
+    "titulo": "Santa Catarina menos branca",
+    "texto": "Santa Catarina é um dos estados mais brancos do país (76,3% de pessoas brancas em 2022) e o que tem a menor proporção de pessoas pretas (4,1%). Mas, entre 2010 e 2022, foi onde a população parda mais cresceu: 88,6%. A população preta aumentou 68,6%, e a branca, 10,6%. A população total do estado cresceu 21,8%, a segunda maior variação do país.",
+    "periodo": "2010–2022",
+    "pergunta": "Que imagem você tem da população de Santa Catarina? O que esses números sugerem sobre migração e sobre como as pessoas se declaram?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "SP",
     "titulo": "111 mortos no Carandiru",
     "texto": "Na tarde de 2 de outubro de 1992, a tropa de choque da Polícia Militar entrou na Casa de Detenção de São Paulo, o Carandiru, para conter uma rebelião. Morreram 111 presos; 93 deles receberam três ou mais tiros. Em 1993, a promotoria militar denunciou 120 policiais. Vinte anos depois, segundo pesquisadoras da FGV, ninguém havia sido responsabilizado, e só 26 familiares das vítimas tinham concluído processos de indenização.",

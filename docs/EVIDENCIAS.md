@@ -650,3 +650,14 @@ Fonte: a mesma dissertação de Marcelo Garcia da Rocha usada na primeira entrad
 - "[...] provinham do tronco linguístico Banto, o qual engloba as regiões de Angola, Benguela e Congo [...]" (citando FAUSTINO, 1991)
 
 "Que ainda não falavam português" resume a definição da fonte, que opõe os "africanos novos" aos "ladinos", "escravos conhecedores de língua portuguesa". Pela mesma fonte, Faustino diz que esses escravizados vinham em sua maioria do tráfico interprovincial (de Pernambuco e do Rio de Janeiro), não direto da África: o texto diz "Muitos vinham do tronco linguístico banto", sem dizer por qual rota.
+
+## SC — Santa Catarina menos branca
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- "As três Unidades da Federação com maior peso relativo de população branca estavam localizadas na Região Sul. Eram elas: Rio Grande do Sul, com 78,4% de população branca, Santa Catarina, com 76,3%, e Paraná com 64,6%."
+- "Os menores pesos relativos encontravam-se nas Unidades da Federação de Santa Catarina, com 4,1% de população preta [...]"
+- Tabela 3 (Variação 2010-2022), colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Santa Catarina 21,8% 10,6% 68,6% -52,2% 88,6% 19,5%".
+- "Maior crescimento de pardos" e "segunda maior variação total": comparei as colunas de todas as UFs da Tabela 3. Na parda, SC (88,6%) vem antes de RS (41,3%); no total, SC (21,8%) só fica atrás de RR (41,3%).
+
+A migração é mencionada só na pergunta: a fonte não explica a causa.
