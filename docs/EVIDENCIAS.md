@@ -511,3 +511,12 @@ Fonte: o mesmo artigo de José Ferreira Júnior usado na primeira entrada de SE 
 - Período: título do artigo, "(1922 – 1938)".
 
 Atenção: Zé Rufino atuava pela polícia da Bahia. A entrada está em SE porque o artigo trata do cangaço a partir de Angico (SE).
+
+## BR — Um país que se declara diferente
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- Tabela 3 (Variação 2010-2022), colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Brasil 6,5% -3,1% 42,3% -59,2% 11,9% 89,0%".
+- "Os dados do Censo Demográfico 2022 evidenciam que a população residente no Brasil é formada por 92 083 286 pessoas pardas (45,3%), 88 252 121 brancas (43,5%), 20 656 458 pretas (10,2%), 1 694 836 indígenas (0,8%) e 850 130 amarelas (0,4%)."
+
+O caráter autodeclarado do quesito é a base do método do IBGE (a publicação trata da "declaração" de cor ou raça). A pergunta não afirma causas.

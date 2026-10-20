@@ -13,6 +13,19 @@
     "verificado": false
   },
   {
+    "uf": "BR",
+    "titulo": "Um país que se declara diferente",
+    "texto": "Entre os Censos de 2010 e 2022, a população brasileira cresceu 6,5%. No mesmo período, quem se declarou preto aumentou 42,3%, e o total de indígenas, 89,0%. Já a população declarada branca caiu 3,1%. Em 2022, o Brasil tinha 45,3% de pessoas pardas, 43,5% brancas, 10,2% pretas, 0,8% indígenas e 0,4% amarelas, segundo o IBGE.",
+    "periodo": "2010–2022",
+    "pergunta": "Cor ou raça no Censo é autodeclarada. O que pode levar mais pessoas a se declararem pretas ou indígenas? Isso muda a história ou a forma de contá-la?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "AC",
     "titulo": "Nem revolução, nem acreana?",
     "texto": "O conflito de 1902 que levou à anexação do Acre ao Brasil começou em 6 de agosto, data da independência da Bolívia, e foi liderado pelo gaúcho Plácido de Castro, com patrocínio do governo do Amazonas. A maioria dos combatentes brasileiros eram seringueiros nordestinos. Pesquisadores lembram que o Acre era território boliviano e que muitos seringueiros lutaram por ordem de seus patrões, os seringalistas. Um livro sobre o tema se chama “Não foi revolução nem acreana”.",
