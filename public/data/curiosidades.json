@@ -101,13 +101,14 @@
   },
   {
     "uf": "ES",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "A revolta no dia da festa",
+    "texto": "Em 19 de março de 1849, dia de São José, um grupo de escravizados armados entrou na igreja recém-construída do Queimado, hoje no município da Serra (ES). Eles tinham erguido o templo em suas folgas e dias santos e entendiam que esse trabalho lhes daria direito à alforria. Segundo um jornal da época, o grupo chegou a 300 pessoas. A repressão foi violenta: no julgamento, cinco foram condenados à morte e 25 a açoites.",
+    "periodo": "1849",
+    "pergunta": "Por que a revolta aconteceu justamente no dia da inauguração da igreja? O que ela revela sobre as promessas de liberdade feitas aos escravizados?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Aline B. V. N. Florentino — TCC em História, UFES",
+      "ano": "2024",
+      "url": "https://repositorio.ufes.br/server/api/core/bitstreams/be30139d-f403-4ba1-b74c-4f1313905e5a/content"
     },
     "verificado": false
   },

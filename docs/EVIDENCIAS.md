@@ -104,3 +104,16 @@ Fonte: NEVES, Frederico de Castro. "Getúlio e a seca: políticas emergenciais n
 - "[...] construíam a idéia de uma Amazônia ideal, terra da 'promissão', da 'fartura' e da 'esperança' [...] os retirantes eram alistados e preparados como soldados que iriam se deparar com uma 'batalha' [...] O fim da guerra iria demonstrar o contrário: o soldado foi esquecido, e o campo de batalha, abandonado."
 
 Atenção: o artigo fala da Amazônia em geral (destinos citados: Belém e Manaus), não só do Amazonas. Se preferir, esta entrada pode ir para o Acre ou o Pará. A segunda parte da pergunta é um convite à discussão: a fonte não descreve as condições nos seringais.
+
+## ES — A revolta no dia da festa
+
+Fonte: FLORENTINO, Aline Birchener Villa Nova. *Insurreição do Queimado: um grito de luta e resistência contra a escravidão no século XIX*. Trabalho de Conclusão de Curso (Licenciatura em História), UFES, 2024. PDF: https://repositorio.ufes.br/server/api/core/bitstreams/be30139d-f403-4ba1-b74c-4f1313905e5a/content
+
+**Atenção: é um TCC de graduação, de universidade pública, mas sem revisão por pares.** Avalie se é suficiente ou se vale buscar artigo ou livro, como o de Afonso Cláudio, citado no TCC.
+
+- "O movimento aconteceu em 1849, na freguesia do Queimado, área que pertencia a Vitória, mas que hoje está localizada na Serra."
+- "E nesse dia 19 de março de 1849 [...] Um grupo de negros escravizados armados adentrou a igreja e aos gritos proclamavam a liberdade por meio de uma alforria que teriam direito em função do trabalho que tinham realizado no próprio templo. Entendiam que o trabalho dispendido na construção usando suas folgas e dias santos indenizaria seus senhores [...]"
+- "Narrado o episódio por um jornal da época que o grupo revoltoso chegou a trezentas pessoas. [...] a revolta foi rapidamente retaliada gerando mortos e prisioneiros, pois agiram de maneira extremamente violenta."
+- "Para cinco deles foi sentenciada a pena capital já que foram considerados 'mentores' do movimento. Outros 25 foram sentenciados à açoites e seis foram absolvidos."
+
+Dado em disputa: buscas mostram outra fonte com cerca de 200 participantes. Por isso o texto atribui os 300 ao jornal da época.
