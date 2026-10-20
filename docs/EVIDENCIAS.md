@@ -406,3 +406,11 @@ Fonte: o mesmo artigo de Magda Ricci usado na primeira entrada do PA (*Tempo*, 2
 - "Eles se autodenominavam 'patriotas', mas ser patriota não era necessariamente sinônimo de ser brasileiro."
 
 O texto diz "o menino Pedro II" porque a fonte fala em "Imperador menino, Pedro II" ("[...] mantinham vínculos com o regime constitucional carioca, especialmente com o Imperador menino, Pedro II").
+
+## RO — Um estado de migrantes
+
+Fonte: o mesmo capítulo de *Saúde Brasil 2008* usado na entrada do MT. PDF: https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content
+
+- "As áreas dos clusters na região Amazônica coincidem com áreas de projetos de assentamento e de polos de desenvolvimento agropecuário. No censo de 1980, não haviam nascido no estado de residência 35,5% da população no Mato Grosso e 40,7% em Rondônia. A densidade demográfica passou de 0,15 habitante por km2, em 1950, para 5,8 habitantes/km2 em 2000, em Rondônia [...] Há, ainda, a circulação de garimpeiros, à procura de ouro e cassiterita, nas áreas desses clusters."
+
+"Quase 40 vezes" é conta minha: 5,8 ÷ 0,15 ≈ 38,7.

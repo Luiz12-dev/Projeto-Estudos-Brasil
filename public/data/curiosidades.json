@@ -376,6 +376,19 @@
     "verificado": false
   },
   {
+    "uf": "RO",
+    "titulo": "Um estado de migrantes",
+    "texto": "No Censo de 1980, 40,7% dos moradores de Rondônia não tinham nascido no estado. Entre 1950 e 2000, a densidade demográfica passou de 0,15 para 5,8 habitantes por km² — quase 40 vezes mais. Segundo estudo publicado pelo Ministério da Saúde, as áreas de maior risco de hanseníase na Amazônia coincidiam com projetos de assentamento e polos agropecuários, por onde também circulavam garimpeiros em busca de ouro e cassiterita.",
+    "periodo": "1950–2000",
+    "pergunta": "O que acontece com a saúde de uma região quando sua população cresce tão rápido, vinda de tantos lugares diferentes?",
+    "fonte": {
+      "nome": "Penna, Gross, Rocha e Penna — Saúde Brasil 2008 (Ministério da Saúde)",
+      "ano": "TODO: verificar",
+      "url": "https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content"
+    },
+    "verificado": false
+  },
+  {
     "uf": "RR",
     "titulo": "O estado mais indígena do país",
     "texto": "Em Roraima, 15,4% da população é indígena — a maior proporção entre todas as Unidades da Federação, segundo o Censo 2022 do IBGE. Em seguida vêm Amazonas (12,5%) e Mato Grosso do Sul (4,2%). No outro extremo, Rio de Janeiro e São Paulo têm apenas 0,1% de população indígena. No Brasil, são 1.694.836 indígenas, 0,8% da população.",
