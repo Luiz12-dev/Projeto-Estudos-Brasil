@@ -75,13 +75,14 @@
   },
   {
     "uf": "CE",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Campos de concentração no sertão",
+    "texto": "Na seca de 1932, o governo implantou no Ceará campos de concentração para retirantes: famintos eram induzidos a entrar e proibidos de sair. Cinco campos ficavam perto das principais vias de acesso a Fortaleza, para impedir a chegada dos flagelados à capital. Lá dentro, recebiam rações e eram submetidos a regras de moradia, trabalho e comportamento. O maior campo, no Crato, chegou a abrigar quase 60 mil pessoas.",
+    "periodo": "1932",
+    "pergunta": "Os campos eram apresentados como assistência aos famintos. O que os torna, ao mesmo tempo, uma forma de controle? Por que esse episódio é tão pouco conhecido?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Frederico de Castro Neves — Revista Brasileira de História",
+      "ano": "2001",
+      "url": "https://www.scielo.br/j/rbh/a/5GNSQTXnMM7kTM3rr8B4TrM/?format=html&lang=pt"
     },
     "verificado": false
   },

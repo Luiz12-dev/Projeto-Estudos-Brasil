@@ -21,3 +21,13 @@ Fonte: IBGE Educa, página "Quilombolas". https://educa.ibge.gov.br/jovens/conhe
 - "Entre as Unidade da Federação, a Bahia é a que apresenta o maior quantitativo de quilombolas: 397.059 pessoas, correspondendo a 29,90% da população quilombola."
 - "O município de Senhor do Bonfim/BA possui o maior número de pessoas quilombolas (15.999). Na sequência: Salvador/BA, com 15.897, Alcântara/MA, com 15.616, e Januária/MG, com 15.000."
 - "[...] 12,6% dos quilombolas residentes no Brasil ocupam territórios oficialmente delimitados e 87,4% estão fora de áreas formalmente delimitadas e reconhecidas."
+
+## CE — Campos de concentração no sertão
+
+Fonte: NEVES, Frederico de Castro. "Getúlio e a seca: políticas emergenciais na era Vargas". *Revista Brasileira de História*, 21 (40), 2001. https://doi.org/10.1590/S0102-01882001000100006 — URL usada: https://www.scielo.br/j/rbh/a/5GNSQTXnMM7kTM3rr8B4TrM/?format=html&lang=pt
+
+- "Assim, um amplo programa de criação de campos de concentração, em que os retirantes fossem induzidos a entrar e proibidos de sair, foi implementado com total apoio da Interventoria Federal no Ceará. A fim de prevenir a 'afluência tumultuária' de retirantes famintos a Fortaleza, cinco campos localizavam-se nas proximidades das principais vias de acesso à capital [...]"
+- "Uma vez dentro do campo, o retirante era obrigado não só a permanecer nele durante todo o período considerado de seca, mas deveria submeter-se a condições de moradia, relacionamento, trabalho e comportamento regulados [...] através da concessão de rações diárias e de assistência médica."
+- "[...] o maior campo, na cidade do Crato, chegou a abrigar quase 60 mil pessoas [...]"
+
+A segunda pergunta ("por que é pouco conhecido") é um convite à discussão, não uma afirmação factual.
