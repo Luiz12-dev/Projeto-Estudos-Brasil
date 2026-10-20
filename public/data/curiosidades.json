@@ -465,5 +465,18 @@
       "url": "https://repositorio.ufpa.br/jspui/bitstream/2011/2458/1/Dissertacao_GuerrilhaAraguaiaPaulistas.pdf"
     },
     "verificado": false
+  },
+  {
+    "uf": "TO",
+    "titulo": "O terceiro estado mais preto do país",
+    "texto": "Segundo o Censo 2022, o Tocantins tem a terceira maior proporção de pessoas pretas do país: 13,2% dos moradores. Fica atrás apenas da Bahia (22,4%) e do Rio de Janeiro (16,2%). Entre 2010 e 2022, a população preta do estado cresceu 58,0%. As menores proporções estão em Santa Catarina (4,1%), no Paraná (4,3%) e no Amazonas (4,9%).",
+    "periodo": "2022",
+    "pergunta": "Você imaginava o Tocantins entre os estados com mais pessoas pretas? De onde vem a nossa imagem de onde vive a população negra no Brasil?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
   }
 ]

@@ -424,3 +424,10 @@ Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da popu
 - "[...] Roraima, com 15,4% de sua população residente indígena [...]"
 
 A publicação não explica a causa do crescimento, por isso a entrada não afirma nenhuma. "Seis vezes" na pergunta é conta minha: 41,3 ÷ 6,5 ≈ 6,4.
+
+## TO — O terceiro estado mais preto do país
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- "Analisando o peso relativo da população preta nas Unidades da Federação, o destaque vai para a Bahia, com 22,4%, seguida do Rio de Janeiro, com 16,2%, e Tocantins, com 13,2%. Os menores pesos relativos encontravam-se nas Unidades da Federação de Santa Catarina, com 4,1% de população preta, seguida do Paraná, com 4,3%, e do Amazonas, com 4,9%."
+- Tabela 3: "Tocantins 9,3% 1,6% 58,0% -86,7% 7,6% 41,8%" (a coluna Preta é a terceira).
