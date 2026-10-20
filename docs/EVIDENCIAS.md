@@ -801,3 +801,11 @@ Fonte: o mesmo TCC usado na primeira entrada do ES (UFES, 2024; sem revisão por
 - "A Revolta de Queimados, ocorrida em 1849 no Espírito Santo, é um evento marcante na história do Brasil, mas por muito tempo foi relativamente pouco estudada [...] Os relatos existentes eram muitas vezes superficiais e centrados na perspectiva dos senhores de escravos e autoridades coloniais. As narrativas iniciais tendiam a descrever a revolta como um distúrbio isolado [...]"
 - "Com a ascensão de novas abordagens historiográficas nas décadas de 1970 e 1980 [...] houve um renovado interesse pelos episódios de resistência escrava."
 - "A insurreição do Queimado, ao longo dos anos, tornou-se um evento comemorado pelo movimento social negro, em escolas, e pelo Estado, que vem criando formas de preservar o patrimônio histórico da insurreição, como o tombamento do local, assim como a criação do Parque Histórico do Queimado. Uma estátua de Chico Prego, figura principal da insurreição foi erguida no centro da Serra [...]"
+
+## AL — Os sobreviventes de Palmares
+
+Fonte: a mesma dissertação de Dimas Bezerra Marques usada na primeira entrada de AL (UFAL, 2014).
+
+- "[...] travar guerra contra Zumbi e seus homens. Pensa-se que as tropas de Domingos Jorge Velho tenham usufruído das sesmarias para se consolidarem na região palmarina. Sabe-se que eles permaneceram nas matas e formaram um terço com o objetivo de vigiar e conter possíveis ameaças dos sobreviventes, que ainda resistiram durante o século XVIII. Como conseguiram mercês nobilitantes, a exemplo dos Hábitos de Cristo, poderiam atestar pra si o título de elite."
+
+O texto usa "teriam se beneficiado" porque a fonte diz "pensa-se que".
