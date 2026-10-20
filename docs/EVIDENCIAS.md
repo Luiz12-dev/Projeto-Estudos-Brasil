@@ -43,3 +43,12 @@ Observação: o artigo se define como "experimento textual" baseado em personage
 - "A menina Leide das Neves de seis anos havia recebido do pai [...] algumas pedrinhas azuis de césio-137 para brincar. A criança foi contaminada ao comer ovo cozido com as mãos sujas do pó radioativo durante o jantar." / "Maria Gabriela e a criança Leide das Neves não suportaram a excessiva dose de radiação [...] e morreram [...]"
 - "Somente em 1991 foi construído o depósito definitivo de rejeitos radioativos em Abadia de Goiás [...] a radiação e o potencial de contaminação permanecerão ativos por, pelo menos, 300 anos [...]"
 - Para a pergunta: "Nos três anos em que permanecera abandonada (1985 a 1987), a cápsula não fora objeto de nenhum ato de fiscalização da Comissão Nacional de Energia Nuclear (CNEN)."
+
+## MA — Uma cidade quilombola
+
+Fonte: IBGE Educa, página "Quilombolas". https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html — sem data de publicação visível (campo `ano` como TODO).
+
+- "O município de Alcântara/MA se destaca por ter a maior parte de sua população sendo quilombola; pois dos 18.466 habitantes, 15.616 (84,57%) são pessoas quilombolas."
+- "Em segundo lugar está o Maranhão, com 269.074 pessoas quilombolas, o que corresponde a 20,26% da população quilombola. Estas duas Unidades somadas representam 50,16% de toda a população quilombola do Brasil."
+
+O texto tem 3 frases; pode precisar de uma quarta linha para atingir o mínimo de 4 linhas do schema.

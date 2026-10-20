@@ -125,13 +125,14 @@
   },
   {
     "uf": "MA",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Uma cidade quilombola",
+    "texto": "Em Alcântara, no Maranhão, 15.616 dos 18.466 habitantes — 84,57% — são quilombolas, segundo o Censo 2022. O Maranhão tem a segunda maior população quilombola do país, com 269.074 pessoas. Somados, Maranhão e Bahia reúnem 50,16% de todos os quilombolas do Brasil.",
+    "periodo": "2022",
+    "pergunta": "O que a forte presença quilombola no Maranhão revela sobre a história da escravidão e da resistência nessa região?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "IBGE Educa — Quilombolas (Censo 2022)",
+      "ano": "TODO: verificar",
+      "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html"
     },
     "verificado": false
   },
