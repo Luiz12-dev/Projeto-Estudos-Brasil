@@ -104,6 +104,19 @@
     "verificado": false
   },
   {
+    "uf": "AL",
+    "titulo": "Os sobreviventes de Palmares",
+    "texto": "Palmares não acabou de uma vez. Sobreviventes dos mocambos ainda resistiram durante o século XVIII. As tropas de Domingos Jorge Velho, que lutaram contra Zumbi, permaneceram nas matas e formaram um terço militar para vigiar e conter possíveis ameaças desses sobreviventes. Para isso, teriam se beneficiado das sesmarias recebidas na região palmarina e conseguiram títulos como o Hábito de Cristo.",
+    "periodo": "século XVIII",
+    "pergunta": "Por que a história costuma contar só a “destruição” de Palmares, e não a resistência que veio depois?",
+    "fonte": {
+      "nome": "Dimas Bezerra Marques — Dissertação de Mestrado em História, UFAL",
+      "ano": "2014",
+      "url": "https://www.repositorio.ufal.br/bitstream/riufal/1383/1/Pelo%20bem%20de%20meus%20servi%C3%A7os,%20rogo-lhe%20est%C3%A1%20merc%C3%AA:%20A%20influ%C3%AAncia%20da%20guerra%20de%20Palmares%20na%20distribui%C3%A7%C3%A3o%20de%20merc%C3%AAs%20(Capitania%20de%20Pernambuco,%201660-1778).pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "AP",
     "titulo": "Desterrados no Oiapoque",
     "texto": "No início dos anos 1920, o governo criou na região de fronteira do Amapá o Núcleo Colonial Cleveland, ocupado sobretudo por cearenses atingidos pela seca de 1915–1919. A colônia agrícola fracassou e virou colônia penal: a partir de 1924, Clevelândia do Norte recebeu dissidentes, anarquistas, comunistas e outros “indesejáveis”. Segundo um relatório da época citado por historiadores, em 1926, dos 946 presos enviados para lá, 444 tinham morrido.",
@@ -195,6 +208,19 @@
     "verificado": false
   },
   {
+    "uf": "BA",
+    "titulo": "234 processos e papéis em árabe",
+    "texto": "Depois da Revolta dos Malês, em Salvador, na noite de 24 para 25 de janeiro de 1835, foram processados 234 revoltosos: 165 nagôs e africanos de muitas outras nações, entre eles 14 mulheres. A polícia apreendeu papéis escritos em árabe. Muitos foram condenados à morte; outros receberam de 200 a mil chicotadas, foram para as galés ou deportados para a África. Como ninguém aceitou ser carrasco, nem mediante pagamento, os condenados à forca foram fuzilados.",
+    "periodo": "1835",
+    "pergunta": "Africanos escravizados que sabiam ler e escrever em árabe: o que isso muda na imagem que a escola costuma passar sobre quem eram as pessoas escravizadas?",
+    "fonte": {
+      "nome": "Etienne Ignace — A revolta dos Malês (Afro-Ásia, UFBA)",
+      "ano": "1907",
+      "url": "https://periodicos.ufba.br/index.php/afroasia/article/download/20764/13367"
+    },
+    "verificado": false
+  },
+  {
     "uf": "CE",
     "titulo": "Campos de concentração no sertão",
     "texto": "Na seca de 1932, o governo implantou no Ceará campos de concentração para retirantes: famintos eram induzidos a entrar e proibidos de sair. Cinco campos ficavam perto das principais vias de acesso a Fortaleza, para impedir a chegada dos flagelados à capital. Lá dentro, recebiam rações e eram submetidos a regras de moradia, trabalho e comportamento. O maior campo, no Crato, chegou a abrigar quase 60 mil pessoas.",
@@ -217,6 +243,19 @@
       "nome": "Frederico de Castro Neves — Revista Brasileira de História",
       "ano": "2001",
       "url": "https://www.scielo.br/j/rbh/a/5GNSQTXnMM7kTM3rr8B4TrM/?format=html&lang=pt"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "CE",
+    "titulo": "O Ceará indígena",
+    "texto": "Entre 2010 e 2022, a população indígena do Ceará cresceu 172,4%, segundo o Censo do IBGE — a terceira maior variação do país, depois do Rio Grande do Norte e da Bahia. No mesmo período, a população preta do estado aumentou 51,7%, e a branca diminuiu 9,2%. O total de indígenas inclui quem respondeu “sim” à pergunta “você se considera indígena?”.",
+    "periodo": "2010–2022",
+    "pergunta": "Por que a presença indígena no Nordeste ficou tanto tempo “invisível” nas estatísticas? O que muda quando as pessoas podem se declarar indígenas?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
     "verificado": false
   },
@@ -247,6 +286,19 @@
     "verificado": false
   },
   {
+    "uf": "DF",
+    "titulo": "A polícia paga pela construtora",
+    "texto": "Durante a construção de Brasília, uma polícia paramilitar ganhou destaque: a Guarda Especial de Brasília (GEB). Ela era subordinada à Secretaria de Segurança Pública de Goiás, mas suas despesas materiais e de pessoal eram pagas pela Novacap, a companhia responsável pela obra. Segundo a pesquisadora Nair Heloisa Bicalho de Sousa, a GEB tinha “a missão repressiva na área das obras, dos acampamentos e da Cidade Livre”, garantindo o intenso ritmo de trabalho.",
+    "periodo": "1957–1960",
+    "pergunta": "Que problema existe quando a polícia que deveria proteger os trabalhadores é paga por quem os emprega?",
+    "fonte": {
+      "nome": "Nair Heloisa Bicalho de Sousa (UnB) — artigo",
+      "ano": "TODO: verificar",
+      "url": "https://unb.revistaintercambio.net.br/24h/pessoa/temp/anexo/1/1251/2053.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "ES",
     "titulo": "A revolta no dia da festa",
     "texto": "Em 19 de março de 1849, dia de São José, um grupo de escravizados armados entrou na igreja recém-construída do Queimado, hoje no município da Serra (ES). Eles tinham erguido o templo em suas folgas e dias santos e entendiam que esse trabalho lhes daria direito à alforria. Segundo um jornal da época, o grupo chegou a 300 pessoas. A repressão foi violenta: no julgamento, cinco foram condenados à morte e 25 a açoites.",
@@ -269,6 +321,19 @@
       "nome": "Simone Raquel Batista Ferreira — Revista Geografares (UFES)",
       "ano": "2010",
       "url": "https://periodicos.ufes.br/geografares/article/download/1298/980/1568"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "ES",
+    "titulo": "De revolta esquecida a patrimônio",
+    "texto": "Por muito tempo, a Insurreição do Queimado (1849) foi pouco estudada; os primeiros relatos eram centrados na visão dos senhores e das autoridades e a tratavam como um distúrbio isolado. Com novas abordagens a partir dos anos 1970 e 1980, a revolta passou a ser vista como resistência dos escravizados. Hoje ela é lembrada pelo movimento negro, em escolas e pelo Estado: o local foi tombado, foi criado o Parque Histórico do Queimado e uma estátua de Chico Prego, figura principal da insurreição, foi erguida no centro da Serra.",
+    "periodo": "1849–hoje",
+    "pergunta": "Por que uma revolta pode passar de “distúrbio isolado” a símbolo de resistência? Quem decide como um fato é lembrado?",
+    "fonte": {
+      "nome": "Aline B. V. N. Florentino — TCC em História, UFES",
+      "ano": "2024",
+      "url": "https://repositorio.ufes.br/server/api/core/bitstreams/be30139d-f403-4ba1-b74c-4f1313905e5a/content"
     },
     "verificado": false
   },
@@ -338,6 +403,19 @@
     "verificado": false
   },
   {
+    "uf": "MA",
+    "titulo": "Movimentos dos atingidos pela base",
+    "texto": "Os quilombolas de Alcântara (MA) se organizaram contra novas remoções para o Centro de Lançamento: em 1992 surgiu o Movimento das Mulheres Trabalhadoras Rurais de Alcântara; em 1997, a associação estadual das comunidades quilombolas; e em 1999, o Movimento dos Atingidos pela Base Espacial (MABE). Segundo a resenha de um livro sobre o tema, até a publicação não havia estudos de impacto ambiental da base, e as tentativas de lançamento não tiveram êxito — na última, em 2003, o foguete explodiu e matou 21 cientistas.",
+    "periodo": "1992–2003",
+    "pergunta": "Como comunidades pequenas conseguem enfrentar um projeto do Estado? O que deveria vir antes de uma obra desse tamanho?",
+    "fonte": {
+      "nome": "Ilnar Fernandes Feitoza — Revista de Pós-Graduação em Ciências Sociais (UFMA)",
+      "ano": "2023",
+      "url": "https://periodicoseletronicos.ufma.br/index.php/rpcsoc/article/download/20939/11683/63313"
+    },
+    "verificado": false
+  },
+  {
     "uf": "MT",
     "titulo": "Uma doença antiga na fronteira nova",
     "texto": "Segundo um estudo publicado pelo Ministério da Saúde no relatório Saúde Brasil 2008, as áreas de maior risco de hanseníase na Amazônia coincidiam com projetos de assentamento e polos de desenvolvimento agropecuário. No Censo de 1980, 35,5% dos moradores de Mato Grosso não tinham nascido no estado. Entre 1950 e 2000, a densidade passou de 0,42 para 2,47 habitantes por km². Mato Grosso estava entre os estados com alta detecção em menores de 15 anos, sinal de transmissão recente.",
@@ -390,6 +468,19 @@
     "verificado": false
   },
   {
+    "uf": "MS",
+    "titulo": "Diversidade em Mato Grosso do Sul",
+    "texto": "Mato Grosso do Sul tem a terceira maior proporção de indígenas do país — 4,2% dos moradores, atrás só de Roraima e Amazonas, segundo o Censo 2022. Também tem a terceira maior proporção de pessoas amarelas (0,7%), depois de São Paulo (1,2%) e Paraná (0,9%). Entre 2010 e 2022, a população indígena do estado cresceu 51,2%.",
+    "periodo": "2022",
+    "pergunta": "Que povos e migrações ajudam a explicar essa diversidade no Mato Grosso do Sul? Como essa história aparece (ou não) nas escolas do estado?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "MG",
     "titulo": "O “trem de doido” de Barbacena",
     "texto": "No Hospital Colônia de Barbacena (MG) morreram cerca de 60 mil pacientes, segundo o livro “Holocausto Brasileiro” (2013), da jornalista Daniela Arbex. Muitos chegavam em vagões de carga — o “trem de doido”. Havia frio sem roupas nem camas, comida racionada e eletrochoques, e corpos de mortos eram vendidos a faculdades de medicina. Na ditadura, os hospitais psiquiátricos recebiam diária por paciente, e os leitos saltaram de 14 mil para cerca de 70 mil em 1970.",
@@ -411,6 +502,18 @@
       "nome": "IBGE Educa — Quilombolas (Censo 2022)",
       "ano": "TODO: verificar",
       "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "MG",
+    "titulo": "Internar demais",
+    "texto": "O Hospital Colônia de Barbacena não foi um caso isolado: o Hospital Colônia e “outros hospitais mineiros” fizeram de Minas Gerais referência na internação psiquiátrica em massa. Segundo artigo publicado em 2021, as internações nos hospitais psiquiátricos mineiros superavam o dobro do recomendado pela Organização Mundial da Saúde, que é de 3 internações por mil habitantes. A partir dos anos 1980, o Movimento da Luta Antimanicomial pressionou por mudanças, que culminaram na reforma psiquiátrica de 2001.",
+    "pergunta": "Por que internar tantas pessoas era visto como solução? Quem eram as pessoas consideradas “loucas” e quem decidia isso?",
+    "fonte": {
+      "nome": "Matos-de-Souza e Medrado — Saúde em Debate",
+      "ano": "2021",
+      "url": "https://www.scielo.br/j/sdeb/a/v9vGDrqDPfQt3KJkS5Kjndc/?lang=pt"
     },
     "verificado": false
   },
@@ -437,6 +540,19 @@
       "nome": "Magda Ricci — Revista Tempo",
       "ano": "2007",
       "url": "https://www.scielo.br/j/tem/a/ZX5z5skg9g7YyC47qtn533N/?lang=pt"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "PA",
+    "titulo": "Cidades transformadas em quartéis",
+    "texto": "Na Guerrilha do Araguaia, a repressão se concentrou em Marabá, no Pará, além de Xambioá e Imperatriz. Na primeira campanha militar, em 24 de abril, cerca de 20 soldados fortemente armados invadiram São Domingos do Araguaia, e as cidades da região “transformaram-se em quartéis”. Moradores com qualquer relação com os guerrilheiros eram tratados como simpatizantes. Familiares de militares mortos recebiam os corpos sem saber os reais motivos da morte.",
+    "periodo": "1972",
+    "pergunta": "Como era viver numa cidade ocupada por tropas, sem saber quem era considerado suspeito? Por que o governo escondia informações até das famílias dos próprios soldados?",
+    "fonte": {
+      "nome": "Durbens Martins Nascimento — Dissertação de Mestrado, NAEA/UFPA",
+      "ano": "2000",
+      "url": "https://repositorio.ufpa.br/jspui/bitstream/2011/2458/1/Dissertacao_GuerrilhaAraguaiaPaulistas.pdf"
     },
     "verificado": false
   },
@@ -493,6 +609,19 @@
     "verificado": false
   },
   {
+    "uf": "PR",
+    "titulo": "O professor escravizado",
+    "texto": "Em 1879, a cadeia de Curitiba inaugurou uma escola para os presos. O professor escolhido foi Pedro Antonio, um homem escravizado preso desde 1853, que aprendera a ler sozinho e era considerado “o mais habilitado” dos detentos. Ele tinha 19 alunos. Em 1880, o presidente da Província o demitiu, por achar que um escravo não tinha “força moral” para ser mestre. Com o professor público nomeado no lugar, o número de alunos caiu quase pela metade. Pedro Antonio fugiu da prisão em 1881.",
+    "periodo": "1879–1881",
+    "pergunta": "O que esse caso revela sobre quem podia ensinar e quem podia aprender no Brasil escravista? Por que os alunos deixaram a escola depois da troca de professor?",
+    "fonte": {
+      "nome": "Projeto de Extensão Afro Curitiba (UFPR)",
+      "ano": "TODO: verificar",
+      "url": "https://afrocuritiba.ufpr.br/praca-borges-de-macedo/"
+    },
+    "verificado": false
+  },
+  {
     "uf": "PE",
     "titulo": "“Liga” era apelido",
     "texto": "A organização criada em 1955 no Engenho Galileia, em Vitória de Santo Antão (PE), chamava-se Sociedade Agrícola e Pecuária dos Plantadores de Pernambuco. O termo “Liga” foi adotado pela imprensa conservadora para associá-la às Ligas Comunistas dos anos 1940 — e o movimento acabou incorporando o apelido. Uma das bandeiras era o fim do cambão, o trabalho não remunerado nos engenhos, que piorou quando os proprietários passaram a cobrar mais dias. O modelo logo se espalhou por outros estados.",
@@ -515,6 +644,19 @@
       "nome": "Brodwyn Fischer — Anais do Museu Paulista (USP)",
       "ano": "2020",
       "url": "https://www.scielo.br/j/anaismp/a/LxQRQyCSGgMdzhsk9wwMwSt/?lang=pt"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "PE",
+    "titulo": "Pernambuco, refúgio dos terreiros",
+    "texto": "Depois do Quebra de Xangô de 1912 em Alagoas, quando terreiros foram invadidos e fechados, muitos religiosos de matriz africana migraram para Pernambuco para não morrer nem perder a liberdade de culto. Segundo a historiadora Clara Suassuna, da UFAL, o episódio teve reflexos diretos na história pernambucana. Cem anos depois, o Estado de Alagoas pediu perdão oficialmente pelo ocorrido.",
+    "periodo": "1912",
+    "pergunta": "Como a perseguição em um estado mudou a cultura do estado vizinho? Que outros exemplos de migração por perseguição você conhece?",
+    "fonte": {
+      "nome": "Lenilda Luna — Notícias UFAL",
+      "ano": "2012",
+      "url": "https://noticias.ufal.br/ufal/noticias/2012/01/quebra-do-xango-pesquisadores-avaliam-a-intolerancia-religiosa"
     },
     "verificado": false
   },
@@ -545,6 +687,19 @@
     "verificado": false
   },
   {
+    "uf": "PI",
+    "titulo": "Os primeiros construtores de Teresina",
+    "texto": "Teresina, a nova capital do Piauí, recebeu o nome em homenagem à imperatriz Teresa Cristina. Entre os primeiros trabalhadores das suas obras públicas estavam os escravizados da Nação Marcelino, Antônio, Lourenço, Policarpo, Cassiano, Eusébio, Casimiro, Nicolau e Manoel, e as escravizadas Hilária e Ignez, que preparavam a comida e lavavam as roupas dos trabalhadores. Todos vinham das fazendas nacionais, propriedade do Estado.",
+    "periodo": "1850",
+    "pergunta": "Os nomes de quem construiu as cidades quase nunca aparecem nos monumentos. Por que é importante lembrar esses nomes?",
+    "fonte": {
+      "nome": "Genimar M. R. de Carvalho e Solimar Oliveira Lima — Informe Econômico (UFPI)",
+      "ano": "2012",
+      "url": "https://periodicos.ufpi.br/index.php/ie/article/download/1908/1735/5464"
+    },
+    "verificado": false
+  },
+  {
     "uf": "RJ",
     "titulo": "O cais que ficou enterrado",
     "texto": "Em 1843, o Cais do Valongo, no Rio de Janeiro, foi alargado e embelezado para receber a futura imperatriz Teresa Cristina e virou Cais da Imperatriz — depois soterrado pela Reforma Pereira Passos. O sítio onde desembarcaram africanos escravizados só foi redescoberto em 2011, nas obras do Porto Maravilha. Entre os objetos achados havia peças de uso religioso, e os arqueólogos chamaram yalorixás para ajudar a interpretá-las.",
@@ -567,6 +722,19 @@
       "nome": "Sandra de Sá Carneiro e Márcia Leitão Pinheiro — Religião & Sociedade",
       "ano": "2015",
       "url": "https://www.scielo.br/j/rs/a/bCPNfFkbtrHvWDMwWmj66XG/?lang=pt"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "RJ",
+    "titulo": "Preto, sim; indígena, quase nada",
+    "texto": "Segundo o Censo 2022, o Rio de Janeiro tem a segunda maior proporção de pessoas pretas do país (16,2%), atrás só da Bahia. Ao mesmo tempo, o Rio e São Paulo têm a menor proporção de indígenas: 0,1% da população cada. Entre 2010 e 2022, a população preta do estado cresceu 31,1%, enquanto a branca caiu 11,1%.",
+    "periodo": "2022",
+    "pergunta": "Por que há tão poucas pessoas que se declaram indígenas no Rio hoje? E por que a população negra é tão grande no estado?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
     "verificado": false
   },
@@ -635,6 +803,19 @@
     "verificado": false
   },
   {
+    "uf": "RS",
+    "titulo": "O estado mais branco",
+    "texto": "Segundo o Censo 2022, o Rio Grande do Sul é o estado com a maior proporção de pessoas brancas: 78,4%. É também onde há menos pessoas pardas (14,7%). Ainda assim, entre 2010 e 2022, a população parda do estado cresceu 41,3% e a preta, 19,3%, enquanto a branca caiu 4,1%.",
+    "periodo": "2022",
+    "pergunta": "Se o charque de Pelotas foi feito por milhares de escravizados, por que o Rio Grande do Sul é hoje o estado mais branco? Que perguntas isso levanta sobre imigração e sobre como as pessoas se declaram?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "RO",
     "titulo": "A ferrovia que não valeu a pena",
     "texto": "A Estrada de Ferro Madeira-Mamoré foi construída de 1907 a 1912 para ligar Porto Velho a Guajará-Mirim. Segundo os custos apresentados pela própria empresa ao governo, citados por pesquisadores da Fiocruz, dos 21.817 trabalhadores contratados estima-se que 6.208 morreram — sobretudo de malária, beribéri e outras doenças. A obra não justificou o investimento: a borracha brasileira já perdia mercado para a Ásia. Na época, dizia-se que cada dormente custara a vida de um operário.",
@@ -657,6 +838,19 @@
       "nome": "Penna, Gross, Rocha e Penna — Saúde Brasil 2008 (Ministério da Saúde)",
       "ano": "TODO: verificar",
       "url": "https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "RO",
+    "titulo": "Um cientista para calar as críticas",
+    "texto": "Em 1909, o empresário norte-americano Percival Farquhar, dono da Madeira-Mamoré Railway Company, contratou Oswaldo Cruz para combater a malária na construção da ferrovia. Segundo pesquisadores da Fiocruz, o objetivo de Farquhar era neutralizar as críticas que a obra sofria, usando o prestígio do médico, famoso pela campanha contra a febre amarela na capital federal. Em seu relatório, Cruz descreveu o abandono dos operários: norte-americanos, bolivianos e cearenses expulsos pela seca.",
+    "periodo": "1909–1910",
+    "pergunta": "Uma empresa pode usar a ciência para melhorar sua imagem? Como saber quando a ciência está a serviço da saúde e quando está a serviço de um negócio?",
+    "fonte": {
+      "nome": "Cristiane d’Avila — Observatório História e Saúde (COC/Fiocruz)",
+      "ano": "2023",
+      "url": "https://ohs.coc.fiocruz.br/posts_ohs/o-avanco-sobre-a-amazonia-exploracao-economica-e-doencas/"
     },
     "verificado": false
   },
@@ -765,6 +959,19 @@
     "verificado": false
   },
   {
+    "uf": "SP",
+    "titulo": "Metade do salário, o dobro da luta",
+    "texto": "Nas greves de 1917 em São Paulo, as mulheres eram quase 34% da força de trabalho e, no setor têxtil, superavam os homens. Na Fábrica de Fósforos Pauliceia, trabalhadores chegavam a receber 4 mil réis por dia, mas cem mulheres empregadas não ganhavam mais de 1.800 réis. Em março daquele ano, operários criaram um comitê contra a exploração de crianças nas fábricas. A repressão policial incluiu o assassinato do sapateiro anarquista José Gimenez Martinez, de 21 anos.",
+    "periodo": "1917",
+    "pergunta": "Quais das reivindicações de 1917 — salário igual, fim do trabalho infantil — ainda aparecem nas lutas de hoje?",
+    "fonte": {
+      "nome": "Glaucia Fraccaro — Revista Brasileira de História",
+      "ano": "2017",
+      "url": "https://www.scielo.br/j/rbh/a/THvpNy5TDW34ZgVDKgCFvBR/?lang=pt"
+    },
+    "verificado": false
+  },
+  {
     "uf": "SE",
     "titulo": "Cabeças em exposição",
     "texto": "Ao amanhecer de 28 de julho de 1938, na grota de Angico, em Poço Redondo (SE), uma tropa volante alagoana cercou o bando de Lampião. Segundo o relato oficial, onze cangaceiros foram mortos e decapitados, entre eles Lampião e Maria Bonita. As cabeças foram expostas nas escadas da prefeitura de Piranhas (AL) e exibidas pelo caminho até Maceió. As de Lampião e Maria Bonita ficaram expostas em um museu de Salvador e só foram sepultadas em 1969, depois que a família ganhou o direito na Justiça.",
@@ -787,6 +994,19 @@
       "nome": "José Ferreira Júnior — Ponta de Lança (UFS)",
       "ano": "2023",
       "url": "https://periodicos.ufs.br/pontadelanca/article/download/19549/14977"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "SE",
+    "titulo": "Três em cada quatro nasceram aqui",
+    "texto": "Uma pesquisa da UFS analisou 885 inventários com dados de 7.052 escravizados em Sergipe entre 1800 e 1849. Três em cada quatro tinham nascido no Brasil, e 37,45% eram crianças de até 12 anos. Uma explicação: Sergipe não tinha porto para navios do tráfico transatlântico. Mesmo assim, o tráfico respondia por um em cada quatro ou cinco cativos. Havia ainda “quilombos volantes”: fugitivos que circulavam pelos antigos engenhos e recebiam comida e abrigo de quem ainda estava na senzala.",
+    "periodo": "1800–1849",
+    "pergunta": "Se a maioria dos escravizados nasceu no Brasil, o que isso diz sobre a reprodução da escravidão dentro do país? Por que quem estava na senzala ajudava os fugitivos?",
+    "fonte": {
+      "nome": "Portal UFS — pesquisa de Carlos Malaquias e Isabela Leite",
+      "ano": "2021",
+      "url": "https://www.ufs.br/conteudo/67348-tres-em-cada-quatro-escravos-em-sergipe-eram-nascidos-no-brasil-entre-1800-e-1849-revela-pesquisa"
     },
     "verificado": false
   },

@@ -26,11 +26,12 @@ Documento de referência: [`CLAUDE.md`](../CLAUDE.md).
 | 5. Visual | CSS puro, mobile-first, 360 px, contraste AA | concluída — testado em 360 px |
 | 6. Deploy | GitHub Actions → GitHub Pages | concluída — https://luiz12-dev.github.io/Projeto-Estudos-Brasil/ |
 | 7. Curadoria | 28 entradas pesquisadas pelo agente (regra 7.1); conferência e `verificado: true` | pesquisa concluída; **conferência humana — Luiz** |
+| 8. Várias curiosidades | Navegação Anterior/Próxima no painel; entradas em conferência visíveis com aviso (D6, D7) | concluída — 80 curiosidades: 3 em 24 recortes, 2 em AP, MT, PB e TO |
 
 ## Pendências
 
 - [x] **SVG do mapa:** malha de UFs da API do IBGE, origem registrada no topo de `public/brasil.svg`.
-- [ ] **Conferência das 28 entradas:** abrir cada fonte, conferir o trecho em `docs/EVIDENCIAS.md` e marcar `verificado: true`.
+- [ ] **Conferência das 80 entradas:** abrir cada fonte, conferir o trecho em `docs/EVIDENCIAS.md` e marcar `verificado: true`.
 - [ ] **Campos `ano` como TODO:** BA, MA (IBGE Educa), DF, MT e PR — as páginas não mostram a data de publicação.
 - [ ] **Fontes fora da lista do CLAUDE.md ou sem revisão por pares:** ES (TCC), RN (e-book PIBID), RO (Observatório Fiocruz), MT (Ministério da Saúde/Fiocruz), PR (projeto de extensão UFPR). Decidir se são aceitáveis.
 - [ ] **Tamanho dos textos:** têm de 260 a 510 caracteres, mais que as "4 a 6 linhas" do schema em tela de celular. Decidir se é preciso encurtar.
@@ -40,7 +41,7 @@ Documento de referência: [`CLAUDE.md`](../CLAUDE.md).
 
 - [x] Carrega em menos de 3 s em 4G — site publicado medido com perfil "Slow 4G" (1,6 Mbps, 150 ms): mapa interativo em 1,9 s, 40 KB transferidos (2026-10-20)
 - [x] Funciona em tela de 360 px de largura — testado sem rolagem horizontal
-- [ ] Todas as 28 entradas com `verificado: true` — **depende da conferência humana**
+- [ ] Todas as entradas (80) com `verificado: true` — **depende da conferência humana**; enquanto isso, aparecem com aviso (D6)
 - [ ] Toda URL de fonte abre e corresponde ao fato afirmado — as 28 URLs foram abertas na pesquisa; a correspondência é parte da conferência humana
 - [x] Navegável por teclado, com lista alternativa ao mapa — Tab/Enter/Espaço no mapa e na lista
 - [x] `npm run build` sem erro e sem warning de TypeScript

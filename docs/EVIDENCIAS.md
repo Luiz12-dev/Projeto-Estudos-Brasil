@@ -6,38 +6,92 @@ Como conferir: abra a URL, localize o trecho (Ctrl+F) e confirme que o texto da 
 
 ## Lista de conferência
 
+São 80 curiosidades. A coluna "Atenção" é gerada a partir das notas de cada evidência abaixo.
+
 Depois de conferir uma entrada, marque `[x]` aqui e troque `"verificado": false` por `true` em `public/data/curiosidades.json`. Ou avise o agente quais UFs foram aprovadas.
 
 | UF | Título | Atenção | Conferido |
 |---|---|---|---|
-| BR | A fome tem endereço e cor | Série de 2023 pode ter sido revisada pelo IBGE | [ ] |
-| AC | Nem revolução, nem acreana? | — | [ ] |
-| AL | Destruir Palmares dava prêmio | Localização em AL vem de outra fonte | [ ] |
-| AP | Desterrados no Oiapoque | Número de presos em disputa | [ ] |
-| AM | Os soldados esquecidos da borracha | Artigo trata da Amazônia em geral | [ ] |
+| BR | A fome tem endereço e cor | — | [ ] |
+| BR | Um país que se declara diferente | — | [ ] |
+| BR | Quem passa fome no Brasil | — | [ ] |
+| AC | Nem revolução, nem acreana? | ver "Atenção" | [ ] |
+| AC | Quantos soldados da borracha sumiram? | dado em disputa; ver "Atenção" | [ ] |
+| AC | A doença que seguiu a borracha | `ano` TODO | [ ] |
+| AL | Destruir Palmares dava prêmio | — | [ ] |
+| AL | A noite em que quebraram os terreiros | fonte sem revisão por pares; ver "Atenção" | [ ] |
+| AL | Os sobreviventes de Palmares | — | [ ] |
+| AP | Desterrados no Oiapoque | dado em disputa | [ ] |
+| AP | Escravizados no governo de Counani | — | [ ] |
+| AM | Os soldados esquecidos da borracha | ver "Atenção" | [ ] |
+| AM | Quase meio milhão de indígenas | — | [ ] |
+| AM | Floresta derrubada, malária em alta | ver "Atenção" | [ ] |
 | BA | Quilombo não é só passado | `ano` TODO | [ ] |
+| BA | O estado mais preto do Brasil | — | [ ] |
+| BA | 234 processos e papéis em árabe | texto de 1907 (linguagem da época); ver "Atenção" | [ ] |
 | CE | Campos de concentração no sertão | — | [ ] |
-| DF | Quantos morreram na construção de Brasília? | `ano` TODO; dado em disputa | [ ] |
-| ES | A revolta no dia da festa | Fonte é TCC (sem revisão por pares) | [ ] |
+| CE | A polícia tomava, mas devolvia | — | [ ] |
+| CE | O Ceará indígena | — | [ ] |
+| DF | Quantos morreram na construção de Brasília? | dado em disputa; `ano` TODO | [ ] |
+| DF | Viradas de 24 horas | `ano` TODO | [ ] |
+| DF | A polícia paga pela construtora | `ano` TODO | [ ] |
+| ES | A revolta no dia da festa | dado em disputa; fonte sem revisão por pares; ver "Atenção" | [ ] |
+| ES | A lenha que virou conflito | — | [ ] |
+| ES | De revolta esquecida a patrimônio | fonte sem revisão por pares | [ ] |
 | GO | O brilho azul do césio-137 | — | [ ] |
+| GO | Barrados por serem de Goiânia | — | [ ] |
+| GO | Uma cidade com o símbolo da radiação | ver "Atenção" | [ ] |
 | MA | Uma cidade quilombola | `ano` TODO | [ ] |
-| MT | Uma doença antiga na fronteira nova | Ministério da Saúde/Fiocruz (fora da lista); `ano`: busca indica 2009, não conferido | [ ] |
+| MA | Foguetes no território quilombola | ver "Atenção" | [ ] |
+| MA | Movimentos dos atingidos pela base | — | [ ] |
+| MT | Uma doença antiga na fronteira nova | `ano` TODO | [ ] |
+| MT | Primeiro lugar que ninguém quer | — | [ ] |
 | MS | Confinados em 60 hectares | — | [ ] |
-| MG | O “trem de doido” de Barbacena | — | [ ] |
-| PA | A revolução que dizimou a Amazônia | Total de mortos em disputa | [ ] |
-| PB | O fim do cambão | — | [ ] |
-| PR | O açoite que a lei manteve | Projeto de extensão UFPR; `ano` TODO | [ ] |
-| PE | “Liga” era apelido | — | [ ] |
-| PI | Quando o dono era o Estado | Conferir fim do período (1871) | [ ] |
-| RJ | O cais que ficou enterrado | Número de desembarcados deixado de fora (disputa) | [ ] |
-| RN | Os libertos que libertavam | E-book didático PIBID | [ ] |
+| MS | De 40 mil km² a pequenas reservas | — | [ ] |
+| MS | Diversidade em Mato Grosso do Sul | — | [ ] |
+| MG | O “trem de doido” de Barbacena | dado em disputa | [ ] |
+| MG | Minas quilombola | `ano` TODO | [ ] |
+| MG | Internar demais | ver "Atenção" | [ ] |
+| PA | A revolução que dizimou a Amazônia | dado em disputa | [ ] |
+| PA | Rebeldes em nome do imperador | — | [ ] |
+| PA | Cidades transformadas em quartéis | — | [ ] |
+| PB | O fim do cambão | ver "Atenção" | [ ] |
+| PB | A viúva que assumiu a luta | — | [ ] |
+| PR | O açoite que a lei manteve | `ano` TODO; ver "Atenção" | [ ] |
+| PR | O primeiro combate do Contestado | — | [ ] |
+| PR | O professor escravizado | `ano` TODO | [ ] |
+| PE | “Liga” era apelido | ver "Atenção" | [ ] |
+| PE | Guerra aos mocambos | — | [ ] |
+| PE | Pernambuco, refúgio dos terreiros | — | [ ] |
+| PI | Quando o dono era o Estado | — | [ ] |
+| PI | Indígenas no Piauí | — | [ ] |
+| PI | Os primeiros construtores de Teresina | — | [ ] |
+| RJ | O cais que ficou enterrado | dado em disputa | [ ] |
+| RJ | A região que resistiu | — | [ ] |
+| RJ | Preto, sim; indígena, quase nada | — | [ ] |
+| RN | Os libertos que libertavam | fonte sem revisão por pares; ver "Atenção" | [ ] |
+| RN | Indígenas no Rio Grande do Norte | — | [ ] |
+| RN | O capitão do mato cercado | ver "Atenção" | [ ] |
 | RS | O charque era feito por escravizados | — | [ ] |
-| RO | A ferrovia que não valeu a pena | Observatório Fiocruz (fora da lista) | [ ] |
+| RS | Vindos da África | — | [ ] |
+| RS | O estado mais branco | — | [ ] |
+| RO | A ferrovia que não valeu a pena | dado em disputa; fonte fora da lista; ver "Atenção" | [ ] |
+| RO | Um estado de migrantes | `ano` TODO | [ ] |
+| RO | Um cientista para calar as críticas | — | [ ] |
 | RR | O estado mais indígena do país | — | [ ] |
-| SC | Os “pelados” contra a ferrovia | Sem total de mortos (disputa) | [ ] |
-| SP | 111 mortos no Carandiru | — | [ ] |
-| SE | Cabeças em exposição | Data do sepultamento em disputa (1969 × 1971) | [ ] |
-| TO | Guias à força | Sem total de mortos (disputa) | [ ] |
+| RR | O estado que mais cresceu | — | [ ] |
+| RR | Quando o garimpo chegou | ver "Atenção" | [ ] |
+| SC | Os “pelados” contra a ferrovia | — | [ ] |
+| SC | Santa Catarina menos branca | — | [ ] |
+| SC | Da guerra às serrarias | ver "Atenção" | [ ] |
+| SP | 111 mortos no Carandiru | ver "Atenção" | [ ] |
+| SP | Os colonos negros que a história esqueceu | — | [ ] |
+| SP | Metade do salário, o dobro da luta | — | [ ] |
+| SE | Cabeças em exposição | dado em disputa | [ ] |
+| SE | Cabeça em troca de promoção | ver "Atenção" | [ ] |
+| SE | Três em cada quatro nasceram aqui | — | [ ] |
+| TO | Guias à força | — | [ ] |
+| TO | O terceiro estado mais preto do país | — | [ ] |
 
 
 ## BR — A fome tem endereço e cor
@@ -680,3 +734,162 @@ Fonte: MONSMA, Karl. "Vantagens de imigrantes e desvantagens de negros: emprego,
 - "Entretanto, os resultados desta pesquisa mostram que os negros não eram excluídos do colonato. [...] esta também era a categoria ocupacional mais comum entre chefes de família negros. Eram colonos, em 1907, 43,5% das famílias com chefe masculino preto e 31,3% das com chefe mulato."
 - Resumo em inglês: "Meanwhile, Blacks were almost completely absent from the elites, and literacy rates were extremely low among Blacks, including in the new generation, born after Abolition."
 - "[...] o governo paulista só pagava passagens para famílias de agricultores - ou para aqueles que se diziam agricultores - [...]" (sobre os imigrantes)
+
+## PR — O professor escravizado
+
+Fonte: a mesma página do Projeto Afro Curitiba (UFPR) usada na primeira entrada do PR, seção "II – Cadeia". https://afrocuritiba.ufpr.br/praca-borges-de-macedo/
+
+- "[...] no final de 1878 e no ano de 1879, algumas salas da cadeia vinham sendo reformadas e uma delas deveria servir ao funcionamento de uma escola para os presos."
+- "Em setembro de 1879, a escola da cadeia foi inaugurada. [...] Para exercer a função de professor, foi escolhido um dos detentos, considerado pelo chefe de polícia o 'mais habilitado frente aos outros'. Tratava-se de Pedro Antonio, um dos presos mais antigos da cadeia que, segundo a autoridade, era um autodidata que havia aprendido a manejar as letras sozinho. Estava ali desde 1853 [...] Naquele ano Pedro Antonio tinha 19 alunos [...]"
+- "É interessante registrar que entre os detentos, um homem escravo era o que tinha as melhores condições de letramento para exercer a função de professor [...]"
+- "Em 1880, quando visitou a escola, o Presidente da Província – Souza Dantas Filho – considerou que não era adequado que as aulas da cadeia fossem regidas por um escravo que, a seu ver, não possuía a 'força moral necessária a um mestre'. Pedro Antonio foi então demitido da função, e em seu lugar foi nomeado um professor público. Sob a regência desse professor, ao menos no primeiro ano, o número de alunos na escola ficou reduzida à quase a metade. Quanto a Pedro Antonio, sabemos que fugiu da prisão em 1881 [...]"
+
+A página cita como fonte a dissertação de Noemi Santos da Silva ("O 'batismo na instrução' [...]"), que não foi aberta.
+
+## SP — Metade do salário, o dobro da luta
+
+Fonte: FRACCARO, Glaucia Cristina Candian. "Mulheres, sindicato e organização política nas greves de 1917 em São Paulo". *Revista Brasileira de História*, 37 (76), set.-dez. 2017. https://doi.org/10.1590/1806-93472017v37n76-04 — URL usada: https://www.scielo.br/j/rbh/a/THvpNy5TDW34ZgVDKgCFvBR/?lang=pt
+
+- "Naquele momento, as mulheres ocupavam quase 34% da força de trabalho, e no setor têxtil o número de empregadas superava o de homens (Pena, 1981). Na Fábrica de Fósforos Pauliceia, os trabalhadores chegavam a receber diárias de 4 mil réis, mas havia lá cem mulheres empregadas que não recebiam mais que 1.800 réis por dia."
+- "[...] organizou-se o Comitê Popular de Agitação contra a exploração das crianças, fundado em março de 1917."
+- "Com a deflagração da greve, a polícia igualmente se mobilizou e as pressões [...] resultaram em investigação de ativistas, repressão de algumas lideranças, fechamento de reuniões e até assassinato de trabalhadores, como o de José Gimenez Martinez, sapateiro, anarquista, com 21 anos."
+
+O título ("metade do salário") é uma aproximação: 1.800 é 45% de 4.000 réis.
+
+## RO — Um cientista para calar as críticas
+
+Fonte: a mesma página do Observatório História e Saúde usada na primeira entrada de RO (03/04/2023). https://ohs.coc.fiocruz.br/posts_ohs/o-avanco-sobre-a-amazonia-exploracao-economica-e-doencas/
+
+- "Em 1910, a profilaxia da malária para a expansão ferroviária na Amazônia levou à contratação de Oswaldo Cruz (1872-1917), em 1909, pela empresa Madeira–Mamoré Railway Company, do empresário norte-americano Percival Farquhar."
+- "Alvo de críticas pela tentativa de realização da obra, Farquhar decidiu contratar o médico com o propósito de neutralizar a resistência de que era objeto a construção da ferrovia de 356 quilômetros de extensão. Cruz não era apenas diretor do Instituto Oswaldo Cruz (IOC), mas também um médico respeitado pela comunidade científica nacional e internacional, principalmente depois da bem-sucedida campanha contra a febre amarela na capital federal."
+- "Em 'Considerações gerais sobre as condições sanitárias do Rio Madeira', descreve o quadro de doenças e as condições de abandono dos operários recrutados para a construção da Madeira-Mamoré, entre norte-americanos, bolivianos e cearenses, estes últimos expulsos pela seca e atraídos pela extração da borracha."
+
+## PA — Cidades transformadas em quartéis
+
+Fonte: a mesma dissertação de Durbens Martins Nascimento usada na entrada do TO (NAEA/UFPA, 2000). PDF: https://repositorio.ufpa.br/jspui/bitstream/2011/2458/1/Dissertacao_GuerrilhaAraguaiaPaulistas.pdf
+
+- "A investida das forças repressivas concentrou-se nas cidades de Marabá, no Pará e Xambioá (próxima a Serra das Andorinhas), em Goiás e Imperatriz no Maranhão."
+- "Aproximadamente 20 Soldados, no dia 24 de abril, fortemente armados, invadiram São Domingos do Araguaia. As cidades transformaram-se em 'quartéis' de combate aos paulistas."
+- "O morador que, de uma forma ou de outra, tivesse estabelecido algum tipo de relação com os paulistas, recebia o tratamento de simpatizante da Guerrilha [...]"
+- "Ao contrário os familiares recebiam os corpos dos mortos sem serem comunicados dos reais motivos do óbito. Nem sempre a versão oficial do comando das Forças Armadas ou de uma das Armas indicava o local da morte e as circunstâncias. Há casos de militares mortos em [...]"
+
+O texto não dá o ano do dia 24 de abril, que o trecho omite; o campo `periodo` (1972) vem da datação da dissertação para o início dos combates ("em abril de 1972"). O trecho sobre os corpos fala de militares mortos ("Há casos de militares mortos [...]"); o texto diz "familiares de militares mortos".
+
+## MG — Internar demais
+
+Fonte: o mesmo artigo usado na primeira entrada de MG (*Saúde em Debate*, 2021). URL: https://www.scielo.br/j/sdeb/a/v9vGDrqDPfQt3KJkS5Kjndc/?lang=pt
+
+- "O Hospital Colônia e os 'outros hospitais mineiros' fizeram o estado de Minas Gerais referência nesse tipo de solução, marcada pela violência de Estado para com sua população [...] as internações nos hospitais psiquiátricos mineiros aconteciam em número superior ao dobro do recomendado pela Organização Mundial da Saúde (OMS), que é de 3 internações por cada 1000 habitantes."
+- "[...] a partir da década de 1980, começa uma guinada no modelo assistencial brasileiro, fruto do Movimento da Luta Antimanicomial [...] Assim, em 2001, há a culminância do movimento reformista da psiquiatria no [...]"
+
+Atenção: o artigo não diz em que período as internações superavam o dobro do recomendado, por isso a entrada não tem o campo `periodo`. O dado vem do livro de Arbex (nota 1 do artigo).
+
+## MA — Movimentos dos atingidos pela base
+
+Fonte: a mesma resenha usada na segunda entrada do MA (*Rev. Pós Ciênc. Soc.*, UFMA, 2023). PDF: https://periodicoseletronicos.ufma.br/index.php/rpcsoc/article/download/20939/11683/63313
+
+- "Em 1992, foi criado o Movimento das Mulheres Trabalhadoras Rurais de Alcântara (MOMTRA); em 1997, nasce a Associação das Comunidades Negras Rurais Quilombolas do Maranhão (ACONERUQ); dois anos depois, em 1999, surge o Movimento dos Atingidos pela Base Espacial de Alcântara (MABE). Esses movimentos [...] lutam contra outros remanejamentos compulsórios [...]"
+- "[...] destacando a inexistência de estudos de impacto ambiental até o presente momento. O texto relembra ainda, que não houve êxito nas tentativas de lançamento pelo CLA e que na última, ocorrida em 2003, o foguete explodiu no momento do lançamento, matando 21 cientistas."
+
+"Associação estadual" resume o nome "Associação das Comunidades Negras Rurais Quilombolas do Maranhão". "Até a publicação" traduz "até o presente momento" do livro resenhado (2020).
+
+## RJ — Preto, sim; indígena, quase nada
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- "[...] o destaque vai para a Bahia, com 22,4%, seguida do Rio de Janeiro, com 16,2% [...]"
+- "Rio de Janeiro e São Paulo apresentavam o menor peso relativo de população indígena, ambas com 0,1%."
+- Tabela 3, colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Rio de Janeiro 0,4% -11,1% 31,1% -82,2% 6,3% 6,9%".
+
+## RS — O estado mais branco
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- "As três Unidades da Federação com maior peso relativo de população branca estavam localizadas na Região Sul. Eram elas: Rio Grande do Sul, com 78,4% de população branca [...]"
+- "Os três Estados da Região Sul apresentavam os menores pesos relativos da população parda, destacando-se o Rio Grande do Sul, com 14,7%, e Santa Catarina, com 19,2%, únicos abaixo de 30% de população parda."
+- Tabela 3, colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Rio Grande do Sul 1,8% -4,1% 19,3% -77,1% 41,3% 6,2%".
+
+A pergunta liga o dado às entradas sobre as charqueadas (mesmo recorte).
+
+## MS — Diversidade em Mato Grosso do Sul
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- "[...] Roraima, com 15,4% de sua população residente indígena, seguida do Amazonas, com 12,5%, e do Mato Grosso do Sul, com 4,2%."
+- "A população amarela tinha seu peso relativo mais elevado em São Paulo, com 1,2%, Paraná, com 0,9%, e Mato Grosso do Sul, com 0,7%."
+- Tabela 3, colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Mato Grosso do Sul 12,6% 0,9% 49,1% -34,5% 21,2% 51,2%".
+
+## CE — O Ceará indígena
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- Tabela 3, colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Ceará 4,1% -9,2% 51,7% -89,3% 8,8% 172,4%".
+- "Terceira maior variação": na coluna Indígena, a ordem é RN (351,4%), BA (281,6%) e CE (172,4%).
+- Nota: "O total de pessoas indígenas compreende as pessoas declaradas por meio do quesito de cor ou raça e aquelas declaradas por meio do quesito 'se considera indígena'."
+
+A palavra "invisível" na pergunta é um convite à discussão, não uma afirmação da fonte.
+
+## BA — 234 processos e papéis em árabe
+
+Fonte: IGNACE, Etienne. "A revolta dos Malês (24 para 25 de janeiro de 1835)". Texto datado "Bahia, 1907", republicado na revista *Afro-Ásia* (UFBA). PDF: https://periodicos.ufba.br/index.php/afroasia/article/download/20764/13367
+
+**Atenção:** é um texto de 1907, escrito por um padre do Seminário da Bahia a partir dos processos do Arquivo Público, e tem linguagem preconceituosa da época (chama o plano dos malês de "diabólico plano de carniçaria"). Os dados usados vêm dos processos que ele descreve. A referência acadêmica atual é João José Reis, *Rebelião escrava no Brasil* (Companhia das Letras), que não foi aberta. O campo `ano` traz o ano do texto original; o ano da republicação na *Afro-Ásia* não aparece no PDF.
+
+- Título: "(24 para 25 de janeiro de 1835)".
+- "O Arquivo Público da Bahia possui os processos de 234 revoltosos, sendo 165 nagôs, 3 grumas, 6 gêges, 21 hauçás ou uçás, 5 bornos, 6 tapas, 3 cabindas, 4 congueses [...] 14 mulheres ao todo."
+- "[...] dos documentos em árabe que a polícia apreendeu nas casas dos [...]" e, nas notas, "Letras arábicas", "Caracteres arábicos".
+- "Sabe-se, todavia, que muitos foram punidos com pena de morte; outros condenados aos açoites (200, 500 até 1.000 chicotadas); outros foram transportados para as galeras e para as prisões; outros, enfim, deportados para a Africa."
+- "Os condenados à pena capital deviam ser enforcados no Campo da Pólvora, mas o madeiramento da fôrca estava completamente podre. Tendo sido construída uma nova forca, não se achou nas prisões uma só pessoa que quisesse servir de carrasco, nem mesmo mediante pagamento. Então, o Vice-presidente, Manoel Antônio Galvão, ordenou que fôssem fuzilados [...]"
+
+## DF — A polícia paga pela construtora
+
+Fonte: o mesmo artigo de Nair Heloisa Bicalho de Sousa usado nas outras entradas do DF. PDF: https://unb.revistaintercambio.net.br/24h/pessoa/temp/anexo/1/1251/2053.pdf
+
+- "Neste cenário de trabalho intenso na construção da nova capital, uma instituição policial de caráter paramilitar ganha proeminência: a Guarda Especial de Brasília. Criada pelo Departamento Regional de Polícia de Brasília (DRPB) que absorveu a Guarda Policial e a Guarda Rural da Novacap, estava subordinada à Secretaria de Segurança Pública do Estado de Goiás, mas suas despesas de ordem material e pessoal estavam a cargo da Novacap, a companhia responsável pela construção de Brasília. A GEB tinha 'a missão repressiva na área das obras, dos acampamentos e da Cidade Livre, garantindo o intenso ritmo de trabalho, vigiando para que os candangos [...]'"
+- Período: "[...] entre 1957 e 1960 [...]"
+
+## ES — De revolta esquecida a patrimônio
+
+Fonte: o mesmo TCC usado na primeira entrada do ES (UFES, 2024; sem revisão por pares). PDF: https://repositorio.ufes.br/server/api/core/bitstreams/be30139d-f403-4ba1-b74c-4f1313905e5a/content
+
+- "A Revolta de Queimados, ocorrida em 1849 no Espírito Santo, é um evento marcante na história do Brasil, mas por muito tempo foi relativamente pouco estudada [...] Os relatos existentes eram muitas vezes superficiais e centrados na perspectiva dos senhores de escravos e autoridades coloniais. As narrativas iniciais tendiam a descrever a revolta como um distúrbio isolado [...]"
+- "Com a ascensão de novas abordagens historiográficas nas décadas de 1970 e 1980 [...] houve um renovado interesse pelos episódios de resistência escrava."
+- "A insurreição do Queimado, ao longo dos anos, tornou-se um evento comemorado pelo movimento social negro, em escolas, e pelo Estado, que vem criando formas de preservar o patrimônio histórico da insurreição, como o tombamento do local, assim como a criação do Parque Histórico do Queimado. Uma estátua de Chico Prego, figura principal da insurreição foi erguida no centro da Serra [...]"
+
+## AL — Os sobreviventes de Palmares
+
+Fonte: a mesma dissertação de Dimas Bezerra Marques usada na primeira entrada de AL (UFAL, 2014).
+
+- "[...] travar guerra contra Zumbi e seus homens. Pensa-se que as tropas de Domingos Jorge Velho tenham usufruído das sesmarias para se consolidarem na região palmarina. Sabe-se que eles permaneceram nas matas e formaram um terço com o objetivo de vigiar e conter possíveis ameaças dos sobreviventes, que ainda resistiram durante o século XVIII. Como conseguiram mercês nobilitantes, a exemplo dos Hábitos de Cristo, poderiam atestar pra si o título de elite."
+
+O texto usa "teriam se beneficiado" porque a fonte diz "pensa-se que".
+
+## PE — Pernambuco, refúgio dos terreiros
+
+Fonte: a mesma notícia da UFAL usada na segunda entrada de AL (01/02/2012). https://noticias.ufal.br/ufal/noticias/2012/01/quebra-do-xango-pesquisadores-avaliam-a-intolerancia-religiosa
+
+- Fala da historiadora Clara Suassuna, diretora do Neab/UFAL: "Há reflexos diretos na história de Pernambuco, pois muitos dos religiosos de matriz africana tiveram como saída, a migração para o Estado vizinho, para não morrerem ou serem privados da liberdade pessoal ou de culto".
+- "O Quebra provocou o fechamento de vários terreiros [...]"
+- "O Estado reconheceu seu erro e oficializou o seu perdão [...]" (fala da mesma historiadora, no centenário)
+
+"Cem anos depois": a notícia é do centenário (2012) e fala do perdão no passado. A data exata do pedido de perdão não está no texto, por isso a entrada não a informa.
+
+## PI — Os primeiros construtores de Teresina
+
+Fonte: o mesmo artigo de Carvalho e Lima usado na primeira entrada do PI (*Informe Econômico*, UFPI, 2012). PDF: https://periodicos.ufpi.br/index.php/ie/article/download/1908/1735/5464
+
+- "Entre estes primeiros trabalhadores que deram início ao processo de construção das obras públicas de Teresina, estavam os escravizados nacionais Marcelino, Antônio, Lourenço, Policarpo, Cassiano, Eusébio, Casimiro, Nicolau, Manoel e Lourenço e as escravizadas Hilária e Ignez, responsáveis pela preparação dos alimentos e lavagem das roupas dos trabalhadores (APEPI, CX. 496); eram todos trabalhadores enviados das fazendas nacionais [...]"
+- "Teresina (em homenagem à imperatriz Teresa Cristina) e transferindo para esta última a sede do Governo e todas as repartições públicas."
+
+O nome Lourenço aparece duas vezes na lista da fonte; o texto o cita uma vez. O ano de 1850 é o início do recorte do artigo (1850-1871), e o trecho fala dos "primeiros trabalhadores".
+
+## SE — Três em cada quatro nasceram aqui
+
+Fonte: Portal UFS, "Entre 1800 e 1849, três em cada quatro escravos em Sergipe eram nascidos no Brasil, revela pesquisa", 02/06/2021. https://www.ufs.br/conteudo/67348-tres-em-cada-quatro-escravos-em-sergipe-eram-nascidos-no-brasil-entre-1800-e-1849-revela-pesquisa — notícia sobre artigo de Carlos Malaquias e Isabela Leite publicado na revista *Resgate* (Unicamp), que não foi aberto.
+
+- "O estudo analisou 885 inventários com informações de 7.052 escravos para a partilha (divisão de bens)."
+- "O estudo aponta que três em cada quatro escravos em Sergipe, entre 1800 e 1849, eram nascidos no Brasil."
+- "Quanto à idade, 46,63% eram jovens e adultos (13 e 49 anos), 37,45% crianças (0 e 12 anos) e 9,59% idosos (acima de 50 anos)."
+- "[...] e pela 'impossibilidade de importar negros diretamente da costa da África', uma vez que Sergipe não possuía porto para navios de trato transatlântico"
+- Fala de Malaquias: "O tráfico sempre esteve presente em Sergipe [...] sendo responsável por um a cada quatro escravos ou a cada cinco, a depender da década"
+- "[...] o caso dos quilombos volantes em Sergipe, que são escravos que fogem, não se afastam do território escravista e vivem circulando os antigos engenhos. [...] os fugitivos recebem apoio dos escravos, de quem ainda estava na senzala, como lugar para dormir, alimentos e equipamentos roubados da fazenda"
