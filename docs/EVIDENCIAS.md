@@ -259,3 +259,15 @@ Fonte: COSTA, Aryana Lima; FALCÃO, Marcilio Lima (orgs.). *30 de Setembro: por 
 - "Apesar da Sociedade Libertadora Mossoroense ter sido extremamente importante na luta pela liberdade dos escravizados mossoroenses, ela não atuou sozinha. Atrelada à Libertadora Mossoroense estava o pouco conhecido Clube dos Spartacus [...] composto principalmente por ex-escravizados que, diferentemente dos membros da Libertadora, utilizavam-se de sua força braçal [...] O clube tinha como presidente Rafael Mossoroense da Glória, ex-escravizado [...] o auxílio em fugas, o enfrentamento a capitães do mato, armações de emboscadas, transporte de libertos e escravizados fugitivos para a província do Ceará em comboios [...]"
 
 O texto chama a Libertadora de "elite" com base neste trecho: "Seus membros eram majoritariamente homens brancos, figuras políticas e socioeconomicamente favorecidas, fator que possibilitou a compra de várias alforrias." A data da Lei Áurea não está na fonte, por isso entrou só como pergunta.
+
+## RO — A ferrovia que não valeu a pena
+
+Fonte: Observatório História e Saúde (Casa de Oswaldo Cruz/Fiocruz), "O avanço sobre a Amazônia: exploração econômica e doenças", publicado em 03/04/2023. https://ohs.coc.fiocruz.br/posts_ohs/o-avanco-sobre-a-amazonia-exploracao-economica-e-doencas/
+
+**Atenção:** a Fiocruz é uma instituição pública de pesquisa, mas não está na lista explícita de fontes do CLAUDE.md, e o texto é de divulgação. Avalie se aceita.
+
+- "[...] a Estrada de Ferro Madeira-Mamoré, construída de 1907 a 1912. Vencida pela malária, o obra ceifou a vida de um operário a cada dormente assentado, conforme se propagou na época. Ao longo dos anos, a ferrovia foi sucateada até sua final desativação, em 1972."
+- "Inaugurada em 1912, a ferrovia ligava Porto Velho a Guajará-Mirim [...] foram tantas as mortes por malária, beribéri e outras doenças tropicais durante sua construção, que a obra acabou não justificando o investimento, visto que a borracha brasileira já perdia mercado para os seringais da Ásia."
+- "[...] as condições de abandono dos operários recrutados para a construção da Madeira-Mamoré, entre norte-americanos, bolivianos e cearenses, estes últimos expulsos pela seca [...]"
+
+Dado em disputa: o número de mortos não está no texto. Buscas mostram estimativas muito diferentes ("mais de seis mil" em artigo da HCSM; 1.593 em outro; 6.208 sobre 21.817 contratados citado por um blog). Nenhuma delas foi conferida numa página aberta, por isso a pergunta trata a frase "uma vida por dormente" como lenda a discutir.
