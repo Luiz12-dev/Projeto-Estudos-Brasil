@@ -764,3 +764,13 @@ Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da popu
 - "[...] Roraima, com 15,4% de sua população residente indígena, seguida do Amazonas, com 12,5%, e do Mato Grosso do Sul, com 4,2%."
 - "A população amarela tinha seu peso relativo mais elevado em São Paulo, com 1,2%, Paraná, com 0,9%, e Mato Grosso do Sul, com 0,7%."
 - Tabela 3, colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Mato Grosso do Sul 12,6% 0,9% 49,1% -34,5% 21,2% 51,2%".
+
+## CE — O Ceará indígena
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- Tabela 3, colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Ceará 4,1% -9,2% 51,7% -89,3% 8,8% 172,4%".
+- "Terceira maior variação": na coluna Indígena, a ordem é RN (351,4%), BA (281,6%) e CE (172,4%).
+- Nota: "O total de pessoas indígenas compreende as pessoas declaradas por meio do quesito de cor ou raça e aquelas declaradas por meio do quesito 'se considera indígena'."
+
+A palavra "invisível" na pergunta é um convite à discussão, não uma afirmação da fonte.

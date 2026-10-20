@@ -221,6 +221,19 @@
     "verificado": false
   },
   {
+    "uf": "CE",
+    "titulo": "O Ceará indígena",
+    "texto": "Entre 2010 e 2022, a população indígena do Ceará cresceu 172,4%, segundo o Censo do IBGE — a terceira maior variação do país, depois do Rio Grande do Norte e da Bahia. No mesmo período, a população preta do estado aumentou 51,7%, e a branca diminuiu 9,2%. O total de indígenas inclui quem respondeu “sim” à pergunta “você se considera indígena?”.",
+    "periodo": "2010–2022",
+    "pergunta": "Por que a presença indígena no Nordeste ficou tanto tempo “invisível” nas estatísticas? O que muda quando as pessoas podem se declarar indígenas?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "DF",
     "titulo": "Quantos morreram na construção de Brasília?",
     "texto": "No domingo de Carnaval, 8 de fevereiro de 1959, operários do acampamento da construtora Pacheco Fernandes Dantas, em Brasília, reclamaram da comida e da falta de água. A polícia foi chamada e, à noite, um caminhão de soldados da Guarda Especial de Brasília (GEB) chegou ao acampamento. Quantos morreram? Grandes jornais da época, com base na NOVACAP, registraram uma morte; outros falaram em 9; operários ouvidos por um jornalista nunca falaram em menos de 50.",
