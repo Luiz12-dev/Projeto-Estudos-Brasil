@@ -13,6 +13,7 @@ Documento de referência: [`CLAUDE.md`](../CLAUDE.md).
 | D5 | Commits no padrão Conventional Commits | Histórico legível |
 | D6 | Entradas em conferência aparecem no site com aviso visível (substitui D2) | Pedido do Luiz em 2026-10-20 para o site ficar utilizável antes do fim da conferência; reversível em `src/painel.ts` |
 | D7 | Várias curiosidades por recorte: entradas repetidas com a mesma `uf`, navegação Anterior/Próxima | Pedido do Luiz em 2026-10-20; o schema de `types.ts` não muda |
+| D8 | Identidade visual "Terra Brasilis" (urucum, jenipapo, argila) com modo escuro "Noite"; regiões do IBGE em tons de bioma; destaque com contorno duplo, esmaecer, zoom ao selecionar, hachura nos visitados, transição no painel | Proposta aprovada pelo Luiz em 2026-10-20 (https://claude.ai/artifact/1H39YACnGyUWFHYyWkMFXm); sem bibliotecas nem fontes externas, respeita "reduzir movimento" |
 
 ## Fases
 
@@ -27,6 +28,7 @@ Documento de referência: [`CLAUDE.md`](../CLAUDE.md).
 | 6. Deploy | GitHub Actions → GitHub Pages | concluída — https://luiz12-dev.github.io/Projeto-Estudos-Brasil/ |
 | 7. Curadoria | 28 entradas pesquisadas pelo agente (regra 7.1); conferência e `verificado: true` | pesquisa concluída; **conferência humana — Luiz** |
 | 8. Várias curiosidades | Navegação Anterior/Próxima no painel; entradas em conferência visíveis com aviso (D6, D7) | concluída — 80 curiosidades: 3 em 24 recortes, 2 em AP, MT, PB e TO |
+| 9. Visual | Paleta Terra Brasilis/Noite, cores por região com legenda, destaque, zoom, hachura, carimbo e transição (D8) | concluída — +3 KB gzip; testada em 360 px, nos dois temas e com "reduzir movimento" |
 
 ## Pendências
 

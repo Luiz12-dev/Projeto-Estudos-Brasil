@@ -48,6 +48,10 @@ As 80 entradas foram pesquisadas conforme a seção 7.1 do `CLAUDE.md`. O link e
 
 Regras completas: seção 7 do [`CLAUDE.md`](CLAUDE.md).
 
+## Visual
+
+Paleta "Terra Brasilis", inspirada nos pigmentos do urucum e do jenipapo sobre argila clara, com modo escuro automático ("Noite"). As cinco regiões do IBGE têm cores próprias, com legenda. Ao apontar ou focar um estado, ele ganha contorno duplo e os outros esmaecem. Ao selecionar, o mapa aproxima do estado (botão "Ver o Brasil inteiro" para voltar). Os estados visitados ganham hachura. Todas as animações respeitam a preferência "reduzir movimento" do aparelho. Tokens de cor e contrastes medidos estão no topo de `src/style.css`.
+
 ## Mapa
 
 `public/brasil.svg` vem da API de Malhas do IBGE (divisão por UF). A origem está registrada em um comentário no topo do arquivo. Cada estado é um `<path>` com `data-uf="SIGLA"`.

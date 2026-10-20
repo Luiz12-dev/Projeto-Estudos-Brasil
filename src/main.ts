@@ -1,4 +1,4 @@
-import { marcarVisitados, montarLista, montarMapa, NOMES } from './mapa';
+import { aproximar, marcarVisitados, montarLista, montarMapa, NOMES } from './mapa';
 import { renderizar } from './painel';
 import { lerVisitados, salvarVisitado } from './storage';
 import type { Curiosidade } from './types';
@@ -20,9 +20,10 @@ async function carregar(): Promise<void> {
 
 async function selecionar(uf: string): Promise<void> {
   await carregando; // evita mostrar painel vazio se o toque vier antes do JSON
-  renderizar(painel, NOMES[uf] ?? uf, curiosidades.get(uf) ?? []);
-  painel.focus();
+  renderizar(painel, NOMES[uf] ?? uf, curiosidades.get(uf) ?? [], 0, uf);
   marcarVisitados(salvarVisitado(uf));
+  aproximar(uf);
+  painel.focus({ preventScroll: !matchMedia('(max-width: 799px)').matches });
 }
 
 montarLista(document.querySelector('#lista')!, selecionar);
