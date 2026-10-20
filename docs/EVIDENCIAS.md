@@ -720,3 +720,12 @@ Fonte: a mesma dissertação de Durbens Martins Nascimento usada na entrada do T
 - "Ao contrário os familiares recebiam os corpos dos mortos sem serem comunicados dos reais motivos do óbito. Nem sempre a versão oficial do comando das Forças Armadas ou de uma das Armas indicava o local da morte e as circunstâncias. Há casos de militares mortos em [...]"
 
 O texto não dá o ano do dia 24 de abril, que o trecho omite; o campo `periodo` (1972) vem da datação da dissertação para o início dos combates ("em abril de 1972"). O trecho sobre os corpos fala de militares mortos ("Há casos de militares mortos [...]"); o texto diz "familiares de militares mortos".
+
+## MG — Internar demais
+
+Fonte: o mesmo artigo usado na primeira entrada de MG (*Saúde em Debate*, 2021). URL: https://www.scielo.br/j/sdeb/a/v9vGDrqDPfQt3KJkS5Kjndc/?lang=pt
+
+- "O Hospital Colônia e os 'outros hospitais mineiros' fizeram o estado de Minas Gerais referência nesse tipo de solução, marcada pela violência de Estado para com sua população [...] as internações nos hospitais psiquiátricos mineiros aconteciam em número superior ao dobro do recomendado pela Organização Mundial da Saúde (OMS), que é de 3 internações por cada 1000 habitantes."
+- "[...] a partir da década de 1980, começa uma guinada no modelo assistencial brasileiro, fruto do Movimento da Luta Antimanicomial [...] Assim, em 2001, há a culminância do movimento reformista da psiquiatria no [...]"
+
+Atenção: o artigo não diz em que período as internações superavam o dobro do recomendado, por isso a entrada não tem o campo `periodo`. O dado vem do livro de Arbex (nota 1 do artigo).
