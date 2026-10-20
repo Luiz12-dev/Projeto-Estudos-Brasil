@@ -342,3 +342,16 @@ Fonte: NASCIMENTO, Durbens Martins. *A Guerrilha do Araguaia: "paulistas" e mili
 - "O morador que, de uma forma ou de outra, tivesse estabelecido algum tipo de relação com os paulistas, recebia o tratamento de simpatizante da Guerrilha [...] Bate-paus conhecidos foram 'contratados' como guias, na promessa de, ao final da operação militar, receberem o pagamento em terras que seriam doadas pelo INCRA. Vários guias, entretanto, foram obrigados, inclusive após sessões de tortura, a trabalhar para o Exército na mata."
 
 Notas: a fonte chama os guias de "bate-paus" e "mateiros" (nota 68: "Homens contratados pelo Exército como informantes. Eram utilizados como guias, também conhecidos como 'mateiros'"). O texto não traz o número de mortos e desaparecidos: buscas mostram contagens diferentes (62 na sentença da Corte Interamericana, cerca de 70 segundo dados atribuídos à CNV), que não foram conferidas em página aberta.
+
+## AC — Quantos soldados da borracha sumiram?
+
+Fonte: MARTINELLO, Pedro. *A batalha da borracha na Segunda Guerra Mundial*. Rio Branco: Edufac, 2024 (ISBN 978-65-88975-82-4). PDF: http://www2.ufac.br/editora/livros/Abatalha.pdf
+
+**Dado em disputa:** o texto mostra os três números e quem os deu.
+
+- "O próprio contingente de cinquenta e cinco mil nordestinos que foi recrutado às pressas, para extração do precioso látex, levou o nome de exército da borracha, e os novos seringueiros permaneceram, até hoje, com a alcunha de soldados da borracha."
+- "[...] uma violenta denúncia de uma caravana de estudantes cearenses, que, visitando a Amazônia para comprovar in loco a situação de seus coestaduanos, constataram o desaparecimento de 23 mil nordestinos, tragados pela batalha da borracha. Tal denúncia, que julgamos ter sido até um tanto exagerada quanto aos números, repercutiu como um rastilho de pólvora na imprensa de todo o país [...]"
+- Editorial do *Jornal do Brasil* citado no livro, "A tragédia dos soldados da borracha": "A ditadura cavilosa e desumana arrancou dos labores rurais, em plena guerra, 50.000 nordestinos e fê-los marchar para a fome e para a morte [...]"
+- "A resposta dos representantes da Amazônia, além de minimizar a tragédia e o número de mortes [...]"
+
+O período 1942–1945 é o da Segunda Guerra, contexto do livro. Atenção: o livro trata da Amazônia como um todo, não só do Acre.
