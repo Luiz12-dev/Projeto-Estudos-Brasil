@@ -151,3 +151,15 @@ Fonte: CARNEIRO, Sandra de Sá; PINHEIRO, Márcia Leitão. "Cais do Valongo: pat
 - Fala da arqueóloga Tânia Andrade Lima, citada no artigo: "[...] nós convidamos yalorixás que estão nos ajudando a interpretar este material."
 
 Dado em disputa, que ficou fora do texto: buscas mostram estimativas muito diferentes do número de africanos desembarcados no Valongo (de cerca de 1 milhão a valores maiores). Se quiser incluir um número, ele precisa de fonte que mostre a divergência.
+
+## AC — Nem revolução, nem acreana?
+
+Fonte: COSTA, Ana Luiza Souza da; MACHAREL, Thales Silva. "Que história é essa? Que história não é essa? A memória selecionada dos patrimônios históricos no Acre". *Das Amazônias*, Rio Branco, v. 7, n. 2, jul.-dez. 2024, p. 187-212. PDF: https://periodicos.ufac.br/index.php/amazonicas/article/download/7500/4874/30059
+
+- "Plácido de Castro foi o líder de um movimento armado, patrocinado pelo governo do Amazonas, esse movimento foi responsável pela anexação do território do Acre ao Brasil [...]"
+- "A conflagração em questão iniciou-se em 6 de agosto de 1902, data da independência da Bolívia, lutaram do lado brasileiro seringueiros nordestinos, que constituíam a maioria de todo o contingente brasileiro deste conflito no Acre [...] todos comandados por Plácido [...]"
+- "[...] Plácido de Castro, um gaúcho em seus trajes de campanha [...]"
+- "O que não se costuma falar ao contar essa história é que a maioria dos seringueiros lutaram obrigados [...] os seringueiros lutavam por ser essa a ordem de seus patrões, dos seringalistas [...] O Acre era território boliviano [...]"
+- "No provocativo título de seu livro, 'Não foi revolução nem acreana', Eduardo de Araújo Carneiro deixa explícito a essa questão [...]"
+
+Atenção: é uma interpretação dos autores, por isso o texto usa "pesquisadores lembram". O texto diz "muitos seringueiros" onde a fonte diz "a maioria", uma escolha mais cautelosa. A palavra "Rio Branco" na pergunta vem do artigo, que analisa os espaços de memória da capital.
