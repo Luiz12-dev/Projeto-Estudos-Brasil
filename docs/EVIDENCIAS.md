@@ -756,3 +756,11 @@ Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da popu
 - Tabela 3, colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Rio Grande do Sul 1,8% -4,1% 19,3% -77,1% 41,3% 6,2%".
 
 A pergunta liga o dado às entradas sobre as charqueadas (mesmo recorte).
+
+## MS — Diversidade em Mato Grosso do Sul
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- "[...] Roraima, com 15,4% de sua população residente indígena, seguida do Amazonas, com 12,5%, e do Mato Grosso do Sul, com 4,2%."
+- "A população amarela tinha seu peso relativo mais elevado em São Paulo, com 1,2%, Paraná, com 0,9%, e Mato Grosso do Sul, com 0,7%."
+- Tabela 3, colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Mato Grosso do Sul 12,6% 0,9% 49,1% -34,5% 21,2% 51,2%".
