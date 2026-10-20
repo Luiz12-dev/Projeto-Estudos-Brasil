@@ -363,3 +363,14 @@ Fonte: o mesmo capítulo usado na entrada do MT ("Comportamento epidemiológico 
 - "Agrícola (1975) avaliou a situação epidemiológica da hanseníase no País, em 1973, apontando que o estado do Acre, com economia baseada na borracha, tinha a pior situação epidemiológica. Ele também aponta que a região Nordeste tinha então o menor coeficiente de prevalência. Atualmente, os estados pertencentes à Amazônia brasileira apresentam a pior situação epidemiológica da hanseníase, com os maiores coeficientes de detecção. A região Nordeste foi substituída pela região Sul como aquela com menos hanseníase."
 
 "Atualmente" no trecho se refere à época do estudo (série 1980-2009), por isso o texto diz "décadas depois". Ano de publicação como TODO: veja a nota da entrada do MT.
+
+## AM — Quase meio milhão de indígenas
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população, por sexo e idade: resultados do universo* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- Tabela 2, linha do Amazonas: "Amazonas 3 941 613 725 007 193 667 5 963 2 711 618 490 935". A última coluna é "Indígena".
+- Tabela 3 (Variação 2010-2022), coluna "Indígena": "Brasil [...] 89,0%" e "Amazonas [...] 167,5%".
+- Nota das tabelas: "O total de pessoas indígenas compreende as pessoas declaradas por meio do quesito de cor ou raça e aquelas declaradas por meio do quesito 'se considera indígena'."
+- "[...] a manutenção da pergunta de cobertura 'se considera indígena', com aplicação ampliada [...]"
+
+A pergunta não afirma a causa do crescimento: a publicação não a atribui a um fator.

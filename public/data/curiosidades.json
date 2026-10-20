@@ -91,6 +91,19 @@
     "verificado": false
   },
   {
+    "uf": "AM",
+    "titulo": "Quase meio milhão de indígenas",
+    "texto": "O Amazonas tinha 490.935 indígenas em 2022, segundo o Censo do IBGE. Entre 2010 e 2022, a população indígena do estado cresceu 167,5%, bem acima da média nacional (89,0%). O total de indígenas soma quem se declarou indígena na pergunta de cor ou raça e quem respondeu “sim” à pergunta “você se considera indígena?”, aplicada de forma ampliada em 2022.",
+    "periodo": "2010–2022",
+    "pergunta": "Esse crescimento significa mais pessoas indígenas, mais pessoas se declarando indígenas, ou as duas coisas? Que diferença isso faz?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "BA",
     "titulo": "Quilombo não é só passado",
     "texto": "A Bahia tem a maior população quilombola do Brasil: 397.059 pessoas, quase 30% do total do país, segundo o Censo 2022. Os dois municípios com mais quilombolas são baianos: Senhor do Bonfim (15.999) e a capital, Salvador (15.897). No Brasil inteiro, apenas 12,6% dos quilombolas vivem em territórios oficialmente reconhecidos; os demais estão fora de áreas formalmente delimitadas.",
