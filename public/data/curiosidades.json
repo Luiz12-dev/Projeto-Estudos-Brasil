@@ -104,6 +104,19 @@
     "verificado": false
   },
   {
+    "uf": "AM",
+    "titulo": "Floresta derrubada, malária em alta",
+    "texto": "Um estudo do Ipea cruzou dados de desmatamento e de doenças em 773 municípios da Amazônia Legal entre 2004 e 2012. Concluiu que, para cada 1% de floresta derrubada por ano, os casos de malária aumentam 23%. A incidência de leishmaniose também cresceu com o avanço do desmatamento, com aumento entre 8% e 9% dos casos.",
+    "periodo": "2004–2012",
+    "pergunta": "Se derrubar floresta aumenta doenças, quem paga essa conta? O desmatamento é só um problema ambiental?",
+    "fonte": {
+      "nome": "Cristiane d’Avila — Observatório História e Saúde (COC/Fiocruz)",
+      "ano": "2023",
+      "url": "https://ohs.coc.fiocruz.br/posts_ohs/o-avanco-sobre-a-amazonia-exploracao-economica-e-doencas/"
+    },
+    "verificado": false
+  },
+  {
     "uf": "BA",
     "titulo": "Quilombo não é só passado",
     "texto": "A Bahia tem a maior população quilombola do Brasil: 397.059 pessoas, quase 30% do total do país, segundo o Censo 2022. Os dois municípios com mais quilombolas são baianos: Senhor do Bonfim (15.999) e a capital, Salvador (15.897). No Brasil inteiro, apenas 12,6% dos quilombolas vivem em territórios oficialmente reconhecidos; os demais estão fora de áreas formalmente delimitadas.",

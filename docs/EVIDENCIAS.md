@@ -374,3 +374,12 @@ Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da popu
 - "[...] a manutenção da pergunta de cobertura 'se considera indígena', com aplicação ampliada [...]"
 
 A pergunta não afirma a causa do crescimento: a publicação não a atribui a um fator.
+
+## AM — Floresta derrubada, malária em alta
+
+Fonte: D'AVILA, Cristiane. "O avanço sobre a Amazônia: exploração econômica e doenças". Observatório História e Saúde (Casa de Oswaldo Cruz/Fiocruz), 03/04/2023. https://ohs.coc.fiocruz.br/posts_ohs/o-avanco-sobre-a-amazonia-exploracao-economica-e-doencas/
+
+- "No estudo, intitulado 'Impacto do desmatamento sobre a incidência de doenças na Amazônia', foram relacionados dados do desmatamento e estatísticas de doenças em 773 municípios da Amazônia Legal, entre 2004 e 2012. Constatou-se que para cada 1% de floresta derrubada por ano há um acréscimo de 23% nos casos de malária. A incidência de leishmaniose também cresceu com o avanço do desmatamento, com um aumento entre 8% e 9% de casos."
+- Autoria do estudo: "[...] afirmam pesquisadores do Instituto de Pesquisa Econômica Aplicada (Ipea)."
+
+Atenção: o dado é da Amazônia Legal como um todo, não só do Amazonas. O ideal seria trocar a fonte pelo estudo original do Ipea, que não foi aberto.
