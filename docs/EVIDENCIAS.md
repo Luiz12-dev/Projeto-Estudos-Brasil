@@ -206,3 +206,13 @@ Fonte: PENNA, Maria Lucia Fernandes; GROSS, Maria Aparecida de Faria; ROCHA, Mar
 - "Apresentam taxa de detecção, em menores de 15 anos, maior do que dez casos por 100 mil habitantes os estados de Rondônia, Pará, Tocantins, Maranhão, Piauí, Pernambuco e Mato Grosso, refletindo transmissão recente do bacilo."
 
 Fonte complementar aberta, fora do texto: o artigo de Tavares (*Einstein*, 2021, https://www.scielo.br/j/eins/a/sFYSvJxNsH3MF3W4ydfzSnd/?lang=pt) diz que MT ocupa "a primeira posição, com as maiores taxas de prevalência e incidência da doença no país". Isso não entrou no texto porque o schema aceita só uma fonte.
+
+## PA — A revolução que dizimou a Amazônia
+
+Fonte: RICCI, Magda. "Cabanagem, cidadania e identidade revolucionária: o problema do patriotismo na Amazônia entre 1835 e 1840". *Tempo*, 11 (22), 2007. https://doi.org/10.1590/S1413-77042007000100002 — URL usada: https://www.scielo.br/j/tem/a/ZX5z5skg9g7YyC47qtn533N/?lang=pt
+
+- "A revolução social dos cabanos que explodiu em Belém do Pará, em 1835, deixou mais de 30 mil mortos e uma população local que só voltou a crescer significativamente em 1860. Este movimento matou mestiços, índios e africanos pobres ou escravos, mas também dizimou boa parte da elite da Amazônia."
+- "[...] a Cabanagem normalmente foi, e ainda é, analisada como mais um movimento regional [...] Eles se autodenominavam 'patriotas' [...] Indígenas, negros de origem africana e mestiços perceberam lutas e problemas em comum."
+- "Toda a chacina populacional da Cabanagem, entre 1835 e 1840 [...]"
+
+Dado em disputa: buscas mostram estimativas de 30 a 40 mil mortos em outras fontes. O texto atribui o número à autora. A pergunta compara com o Sudeste, o que é um convite à discussão, não uma afirmação da fonte.

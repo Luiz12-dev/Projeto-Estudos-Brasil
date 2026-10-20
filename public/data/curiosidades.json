@@ -182,13 +182,14 @@
   },
   {
     "uf": "PA",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "A revolução que dizimou a Amazônia",
+    "texto": "A revolução cabana, que explodiu em Belém do Pará em 1835, deixou mais de 30 mil mortos, segundo a historiadora Magda Ricci, e a população local só voltou a crescer de forma significativa em 1860. Morreram mestiços, indígenas e africanos pobres ou escravizados, mas também boa parte da elite da Amazônia. Indígenas, negros de origem africana e mestiços, que se chamavam “patriotas”, perceberam lutas e problemas em comum. Mesmo assim, a Cabanagem costuma ser estudada como mais um movimento regional.",
+    "periodo": "1835–1840",
+    "pergunta": "Por que uma revolta com dezenas de milhares de mortos é tratada como “regional”, enquanto episódios do Sudeste viram história “nacional”?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Magda Ricci — Revista Tempo",
+      "ano": "2007",
+      "url": "https://www.scielo.br/j/tem/a/ZX5z5skg9g7YyC47qtn533N/?lang=pt"
     },
     "verificado": false
   },
