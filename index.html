@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Mapa clicável do Brasil com curiosidades históricas e fontes." />
+    <title>Mapa Histórico do Brasil</title>
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Mapa Histórico do Brasil</h1>
+      <p>Toque em um estado ou em “Brasil” para ler uma curiosidade histórica.</p>
+    </header>
+    <main>
+      <section id="mapa" aria-label="Mapa do Brasil por estado"></section>
+      <section id="painel" aria-live="polite" tabindex="-1">
+        <p>Nenhum estado selecionado.</p>
+      </section>
+      <nav aria-labelledby="titulo-lista">
+        <h2 id="titulo-lista">Estados</h2>
+        <ul id="lista"></ul>
+      </nav>
+    </main>
+    <footer>
+      <p>IFPR Campus Jacarezinho — Informática Aplicada à Educação</p>
+    </footer>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
