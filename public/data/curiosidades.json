@@ -27,13 +27,14 @@
   },
   {
     "uf": "AL",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Destruir Palmares dava prêmio",
+    "texto": "Os mocambos de Palmares duraram mais de um século; as primeiras tentativas de destruí-los, pelo governo da Capitania de Pernambuco, datam de 1602. Na segunda metade do século XVII, várias expedições levaram centenas de soldados contra eles. Quem lutava pedia ao rei “mercês”: títulos, cargos e terras. Bandeirantes paulistas chamados para a guerra ganharam extensos lotes na região palmarina, o que lhes garantiu bases para se enraizar em Pernambuco.",
+    "periodo": "1602–século XVIII",
+    "pergunta": "Se combater quilombos rendia terras e títulos, quem ganhou com o fim de Palmares? Como isso ajuda a explicar a concentração de terras no Nordeste?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Dimas Bezerra Marques — Dissertação de Mestrado em História, UFAL",
+      "ano": "2014",
+      "url": "https://www.repositorio.ufal.br/bitstream/riufal/1383/1/Pelo%20bem%20de%20meus%20servi%C3%A7os,%20rogo-lhe%20est%C3%A1%20merc%C3%AA:%20A%20influ%C3%AAncia%20da%20guerra%20de%20Palmares%20na%20distribui%C3%A7%C3%A3o%20de%20merc%C3%AAs%20(Capitania%20de%20Pernambuco,%201660-1778).pdf"
     },
     "verificado": false
   },

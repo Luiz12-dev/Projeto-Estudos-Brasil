@@ -163,3 +163,13 @@ Fonte: COSTA, Ana Luiza Souza da; MACHAREL, Thales Silva. "Que história é essa
 - "No provocativo título de seu livro, 'Não foi revolução nem acreana', Eduardo de Araújo Carneiro deixa explícito a essa questão [...]"
 
 Atenção: é uma interpretação dos autores, por isso o texto usa "pesquisadores lembram". O texto diz "muitos seringueiros" onde a fonte diz "a maioria", uma escolha mais cautelosa. A palavra "Rio Branco" na pergunta vem do artigo, que analisa os espaços de memória da capital.
+
+## AL — Destruir Palmares dava prêmio
+
+Fonte: MARQUES, Dimas Bezerra. *Pelo bem de meus serviços, rogo-lhe esta mercê: a influência da guerra de Palmares na distribuição de mercês (Capitania de Pernambuco, 1660-1778)*. Dissertação (Mestrado em História), UFAL, Maceió, 2014.
+
+- Resumo: "Os Mocambos de Palmares duraram mais de um século. As primeiras tentativas de destruição por parte do governo da Capitania de Pernambuco datam de 1602. [...] durante a segunda metade do século XVII várias expedições militares foram mandadas para combater os Palmares, levando consigo centenas de soldados. [...] Muitos desses prêmios foram requeridos e ganhos através dos serviços prestados nesses conflitos [...] os bandeirantes paulistas foram chamados a combater nos Palmares, contribuindo com sua destruição. Nesse sentido, ganharam mercês, o que incluía extensos lotes de terra na região palmarina, o que lhes garantiu bases para o enraizamento em Pernambuco."
+- Tipos de mercê: "São solicitações de Hábitos, cargos administrativos, sesmarias [...]"
+- "[...] sobreviventes, que ainda resistiram durante o século XVIII."
+
+**Localização em Alagoas:** esta fonte não diz explicitamente que Palmares ficava no atual território alagoano. Outra dissertação da UFAL, aberta durante a pesquisa, diz: "[...] cujo principal mocambo foi o de Macacos localizado na atual Serra da Barriga [...]" e "[...] situava-se na atual Serra da Barriga, em União dos Palmares [...]" (LIMA, Marcia Susana Gonçalves. *A história do Quilombo dos Palmares na política curricular do município de União dos Palmares*, UFAL — https://www.repositorio.ufal.br/bitstream/123456789/8083/1/A%20hist%C3%B3ria%20do%20Quilombo%20dos%20Palmares%20na%20pol%C3%ADtica%20curricular%20do%20munic%C3%ADpio%20de%20Uni%C3%A3o%20dos%20Palmares.pdf). Por isso o texto não usa o nome "Alagoas". A segunda pergunta (concentração de terras) é um convite à discussão, não uma afirmação da fonte.
