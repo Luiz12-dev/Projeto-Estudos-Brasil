@@ -282,13 +282,14 @@
   },
   {
     "uf": "RR",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "O estado mais indígena do país",
+    "texto": "Em Roraima, 15,4% da população é indígena — a maior proporção entre todas as Unidades da Federação, segundo o Censo 2022 do IBGE. Em seguida vêm Amazonas (12,5%) e Mato Grosso do Sul (4,2%). No outro extremo, Rio de Janeiro e São Paulo têm apenas 0,1% de população indígena. No Brasil, são 1.694.836 indígenas, 0,8% da população.",
+    "periodo": "2022",
+    "pergunta": "Muita gente imagina os povos indígenas como parte do passado do Brasil. O que esses números dizem sobre o presente?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
     "verificado": false
   },

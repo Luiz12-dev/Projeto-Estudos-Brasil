@@ -62,3 +62,10 @@ Dado em disputa: os 60 mil são a estimativa do livro de Daniela Arbex, retomada
 - "O livro 'Holocausto Brasileiro', da jornalista Daniela Arbex, publicado em 2013, conta a história do Hospital Colônia, localizado em Barbacena (MG). Nesse hospital morreram cerca de 60 mil pacientes [...] exposição ao frio - muitos não dispunham de roupas, quartos, camas ou lençóis para dormir [...] alimentação racionada [...] 'tratamentos' violentos, à base de eletrochoque [...] os corpos dos pacientes mortos eram vendidos para as faculdades de medicina [...]"
 - Citando Arbex: "Os deserdados sociais chegavam a Barbacena de vários cantos do Brasil. Eles abarrotavam os vagões de carga [...] A expressão 'trem de doido' surgiu ali."
 - "[...] período da ditadura militar, no Brasil, em que os hospitais psiquiátricos recebiam diária por cada paciente internado. Isso fez com que o número de leitos em tais hospitais saltasse de 14 mil, no início da ditadura, para cerca de 70 mil, em 1970."
+
+## RR — O estado mais indígena do país
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população, por sexo e idade: resultados do universo* (Rio de Janeiro, 2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- "Analisando o total de pessoas indígenas, ou seja, considerando a soma dos declarados pelos quesitos de cor ou raça e se considera indígena, as três Unidades da Federação que mostraram a maior concentração de indígenas na sua população residente foram Roraima, com 15,4% de sua população residente indígena, seguida do Amazonas, com 12,5%, e do Mato Grosso do Sul, com 4,2%. Rio de Janeiro e São Paulo apresentavam o menor peso relativo de população indígena, ambas com 0,1%."
+- "[...] a população residente no Brasil é formada por 92 083 286 pessoas pardas (45,3%), 88 252 121 brancas (43,5%), 20 656 458 pretas (10,2%), 1 694 836 indígenas (0,8%) e 850 130 amarelas (0,4%)."
