@@ -31,3 +31,15 @@ Fonte: NEVES, Frederico de Castro. "Getúlio e a seca: políticas emergenciais n
 - "[...] o maior campo, na cidade do Crato, chegou a abrigar quase 60 mil pessoas [...]"
 
 A segunda pergunta ("por que é pouco conhecido") é um convite à discussão, não uma afirmação factual.
+
+## GO — O brilho azul do césio-137
+
+Fonte: VIEIRA, Suzane de Alencar. "Césio-137, um drama recontado". *Estudos Avançados*, 27 (77), 2013. https://doi.org/10.1590/S0103-40142013000100017 — URL usada: https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt
+
+Observação: o artigo se define como "experimento textual" baseado em personagens e acontecimentos reais. Só foram usados fatos que o texto afirma diretamente.
+
+- "No mês de setembro de 1987, o despojo de equipamentos abandonados nas ruínas do Instituto despertou a curiosidade e o interesse de dois moradores do Bairro Popular [...] Os dois rapazes, que estavam temporariamente sem emprego [...] A peça de chumbo foi vendida para Devair, dono de um ferro-velho [...] a cápsula indeterminada foi incluída na transação."
+- "Nas noites de setembro de 1987, o césio-137 emanava uma deslumbrante luz azul [...] circulava de mão em mão como uma dádiva maravilhosa [...]"
+- "A menina Leide das Neves de seis anos havia recebido do pai [...] algumas pedrinhas azuis de césio-137 para brincar. A criança foi contaminada ao comer ovo cozido com as mãos sujas do pó radioativo durante o jantar." / "Maria Gabriela e a criança Leide das Neves não suportaram a excessiva dose de radiação [...] e morreram [...]"
+- "Somente em 1991 foi construído o depósito definitivo de rejeitos radioativos em Abadia de Goiás [...] a radiação e o potencial de contaminação permanecerão ativos por, pelo menos, 300 anos [...]"
+- Para a pergunta: "Nos três anos em que permanecera abandonada (1985 a 1987), a cápsula não fora objeto de nenhum ato de fiscalização da Comissão Nacional de Energia Nuclear (CNEN)."

@@ -112,13 +112,14 @@
   },
   {
     "uf": "GO",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "O brilho azul do césio-137",
+    "texto": "Em setembro de 1987, dois rapazes desempregados retiraram um aparelho de radioterapia abandonado nas ruínas de um instituto em Goiânia e venderam a peça a um ferro-velho. O pó de césio-137, que emitia uma luz azul à noite, passou de mão em mão entre vizinhos e parentes. A menina Leide das Neves, de seis anos, morreu depois de comer com as mãos sujas do pó. O lixo radioativo foi enterrado em Abadia de Goiás, onde deve permanecer ativo por pelo menos 300 anos.",
+    "periodo": "1987",
+    "pergunta": "A cápsula ficou anos abandonada sem fiscalização. Em um desastre assim, de quem é a responsabilidade: de quem encontrou o material ou de quem deveria vigiá-lo?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Suzane de Alencar Vieira — Estudos Avançados",
+      "ano": "2013",
+      "url": "https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt"
     },
     "verificado": false
   },
