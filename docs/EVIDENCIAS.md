@@ -139,3 +139,15 @@ Fonte: ALVES, Juliana Ferreira. *Violência entre (des)iguais: memórias silenci
 - "[...] o homicídio adveio numa emboscada na estrada que liga Café do Vento a Sapé, quando João Pedro retornava da capital João Pessoa [...]"
 
 Atenção: a fonte não diz a profissão de Agnaldo Veloso Borges (buscas mencionam "usineiro"), então o texto não o qualifica. A dissertação também registra que, na época, as suspeitas recaíram sobre outras pessoas.
+
+## RJ — O cais que ficou enterrado
+
+Fonte: CARNEIRO, Sandra de Sá; PINHEIRO, Márcia Leitão. "Cais do Valongo: patrimonialização de locais, objetos e herança africana". *Religião & Sociedade*, 35 (2), jul.-dez. 2015. https://doi.org/10.1590/0100-85872015v35n2cap16 — URL usada: https://www.scielo.br/j/rs/a/bCPNfFkbtrHvWDMwWmj66XG/?lang=pt
+
+- "Com efeito, em 1843, no mesmo local tinha sido reconstruído o Cais da Imperatriz que, por sua vez, foi soterrado pela Reforma Pereira Passos, dando lugar à Praça do Comércio."
+- Placa citada no artigo: "Em 1843 o antigo Cais do Valongo foi alargado e embelezado, para receber a futura imperatriz Teresa Cristina que chegava para casar com D. Pedro II."
+- "Redescoberto em 2011, já no curso do Projeto Porto Maravilha [...]"
+- "[...] estatuetas que pareciam relacionadas a cultos promovidos pelos africanos que desembarcaram ali e logo foram escravizados."
+- Fala da arqueóloga Tânia Andrade Lima, citada no artigo: "[...] nós convidamos yalorixás que estão nos ajudando a interpretar este material."
+
+Dado em disputa, que ficou fora do texto: buscas mostram estimativas muito diferentes do número de africanos desembarcados no Valongo (de cerca de 1 milhão a valores maiores). Se quiser incluir um número, ele precisa de fonte que mostre a divergência.
