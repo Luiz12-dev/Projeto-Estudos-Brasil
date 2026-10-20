@@ -592,3 +592,12 @@ Fonte: IBGE Educa, página "Quilombolas". https://educa.ibge.gov.br/jovens/conhe
 - "[...] 12,6% dos quilombolas residentes no Brasil ocupam territórios oficialmente delimitados e 87,4% estão fora de áreas formalmente delimitadas e reconhecidas."
 
 A pergunta liga o dado ao trabalho escravizado nas minas como convite à discussão: a fonte não faz essa ligação.
+
+## PR — O primeiro combate do Contestado
+
+Fonte: a mesma apresentação do dossiê usada na primeira entrada de SC (*Revista Esboços*, UFSC, 2012). PDF: https://periodicos.ufsc.br/index.php/esbocos/article/download/2175-7976.2012v19n28p1/25643/104106
+
+- "Na manhã do dia 22 de outubro de 1912, na localidade do Banhado Grande do Irani, então Município de Palmas, região sob administração paranaense, uma força de mais de 50 soldados do Regimento de Segurança do Paraná entrou em confronto com um grupo de sertanejos seguidores do monge José Maria. A refrega durou menos de 1 hora e resultou em 23 mortos [...] Neste combate iniciava-se um conflito que, em diferentes fases e com características próprias, estendeu-se até o início de 1916."
+- "O conflito atingiu um grande território do planalto e meio-oeste catarinense, além do sul do Paraná."
+
+No PDF, parte da frase sai com caracteres corrompidos ("HGH]HQDVGHIHULGRV..."); a parte legível foi a usada. A primeira frase da pergunta é um convite à discussão.
