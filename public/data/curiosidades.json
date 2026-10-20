@@ -532,6 +532,19 @@
     "verificado": false
   },
   {
+    "uf": "PI",
+    "titulo": "Indígenas no Piauí",
+    "texto": "Entre 2010 e 2022, a população indígena do Piauí cresceu 144,6%, segundo o Censo do IBGE — uma das maiores variações do país e bem acima da média nacional (89,0%). No Nordeste como um todo, o crescimento foi de 127,3%. O total de indígenas inclui quem respondeu “sim” à pergunta “você se considera indígena?”, aplicada de forma ampliada em 2022.",
+    "periodo": "2010–2022",
+    "pergunta": "Por muito tempo se disse que não havia mais indígenas em vários estados do Nordeste. O que pode explicar que tantas pessoas passem a se declarar indígenas?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "RJ",
     "titulo": "O cais que ficou enterrado",
     "texto": "Em 1843, o Cais do Valongo, no Rio de Janeiro, foi alargado e embelezado para receber a futura imperatriz Teresa Cristina e virou Cais da Imperatriz — depois soterrado pela Reforma Pereira Passos. O sítio onde desembarcaram africanos escravizados só foi redescoberto em 2011, nas obras do Porto Maravilha. Entre os objetos achados havia peças de uso religioso, e os arqueólogos chamaram yalorixás para ajudar a interpretá-las.",

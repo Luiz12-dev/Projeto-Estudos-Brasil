@@ -610,3 +610,13 @@ Fonte: FISCHER, Brodwyn. "A ética do silêncio racial no contexto urbano: polí
 - "A principal prioridade urbana de Magalhães [...] foi uma campanha massiva para erradicar os mocambos do Recife. [...] a Liga Social Contra o Mocambo de Magalhães era um empreendimento inovador: uma campanha governamental maciça e integrada que combinava remoções violentas com recenseamentos, educação pública e habitação subsidiada."
 - "A liga lançou sua ofensiva em julho de 1939 com uma blitz multimídia. Magalhães era, convenientemente, dono de um jornal - a Folha da Manhã - e encheu suas páginas de propaganda pró-liga. Os censores da Era Vargas silenciaram a oposição em outros veículos [...]"
 - O artigo chama Magalhães de governador: "[...] o governador também buscou a inclusão de um amplo espectro de setores sociais organizados [...]"
+
+## PI — Indígenas no Piauí
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- Tabela 3 (Variação 2010-2022), coluna Indígena: "Piauí [...] 144,6%", "Nordeste [...] 127,3%", "Brasil [...] 89,0%".
+- "Uma das maiores variações": pela coluna Indígena, a ordem é RN (351,4%), BA (281,6%), CE (172,4%), AM (167,5%) e PI (144,6%).
+- Nota sobre o quesito "se considera indígena", como nas outras entradas do IBGE.
+
+A primeira frase da pergunta ("por muito tempo se disse...") é um convite à discussão, não um dado verificado.
