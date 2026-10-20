@@ -26,6 +26,19 @@
     "verificado": false
   },
   {
+    "uf": "BR",
+    "titulo": "Quem passa fome no Brasil",
+    "texto": "Em 2023, entre os lares brasileiros em insegurança alimentar grave, 67,4% tinham como responsável alguém sem instrução ou com no máximo o ensino fundamental; só 2,9% eram chefiados por quem tinha nível superior. O emprego com carteira assinada protege: 22,8% dos lares em segurança alimentar eram chefiados por empregados com carteira, contra 6,1% chefiados por empregados sem carteira, segundo o IBGE.",
+    "periodo": "2023",
+    "pergunta": "Que relação existe entre escola, trabalho formal e comida na mesa? O que isso diz sobre as políticas públicas contra a fome?",
+    "fonte": {
+      "nome": "IBGE — PNAD Contínua: Segurança Alimentar 2023",
+      "ano": "2024",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102084.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "AC",
     "titulo": "Nem revolução, nem acreana?",
     "texto": "O conflito de 1902 que levou à anexação do Acre ao Brasil começou em 6 de agosto, data da independência da Bolívia, e foi liderado pelo gaúcho Plácido de Castro, com patrocínio do governo do Amazonas. A maioria dos combatentes brasileiros eram seringueiros nordestinos. Pesquisadores lembram que o Acre era território boliviano e que muitos seringueiros lutaram por ordem de seus patrões, os seringalistas. Um livro sobre o tema se chama “Não foi revolução nem acreana”.",

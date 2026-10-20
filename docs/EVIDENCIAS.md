@@ -520,3 +520,12 @@ Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da popu
 - "Os dados do Censo Demográfico 2022 evidenciam que a população residente no Brasil é formada por 92 083 286 pessoas pardas (45,3%), 88 252 121 brancas (43,5%), 20 656 458 pretas (10,2%), 1 694 836 indígenas (0,8%) e 850 130 amarelas (0,4%)."
 
 O caráter autodeclarado do quesito é a base do método do IBGE (a publicação trata da "declaração" de cor ou raça). A pergunta não afirma causas.
+
+## BR — Quem passa fome no Brasil
+
+Fonte: IBGE, *PNAD Contínua — Segurança alimentar 2023* (© IBGE 2024). PDF: https://biblioteca.ibge.gov.br/visualizacao/livros/liv102084.pdf
+
+- "A parcela de domicílios em IA grave em que os responsáveis eram sem instrução e com ensino fundamental incompleto ou completo foi de 67,4%, confrontando com os 2,9% relativos aos domicílios cujo responsáveis cursaram o nível superior."
+- "A formalização da ocupação tem impacto significativo na capacidade de garantir a aquisição de alimentos nos domicílios, pois 22,8% dos domicílios encontravam-se em situação de SA quando o responsável é empregado privado com carteira assinada, o maior percentual entre todas as categorias. Já os que não tinham carteira assinada eram apenas 6,1%."
+
+Atenção à leitura: os 22,8% e 6,1% são a participação de cada categoria entre os lares em segurança alimentar (SA), não a chance de um lar estar em SA. O texto foi escrito com esse sentido. A frase "o emprego com carteira assinada protege" resume o trecho "A formalização da ocupação tem impacto significativo [...]".
