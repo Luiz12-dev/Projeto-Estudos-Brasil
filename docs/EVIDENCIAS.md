@@ -52,3 +52,13 @@ Fonte: IBGE Educa, página "Quilombolas". https://educa.ibge.gov.br/jovens/conhe
 - "Em segundo lugar está o Maranhão, com 269.074 pessoas quilombolas, o que corresponde a 20,26% da população quilombola. Estas duas Unidades somadas representam 50,16% de toda a população quilombola do Brasil."
 
 O texto tem 3 frases; pode precisar de uma quarta linha para atingir o mínimo de 4 linhas do schema.
+
+## MG — O “trem de doido” de Barbacena
+
+Fonte: MATOS-DE-SOUZA, Rodrigo; MEDRADO, Ana Carolina Cerqueira. "Dos corpos como objeto: uma leitura pós-colonial do 'Holocausto Brasileiro'". *Saúde em Debate*, 45 (128), 2021. https://doi.org/10.1590/0103-1104202112813 — URL usada: https://www.scielo.br/j/sdeb/a/v9vGDrqDPfQt3KJkS5Kjndc/?lang=pt
+
+Dado em disputa: os 60 mil são a estimativa do livro de Daniela Arbex, retomada pelo artigo. Por isso o texto atribui o número ao livro. Buscas mostram fontes com períodos diferentes para essas mortes, então o texto não informa período.
+
+- "O livro 'Holocausto Brasileiro', da jornalista Daniela Arbex, publicado em 2013, conta a história do Hospital Colônia, localizado em Barbacena (MG). Nesse hospital morreram cerca de 60 mil pacientes [...] exposição ao frio - muitos não dispunham de roupas, quartos, camas ou lençóis para dormir [...] alimentação racionada [...] 'tratamentos' violentos, à base de eletrochoque [...] os corpos dos pacientes mortos eram vendidos para as faculdades de medicina [...]"
+- Citando Arbex: "Os deserdados sociais chegavam a Barbacena de vários cantos do Brasil. Eles abarrotavam os vagões de carga [...] A expressão 'trem de doido' surgiu ali."
+- "[...] período da ditadura militar, no Brasil, em que os hospitais psiquiátricos recebiam diária por cada paciente internado. Isso fez com que o número de leitos em tais hospitais saltasse de 14 mil, no início da ditadura, para cerca de 70 mil, em 1970."
