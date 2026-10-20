@@ -355,3 +355,11 @@ Fonte: MARTINELLO, Pedro. *A batalha da borracha na Segunda Guerra Mundial*. Rio
 - "A resposta dos representantes da Amazônia, além de minimizar a tragédia e o número de mortes [...]"
 
 O período 1942–1945 é o da Segunda Guerra, contexto do livro. Atenção: o livro trata da Amazônia como um todo, não só do Acre.
+
+## AC — A doença que seguiu a borracha
+
+Fonte: o mesmo capítulo usado na entrada do MT ("Comportamento epidemiológico da hanseníase no Brasil", *Saúde Brasil 2008*, Ministério da Saúde). PDF: https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content
+
+- "Agrícola (1975) avaliou a situação epidemiológica da hanseníase no País, em 1973, apontando que o estado do Acre, com economia baseada na borracha, tinha a pior situação epidemiológica. Ele também aponta que a região Nordeste tinha então o menor coeficiente de prevalência. Atualmente, os estados pertencentes à Amazônia brasileira apresentam a pior situação epidemiológica da hanseníase, com os maiores coeficientes de detecção. A região Nordeste foi substituída pela região Sul como aquela com menos hanseníase."
+
+"Atualmente" no trecho se refere à época do estudo (série 1980-2009), por isso o texto diz "décadas depois". Ano de publicação como TODO: veja a nota da entrada do MT.

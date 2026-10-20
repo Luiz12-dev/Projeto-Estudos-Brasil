@@ -39,6 +39,19 @@
     "verificado": false
   },
   {
+    "uf": "AC",
+    "titulo": "A doença que seguiu a borracha",
+    "texto": "Em 1973, uma avaliação nacional da hanseníase apontou que o Acre, com economia baseada na borracha, tinha a pior situação epidemiológica do país, enquanto o Nordeste tinha o menor coeficiente de prevalência. Décadas depois, segundo estudo publicado pelo Ministério da Saúde, os estados da Amazônia continuavam com a pior situação, e o Nordeste deixou de ser a região com menos hanseníase — posto que passou ao Sul.",
+    "periodo": "1973",
+    "pergunta": "O que uma doença pode revelar sobre as condições de vida e de trabalho de uma economia, como a da borracha?",
+    "fonte": {
+      "nome": "Penna, Gross, Rocha e Penna — Saúde Brasil 2008 (Ministério da Saúde)",
+      "ano": "TODO: verificar",
+      "url": "https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content"
+    },
+    "verificado": false
+  },
+  {
     "uf": "AL",
     "titulo": "Destruir Palmares dava prêmio",
     "texto": "Os mocambos de Palmares duraram mais de um século; as primeiras tentativas de destruí-los, pelo governo da Capitania de Pernambuco, datam de 1602. Na segunda metade do século XVII, várias expedições levaram centenas de soldados contra eles. Quem lutava pedia ao rei “mercês”: títulos, cargos e terras. Bandeirantes paulistas chamados para a guerra ganharam extensos lotes na região palmarina, o que lhes garantiu bases para se enraizar em Pernambuco.",
