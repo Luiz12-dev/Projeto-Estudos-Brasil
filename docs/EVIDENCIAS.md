@@ -272,7 +272,7 @@ Fonte: CARVALHO, Genimar M. R. de; LIMA, Solimar Oliveira. "Escravidão e constr
 - "Entre estes primeiros trabalhadores que deram início ao processo de construção das obras públicas de Teresina, estavam os escravizados nacionais [...]"
 - "Percebe-se na documentação pesquisada uma frequência considerável de pedidos ou ordens de devolução de trabalhadores escravizados às fazendas nacionais [...] a motivação principal das devoluções de escravizados para as fazendas nacionais, parece ter sido o não aprendizado, propositadamente, de um ofício, como forma de resistência."
 
-O período termina em 1871 por causa do recorte do título (1850-1871). Buscas indicam que os escravizados da Nação foram libertados pela Lei n.º 2.040, de 1871, mas isso não está no trecho conferido. **Confirme ou mude o fim do período.**
+O período (1760–1871) vai da criação das Fazendas do Fisco até o fim do recorte do artigo (1850-1871). O artigo não afirma que as Fazendas da Nação ou a escravidão nelas terminaram em 1871, e o texto da curiosidade também não afirma isso.
 
 ## PR — O açoite que a lei manteve
 
