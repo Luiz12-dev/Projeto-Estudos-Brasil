@@ -11,6 +11,8 @@ Documento de referência: [`CLAUDE.md`](../CLAUDE.md).
 | D3 | Em desenvolvimento (`npm run dev`), entradas não verificadas aparecem com o aviso "não verificado" | Permite ao curador revisar o conteúdo antes de marcar `verificado: true` |
 | D4 | `main` sempre estável; cada fase em uma branch `feat/*`, `ci/*` ou `docs/*` integrada com merge | Histórico organizado e deploy sempre a partir de código revisado |
 | D5 | Commits no padrão Conventional Commits | Histórico legível |
+| D6 | Entradas em conferência aparecem no site com aviso visível (substitui D2) | Pedido do Luiz em 2026-10-20 para o site ficar utilizável antes do fim da conferência; reversível em `src/painel.ts` |
+| D7 | Várias curiosidades por recorte: entradas repetidas com a mesma `uf`, navegação Anterior/Próxima | Pedido do Luiz em 2026-10-20; o schema de `types.ts` não muda |
 
 ## Fases
 
