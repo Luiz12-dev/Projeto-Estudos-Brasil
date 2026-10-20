@@ -184,3 +184,16 @@ Fonte: PAZ, Adalberto. "Muitos sujeitos, outros governos, nenhuma pátria: fugit
 - "Após 1927, com o fim do estado de sítio [...]"
 
 Dado em disputa: buscas mostram outras contagens de presos (948 no relatório oficial de Oldemar Murtinho, 1.630 segundo Manoelzinho dos Santos). Por isso o texto atribui os números ao relatório citado.
+
+## DF — Quantos morreram na construção de Brasília?
+
+Fonte: SOUSA, Nair Heloisa Bicalho de. "O massacre da Pacheco Fernandes Dantas em 1959: memória dos trabalhadores da construção civil de Brasília". PDF: https://unb.revistaintercambio.net.br/24h/pessoa/temp/anexo/1/1251/2053.pdf — a autora é apresentada como "Professora da Universidade de Brasília". O ano de publicação não aparece no texto (cita trabalhos de 2011, então é posterior a isso); campo `ano` como TODO. Outra cópia do mesmo texto: http://www.derhuman.jus.gov.ar/conti/2011/10/mesa_11/bicalho_mesa_11.pdf
+
+**Dado em disputa** (seção 7 do CLAUDE.md): o texto mostra as três contagens e quem as fez.
+
+- "O massacre dos operários da construção civil no acampamento da construtora Pacheco Fernandes Dantas no carnaval de 1959, ignorado pela história oficial da cidade [...]"
+- Citando *O Binômio* (16/02/1959): "início da tarde de domingo (dia 8 de fevereiro de 1959) quando alguns operários reclamaram da péssima qualidade da comida e a falta (constante de água). [...] o que levou o chefe de obras a solicitar a 'Polícia da NOVACAP' [...]"
+- Depoimento: "Quando foi na base de dez para onze hora, aí chegou o caminhão cheinho (de soldados) que era da GEB."
+- "[...] a Guarda Especial de Brasília."
+- "O Jornal do Brasil (14/02/1959), A Notícia (13/02/1959) do Rio de Janeiro e O Estado de São Paulo (14/02/1959) registraram a ocorrência de uma morte, sustentados nas informações das autoridades da NOVACAP."
+- "Um ponto polêmico está em torno do número de mortos: os grandes jornais registram 1 a 2, conforme apontado acima, outros jornais falam em 9, mas depoimentos de trabalhadores da época e de Jorge Santos vai muito além. [...] 'Nenhum dos operários falou em menos de 50. Houve quem estimasse 120.'"

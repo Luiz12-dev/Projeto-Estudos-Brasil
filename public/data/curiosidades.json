@@ -92,13 +92,14 @@
   },
   {
     "uf": "DF",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Quantos morreram na construção de Brasília?",
+    "texto": "No domingo de Carnaval, 8 de fevereiro de 1959, operários do acampamento da construtora Pacheco Fernandes Dantas, em Brasília, reclamaram da comida e da falta de água. A polícia foi chamada e, à noite, um caminhão de soldados da Guarda Especial de Brasília (GEB) chegou ao acampamento. Quantos morreram? Grandes jornais da época, com base na NOVACAP, registraram uma morte; outros falaram em 9; operários ouvidos por um jornalista nunca falaram em menos de 50.",
+    "periodo": "1959",
+    "pergunta": "Quando a versão oficial e a memória dos trabalhadores divergem tanto, como um historiador deve tratar os números? Por que esse episódio ficou fora da história oficial da capital?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Nair Heloisa Bicalho de Sousa (UnB) — artigo",
+      "ano": "TODO: verificar",
+      "url": "https://unb.revistaintercambio.net.br/24h/pessoa/temp/anexo/1/1251/2053.pdf"
     },
     "verificado": false
   },
