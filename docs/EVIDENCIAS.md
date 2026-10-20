@@ -431,3 +431,13 @@ Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da popu
 
 - "Analisando o peso relativo da população preta nas Unidades da Federação, o destaque vai para a Bahia, com 22,4%, seguida do Rio de Janeiro, com 16,2%, e Tocantins, com 13,2%. Os menores pesos relativos encontravam-se nas Unidades da Federação de Santa Catarina, com 4,1% de população preta, seguida do Paraná, com 4,3%, e do Amazonas, com 4,9%."
 - Tabela 3: "Tocantins 9,3% 1,6% 58,0% -86,7% 7,6% 41,8%" (a coluna Preta é a terceira).
+
+## AL — A noite em que quebraram os terreiros
+
+Fonte: LUNA, Lenilda. "Quebra do Xangô: pesquisadores avaliam a intolerância religiosa". Notícias UFAL, 01/02/2012 (atualizado em 06/05/2024). https://noticias.ufal.br/ufal/noticias/2012/01/quebra-do-xango-pesquisadores-avaliam-a-intolerancia-religiosa
+
+**Atenção:** é uma notícia de universidade pública com falas de pesquisadoras da UFAL, não um artigo revisado por pares. Fonte complementar aberta: o TCC de Diogo Fabiano Barbosa Pimentel, *O Quebra de Xangô de 1912: uma reflexão histórica* (UFAL, 2022), que confirma a data ("naquela fatídica noite de 1º de fevereiro de 1912").
+
+- "Foi na noite de 1º de fevereiro de 1912 que o terror se espalhou pelos terreiros de cultos afro-brasileiros em Alagoas. O quebra-quebra foi liderado pela Liga dos Repúblicanos Combatentes, agremiação política que fazia oposição ao governador da época, Euclides Malta. As invasões, espancamentos e prisões aos praticantes de candomblé, umbanda e outros cultos durou até a madrugada de 2 de fevereiro [...]"
+- "O Quebra provocou o fechamento de vários terreiros e a dispersão de ialorixás e babalorixás para outros Estados."
+- Fala da historiadora Clara Suassuna: "Esse evento durante muitos anos ficou restrito aos jornais como sendo uma ação para limpar as almas da população das práticas religiosas demoníacas e perigosas para a sociedade".
