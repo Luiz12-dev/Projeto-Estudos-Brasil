@@ -216,3 +216,14 @@ Fonte: RICCI, Magda. "Cabanagem, cidadania e identidade revolucionária: o probl
 - "Toda a chacina populacional da Cabanagem, entre 1835 e 1840 [...]"
 
 Dado em disputa: buscas mostram estimativas de 30 a 40 mil mortos em outras fontes. O texto atribui o número à autora. A pergunta compara com o Sudeste, o que é um convite à discussão, não uma afirmação da fonte.
+
+## PE — “Liga” era apelido
+
+Fonte: DEZEMONE, Marcus. "A questão agrária, o governo Goulart e o golpe de 1964 meio século depois". *Revista Brasileira de História*, 36 (71), jan.-abr. 2016. https://doi.org/10.1590/1806-93472016v36n71_006 — URL usada: https://www.scielo.br/j/rbh/a/R85xbJj5tVgt6YSDphF5gZS/?lang=pt
+
+- "A primeira 'Liga' teria surgido em 1955 no Engenho Galileia, em Vitória de Santo Antão, na Zona da Mata pernambucana. Rapidamente o modelo de organização como associação civil, sem o reconhecimento oficial do Estado, expandiu-se, chegando a outros estados."
+- "O primeiro foi a luta contra o cambão - o trabalho não remunerado nos engenhos [...] Prática comum havia muitos anos, o cambão passou a ser visto como um problema quando os proprietários começaram a cobrar mais dias [...]"
+- "O próprio termo 'Liga' foi adotado pela imprensa conservadora de Pernambuco para remeter o movimento dos anos 1950 às Ligas Comunistas da década de 1940. O nome da organização criada no Engenho Galileia em 1955 era 'Sociedade Agrícola e Pecuária dos Plantadores de Pernambuco' (SAPPP). Do conteúdo pejorativo inicialmente atribuído, o termo 'Liga' acabou incorporado e difundido pelo movimento."
+- Período: "[...] da existência daquelas entidades, de 1955 a 1964."
+
+Atenção: o artigo diz que a primeira Liga "teria surgido" em 1955. Buscas mostram fontes que dão 1954. O texto mantém 1955 para o nome SAPPP, que o artigo afirma sem ressalva. A entrada da PB também fala do cambão, mas com outro foco.
