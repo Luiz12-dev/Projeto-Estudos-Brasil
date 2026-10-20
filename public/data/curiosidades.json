@@ -273,13 +273,14 @@
   },
   {
     "uf": "RS",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "O charque era feito por escravizados",
+    "texto": "A economia do charque em Pelotas (RS) dependia do trabalho escravizado. Em 1832, a Câmara de Pelotas afirmava que o distrito tinha “mais de quatro mil escravos” reunidos nas charqueadas e temia que emissários do “Estado vizinho” os levassem à revolta. Entre 1809 e 1825, segundo registros analisados por historiadores, 95% dos 6.984 cativos que entraram no Rio Grande do Sul eram africanos.",
+    "periodo": "1809–1832",
+    "pergunta": "O Rio Grande do Sul costuma ser associado à imigração europeia. Por que a presença africana e escravizada aparece tão pouco nessa imagem?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Marcelo Garcia da Rocha — Dissertação de Mestrado, UFPel",
+      "ano": "2014",
+      "url": "https://wp.ufpel.edu.br/ppgmp/files/2016/11/Marcelo-Garcia.pdf"
     },
     "verificado": false
   },

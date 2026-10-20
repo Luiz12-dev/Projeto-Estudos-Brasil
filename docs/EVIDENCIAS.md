@@ -271,3 +271,13 @@ Fonte: Observatório História e Saúde (Casa de Oswaldo Cruz/Fiocruz), "O avan�
 - "[...] as condições de abandono dos operários recrutados para a construção da Madeira-Mamoré, entre norte-americanos, bolivianos e cearenses, estes últimos expulsos pela seca [...]"
 
 Dado em disputa: o número de mortos não está no texto. Buscas mostram estimativas muito diferentes ("mais de seis mil" em artigo da HCSM; 1.593 em outro; 6.208 sobre 21.817 contratados citado por um blog). Nenhuma delas foi conferida numa página aberta, por isso a pergunta trata a frase "uma vida por dormente" como lenda a discutir.
+
+## RS — O charque era feito por escravizados
+
+Fonte: ROCHA, Marcelo Garcia da. *Arqueologia da escravidão e patrimônio cultural no Passo dos Negros (Pelotas, RS)*. Dissertação (Mestrado em Memória Social e Patrimônio Cultural), UFPel, Pelotas, 2014. PDF: https://wp.ufpel.edu.br/ppgmp/files/2016/11/Marcelo-Garcia.pdf
+
+- Ata da Câmara citada na dissertação: "Sessão de 7 de agosto de 1832 [...] os do Estado vizinho, [não] apenas fazendo a guerra entre si, enviam emissários disfarçados para revoltarem a escravatura, sendo bem constante que o distrito desta Vila tem para mais de quatro mil escravos quase unidos segundo a posição das charqueadas [...]"
+- "[...] o contingente de escravos que povoavam as charqueadas, estes que estavam para mais de 4 mil como assinala a Sessão Câmara Municipal de 7 de agosto de 1832."
+- "Para os registros de 1809-1825, num um total de 6.984 cativos que deram entrada nas bandas do Rio Grande do Sul, a margem varia entre 95% (6.635) de africanos e 5% (349) de crioulos." (citando PESSI, 2008)
+
+A primeira frase ("dependia do trabalho escravizado") resume a dissertação, que trata dos "trabalhadores escravizados nas charqueadas".
