@@ -729,3 +729,12 @@ Fonte: o mesmo artigo usado na primeira entrada de MG (*Saúde em Debate*, 2021)
 - "[...] a partir da década de 1980, começa uma guinada no modelo assistencial brasileiro, fruto do Movimento da Luta Antimanicomial [...] Assim, em 2001, há a culminância do movimento reformista da psiquiatria no [...]"
 
 Atenção: o artigo não diz em que período as internações superavam o dobro do recomendado, por isso a entrada não tem o campo `periodo`. O dado vem do livro de Arbex (nota 1 do artigo).
+
+## MA — Movimentos dos atingidos pela base
+
+Fonte: a mesma resenha usada na segunda entrada do MA (*Rev. Pós Ciênc. Soc.*, UFMA, 2023). PDF: https://periodicoseletronicos.ufma.br/index.php/rpcsoc/article/download/20939/11683/63313
+
+- "Em 1992, foi criado o Movimento das Mulheres Trabalhadoras Rurais de Alcântara (MOMTRA); em 1997, nasce a Associação das Comunidades Negras Rurais Quilombolas do Maranhão (ACONERUQ); dois anos depois, em 1999, surge o Movimento dos Atingidos pela Base Espacial de Alcântara (MABE). Esses movimentos [...] lutam contra outros remanejamentos compulsórios [...]"
+- "[...] destacando a inexistência de estudos de impacto ambiental até o presente momento. O texto relembra ainda, que não houve êxito nas tentativas de lançamento pelo CLA e que na última, ocorrida em 2003, o foguete explodiu no momento do lançamento, matando 21 cientistas."
+
+"Associação estadual" resume o nome "Associação das Comunidades Negras Rurais Quilombolas do Maranhão". "Até a publicação" traduz "até o presente momento" do livro resenhado (2020).
