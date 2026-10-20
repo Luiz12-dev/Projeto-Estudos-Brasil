@@ -461,3 +461,12 @@ Fonte: o mesmo artigo de Frederico de Castro Neves usado na primeira entrada do 
 - "A atitude com relação ao saque era ambígua: a polícia tomava, mas imediatamente devolvia os alimentos aos saqueadores."
 
 O telegrama é da seca de 1942: ele vem logo depois do trecho "Em 19 de março de 1942, dia de São José, a seca foi novamente 'decretada' no Ceará [...]". A frase sobre a polícia aparece na parte do artigo sobre 1942.
+
+## MA — Foguetes no território quilombola
+
+Fonte: FEITOZA, Ilnar Fernandes. "Lutas e enfrentamentos das comunidades quilombolas de Alcântara frente ao modelo colonialista da base espacial" (resenha do livro de Danilo da Conceição Serejo Lopes, *A atemporalidade do colonialismo*, UEMA, 2020). *Rev. Pós Ciênc. Soc.*, São Luís, v. 20, n. 1, p. 199-204, jan./abr. 2023. PDF: https://periodicoseletronicos.ufma.br/index.php/rpcsoc/article/download/20939/11683/63313
+
+- "Para a implantação do Centro de Lançamento de Alcântara (CLA), em 1980, foi destinada inicialmente uma área de 52 mil hectares pelo governo do estado do Maranhão. Em 1991, o presidente Fernando Collor acrescentou 10 mil hectares, perfazendo um total de 62 mil hectares. Para iniciar a construção do centro, em 1986 e 1987, o Estado brasileiro deslocou compulsoriamente 312 famílias, que formavam 23 povoados, para 7 agrovilas."
+- "A remoção para agrovilas impôs prejuízos irreparáveis: imposição de novas condutas de vida, alteração da vizinhança, separação dos parentes, além da disponibilização de terras inférteis para agricultura e dificuldade de acesso aos locais de pesca, entre outros."
+
+O termo "famílias quilombolas" segue o título e o tema da resenha ("comunidades quilombolas de Alcântara"). Atenção: é uma resenha, que resume o livro de Lopes.
