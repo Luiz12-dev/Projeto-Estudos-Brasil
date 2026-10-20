@@ -144,13 +144,14 @@
   },
   {
     "uf": "MT",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Uma doença antiga na fronteira nova",
+    "texto": "Segundo um estudo publicado pelo Ministério da Saúde no relatório Saúde Brasil 2008, as áreas de maior risco de hanseníase na Amazônia coincidiam com projetos de assentamento e polos de desenvolvimento agropecuário. No Censo de 1980, 35,5% dos moradores de Mato Grosso não tinham nascido no estado. Entre 1950 e 2000, a densidade passou de 0,42 para 2,47 habitantes por km². Mato Grosso estava entre os estados com alta detecção em menores de 15 anos, sinal de transmissão recente.",
+    "periodo": "1980–2009",
+    "pergunta": "Por que uma doença pode acompanhar as frentes de ocupação e migração? Quem paga o custo de saúde da expansão da fronteira agrícola?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Penna, Gross, Rocha e Penna — Saúde Brasil 2008 (Ministério da Saúde)",
+      "ano": "TODO: verificar",
+      "url": "https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content"
     },
     "verificado": false
   },

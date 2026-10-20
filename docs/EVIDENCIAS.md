@@ -197,3 +197,12 @@ Fonte: SOUSA, Nair Heloisa Bicalho de. "O massacre da Pacheco Fernandes Dantas e
 - "[...] a Guarda Especial de Brasília."
 - "O Jornal do Brasil (14/02/1959), A Notícia (13/02/1959) do Rio de Janeiro e O Estado de São Paulo (14/02/1959) registraram a ocorrência de uma morte, sustentados nas informações das autoridades da NOVACAP."
 - "Um ponto polêmico está em torno do número de mortos: os grandes jornais registram 1 a 2, conforme apontado acima, outros jornais falam em 9, mas depoimentos de trabalhadores da época e de Jorge Santos vai muito além. [...] 'Nenhum dos operários falou em menos de 50. Houve quem estimasse 120.'"
+
+## MT — Uma doença antiga na fronteira nova
+
+Fonte: PENNA, Maria Lucia Fernandes; GROSS, Maria Aparecida de Faria; ROCHA, Margarida Cristiana Napoleão; PENNA, Gerson Oliveira. "Comportamento epidemiológico da hanseníase no Brasil". Capítulo 12 de *Saúde Brasil 2008: 20 anos de Sistema Único de Saúde (SUS) no Brasil*, Secretaria de Vigilância em Saúde/Ministério da Saúde. PDF no repositório Arca/Fiocruz: https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content — o ano de publicação não aparece no trecho (o capítulo analisa 1980-2009), então o campo `ano` ficou como TODO.
+
+- "As áreas dos clusters na região Amazônica coincidem com áreas de projetos de assentamento e de polos de desenvolvimento agropecuário. No censo de 1980, não haviam nascido no estado de residência 35,5% da população no Mato Grosso e 40,7% em Rondônia. A densidade demográfica passou de 0,15 habitante por km2, em 1950, para 5,8 habitantes/km2 em 2000, em Rondônia; e de 0,42 para 2,47, nos mesmos anos, em Mato Grosso [...]"
+- "Apresentam taxa de detecção, em menores de 15 anos, maior do que dez casos por 100 mil habitantes os estados de Rondônia, Pará, Tocantins, Maranhão, Piauí, Pernambuco e Mato Grosso, refletindo transmissão recente do bacilo."
+
+Fonte complementar aberta, fora do texto: o artigo de Tavares (*Einstein*, 2021, https://www.scielo.br/j/eins/a/sFYSvJxNsH3MF3W4ydfzSnd/?lang=pt) diz que MT ocupa "a primeira posição, com as maiores taxas de prevalência e incidência da doença no país". Isso não entrou no texto porque o schema aceita só uma fonte.
