@@ -1,6 +1,8 @@
 # Mapa Histórico do Brasil
 
-Site estático com um mapa clicável do Brasil. Ao tocar em um estado (ou em "Brasil"), a pessoa lê uma curiosidade histórica com a fonte visível e uma pergunta para discussão em sala.
+Site estático com um mapa clicável do Brasil. Ao tocar em um estado (ou em "Brasil"), a pessoa lê curiosidades históricas (de 2 a 3 por recorte, 80 no total), com a fonte visível e uma pergunta para discussão em sala.
+
+Site: https://luiz12-dev.github.io/Projeto-Estudos-Brasil/
 
 Trabalho da unidade curricular **Informática Aplicada à Educação** — Tecnologia em Sistemas para Internet, **IFPR Campus Jacarezinho**.
 
@@ -23,7 +25,7 @@ npm run preview  # serve o build localmente
 
 ```
 public/
-  data/curiosidades.json   conteúdo (28 entradas: 26 estados, DF e BR)
+  data/curiosidades.json   conteúdo (80 entradas; várias por recorte)
   brasil.svg               mapa (base IBGE)
 src/
   types.ts     schema dos dados
@@ -40,7 +42,7 @@ CLAUDE.md                  documento de fundamentação do projeto
 
 Cada entrada de `public/data/curiosidades.json` segue o schema de `src/types.ts`. Toda entrada nova começa com `"verificado": false` e só deve ser marcada como `true` depois que uma pessoa abrir a fonte e confirmar o fato.
 
-No site publicado, entradas não verificadas aparecem como **"Conteúdo em curadoria"**. No modo de desenvolvimento, elas aparecem com o aviso "não verificado" para revisão.
+Enquanto a conferência não termina, entradas com `verificado: false` aparecem no site com o aviso **"Em conferência — fonte ainda não revisada pelo curador"** (decisão de 2026-10-20). Para escondê-las, troque `MOSTRAR_EM_CONFERENCIA` para `false` em `src/painel.ts`: elas passam a aparecer como "Conteúdo em curadoria".
 
 As 28 entradas foram pesquisadas conforme a seção 7.1 do `CLAUDE.md`. O link e o trecho de cada fonte estão em [`docs/EVIDENCIAS.md`](docs/EVIDENCIAS.md), que tem uma lista de conferência no topo.
 

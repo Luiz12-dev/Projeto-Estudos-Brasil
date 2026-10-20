@@ -6,38 +6,92 @@ Como conferir: abra a URL, localize o trecho (Ctrl+F) e confirme que o texto da 
 
 ## Lista de conferência
 
+São 80 curiosidades. A coluna "Atenção" é gerada a partir das notas de cada evidência abaixo.
+
 Depois de conferir uma entrada, marque `[x]` aqui e troque `"verificado": false` por `true` em `public/data/curiosidades.json`. Ou avise o agente quais UFs foram aprovadas.
 
 | UF | Título | Atenção | Conferido |
 |---|---|---|---|
-| BR | A fome tem endereço e cor | Série de 2023 pode ter sido revisada pelo IBGE | [ ] |
-| AC | Nem revolução, nem acreana? | — | [ ] |
-| AL | Destruir Palmares dava prêmio | Localização em AL vem de outra fonte | [ ] |
-| AP | Desterrados no Oiapoque | Número de presos em disputa | [ ] |
-| AM | Os soldados esquecidos da borracha | Artigo trata da Amazônia em geral | [ ] |
+| BR | A fome tem endereço e cor | — | [ ] |
+| BR | Um país que se declara diferente | — | [ ] |
+| BR | Quem passa fome no Brasil | — | [ ] |
+| AC | Nem revolução, nem acreana? | ver "Atenção" | [ ] |
+| AC | Quantos soldados da borracha sumiram? | dado em disputa; ver "Atenção" | [ ] |
+| AC | A doença que seguiu a borracha | `ano` TODO | [ ] |
+| AL | Destruir Palmares dava prêmio | — | [ ] |
+| AL | A noite em que quebraram os terreiros | fonte sem revisão por pares; ver "Atenção" | [ ] |
+| AL | Os sobreviventes de Palmares | — | [ ] |
+| AP | Desterrados no Oiapoque | dado em disputa | [ ] |
+| AP | Escravizados no governo de Counani | — | [ ] |
+| AM | Os soldados esquecidos da borracha | ver "Atenção" | [ ] |
+| AM | Quase meio milhão de indígenas | — | [ ] |
+| AM | Floresta derrubada, malária em alta | ver "Atenção" | [ ] |
 | BA | Quilombo não é só passado | `ano` TODO | [ ] |
+| BA | O estado mais preto do Brasil | — | [ ] |
+| BA | 234 processos e papéis em árabe | texto de 1907 (linguagem da época); ver "Atenção" | [ ] |
 | CE | Campos de concentração no sertão | — | [ ] |
-| DF | Quantos morreram na construção de Brasília? | `ano` TODO; dado em disputa | [ ] |
-| ES | A revolta no dia da festa | Fonte é TCC (sem revisão por pares) | [ ] |
+| CE | A polícia tomava, mas devolvia | — | [ ] |
+| CE | O Ceará indígena | — | [ ] |
+| DF | Quantos morreram na construção de Brasília? | dado em disputa; `ano` TODO | [ ] |
+| DF | Viradas de 24 horas | `ano` TODO | [ ] |
+| DF | A polícia paga pela construtora | `ano` TODO | [ ] |
+| ES | A revolta no dia da festa | dado em disputa; fonte sem revisão por pares; ver "Atenção" | [ ] |
+| ES | A lenha que virou conflito | — | [ ] |
+| ES | De revolta esquecida a patrimônio | fonte sem revisão por pares | [ ] |
 | GO | O brilho azul do césio-137 | — | [ ] |
+| GO | Barrados por serem de Goiânia | — | [ ] |
+| GO | Uma cidade com o símbolo da radiação | ver "Atenção" | [ ] |
 | MA | Uma cidade quilombola | `ano` TODO | [ ] |
-| MT | Uma doença antiga na fronteira nova | Ministério da Saúde/Fiocruz (fora da lista); `ano`: busca indica 2009, não conferido | [ ] |
+| MA | Foguetes no território quilombola | ver "Atenção" | [ ] |
+| MA | Movimentos dos atingidos pela base | — | [ ] |
+| MT | Uma doença antiga na fronteira nova | `ano` TODO | [ ] |
+| MT | Primeiro lugar que ninguém quer | — | [ ] |
 | MS | Confinados em 60 hectares | — | [ ] |
-| MG | O “trem de doido” de Barbacena | — | [ ] |
-| PA | A revolução que dizimou a Amazônia | Total de mortos em disputa | [ ] |
-| PB | O fim do cambão | — | [ ] |
-| PR | O açoite que a lei manteve | Projeto de extensão UFPR; `ano` TODO | [ ] |
-| PE | “Liga” era apelido | — | [ ] |
-| PI | Quando o dono era o Estado | Conferir fim do período (1871) | [ ] |
-| RJ | O cais que ficou enterrado | Número de desembarcados deixado de fora (disputa) | [ ] |
-| RN | Os libertos que libertavam | E-book didático PIBID | [ ] |
+| MS | De 40 mil km² a pequenas reservas | — | [ ] |
+| MS | Diversidade em Mato Grosso do Sul | — | [ ] |
+| MG | O “trem de doido” de Barbacena | dado em disputa | [ ] |
+| MG | Minas quilombola | `ano` TODO | [ ] |
+| MG | Internar demais | ver "Atenção" | [ ] |
+| PA | A revolução que dizimou a Amazônia | dado em disputa | [ ] |
+| PA | Rebeldes em nome do imperador | — | [ ] |
+| PA | Cidades transformadas em quartéis | — | [ ] |
+| PB | O fim do cambão | ver "Atenção" | [ ] |
+| PB | A viúva que assumiu a luta | — | [ ] |
+| PR | O açoite que a lei manteve | `ano` TODO; ver "Atenção" | [ ] |
+| PR | O primeiro combate do Contestado | — | [ ] |
+| PR | O professor escravizado | `ano` TODO | [ ] |
+| PE | “Liga” era apelido | ver "Atenção" | [ ] |
+| PE | Guerra aos mocambos | — | [ ] |
+| PE | Pernambuco, refúgio dos terreiros | — | [ ] |
+| PI | Quando o dono era o Estado | — | [ ] |
+| PI | Indígenas no Piauí | — | [ ] |
+| PI | Os primeiros construtores de Teresina | — | [ ] |
+| RJ | O cais que ficou enterrado | dado em disputa | [ ] |
+| RJ | A região que resistiu | — | [ ] |
+| RJ | Preto, sim; indígena, quase nada | — | [ ] |
+| RN | Os libertos que libertavam | fonte sem revisão por pares; ver "Atenção" | [ ] |
+| RN | Indígenas no Rio Grande do Norte | — | [ ] |
+| RN | O capitão do mato cercado | ver "Atenção" | [ ] |
 | RS | O charque era feito por escravizados | — | [ ] |
-| RO | A ferrovia que não valeu a pena | Observatório Fiocruz (fora da lista) | [ ] |
+| RS | Vindos da África | — | [ ] |
+| RS | O estado mais branco | — | [ ] |
+| RO | A ferrovia que não valeu a pena | dado em disputa; fonte fora da lista; ver "Atenção" | [ ] |
+| RO | Um estado de migrantes | `ano` TODO | [ ] |
+| RO | Um cientista para calar as críticas | — | [ ] |
 | RR | O estado mais indígena do país | — | [ ] |
-| SC | Os “pelados” contra a ferrovia | Sem total de mortos (disputa) | [ ] |
-| SP | 111 mortos no Carandiru | — | [ ] |
-| SE | Cabeças em exposição | Data do sepultamento em disputa (1969 × 1971) | [ ] |
-| TO | Guias à força | Sem total de mortos (disputa) | [ ] |
+| RR | O estado que mais cresceu | — | [ ] |
+| RR | Quando o garimpo chegou | ver "Atenção" | [ ] |
+| SC | Os “pelados” contra a ferrovia | — | [ ] |
+| SC | Santa Catarina menos branca | — | [ ] |
+| SC | Da guerra às serrarias | ver "Atenção" | [ ] |
+| SP | 111 mortos no Carandiru | ver "Atenção" | [ ] |
+| SP | Os colonos negros que a história esqueceu | — | [ ] |
+| SP | Metade do salário, o dobro da luta | — | [ ] |
+| SE | Cabeças em exposição | dado em disputa | [ ] |
+| SE | Cabeça em troca de promoção | ver "Atenção" | [ ] |
+| SE | Três em cada quatro nasceram aqui | — | [ ] |
+| TO | Guias à força | — | [ ] |
+| TO | O terceiro estado mais preto do país | — | [ ] |
 
 
 ## BR — A fome tem endereço e cor
