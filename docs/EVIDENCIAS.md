@@ -601,3 +601,12 @@ Fonte: a mesma apresentação do dossiê usada na primeira entrada de SC (*Revis
 - "O conflito atingiu um grande território do planalto e meio-oeste catarinense, além do sul do Paraná."
 
 No PDF, parte da frase sai com caracteres corrompidos ("HGH]HQDVGHIHULGRV..."); a parte legível foi a usada. A primeira frase da pergunta é um convite à discussão.
+
+## PE — Guerra aos mocambos
+
+Fonte: FISCHER, Brodwyn. "A ética do silêncio racial no contexto urbano: políticas públicas e desigualdade social no Recife, 1900-1940". *Anais do Museu Paulista*, 28, 2020. https://doi.org/10.1590/1982-02672020v28d1e15 — URL usada: https://www.scielo.br/j/anaismp/a/LxQRQyCSGgMdzhsk9wwMwSt/?lang=pt
+
+- "[...] mucambo era uma palavra da língua quimbundo que se referia a comunidades quilombolas, antes de passar a significar barraco rústico ou de favela."
+- "A principal prioridade urbana de Magalhães [...] foi uma campanha massiva para erradicar os mocambos do Recife. [...] a Liga Social Contra o Mocambo de Magalhães era um empreendimento inovador: uma campanha governamental maciça e integrada que combinava remoções violentas com recenseamentos, educação pública e habitação subsidiada."
+- "A liga lançou sua ofensiva em julho de 1939 com uma blitz multimídia. Magalhães era, convenientemente, dono de um jornal - a Folha da Manhã - e encheu suas páginas de propaganda pró-liga. Os censores da Era Vargas silenciaram a oposição em outros veículos [...]"
+- O artigo chama Magalhães de governador: "[...] o governador também buscou a inclusão de um amplo espectro de setores sociais organizados [...]"
