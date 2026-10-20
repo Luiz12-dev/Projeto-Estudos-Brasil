@@ -554,3 +554,14 @@ Fonte: o mesmo artigo de Suzane de Alencar Vieira usado na primeira entrada de G
 - "No Estádio Olímpico, milhares de pessoas atormentadas pelas suspeitas de contaminação alongavam as filas para exames dosimétricos. Outras pessoas se encaminhavam ao Estádio a fim de solicitar atestados de descontaminação para fazer viagens para fora do Estado de Goiás. Em outros Estados, os goianienses eram barrados em hotéis, restaurantes e aeroportos, e veículos com placa de Goiânia eram depredados. Naqueles dias, tudo o que fosse originário do Estado de Goiás era tido como contaminado."
 
 O estádio é "o Estádio Olímpico", em Goiânia, onde as vítimas foram abrigadas ("[...] abrigados em barracas plásticas no Estádio Olímpico").
+
+## GO — Uma cidade com o símbolo da radiação
+
+Fonte: o mesmo artigo de Suzane de Alencar Vieira (*Estudos Avançados*, 2013). URL: https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt
+
+- "A 20 quilômetros do perímetro urbano de Goiânia [...] O lixo radioativo era removido da Rua 57 para as imediações do bairro Vila Pedroso, em Abadia de Goiás [...]"
+- "No lugar designado para o depósito, os primeiros caminhões carregados com os tambores radioativos foram recebidos pelos moradores dos arredores com uma vigorosa artilharia de pedras e paus. [...] Policiais militares e agentes da Defesa Civil foram acionados para controlar a revolta popular [...]"
+- "Um 'cemitério atômico' seria, então, armado sorrateiramente. A cada anoitecer recomeçava o trabalho de construção do depósito. A noite era mais propícia para transportar os contêineres de lixo e contornar a resistência e a insatisfação popular."
+- "Oito anos mais tarde, no ano 1995, seria criado um novo município para abrigar o lixo radioativo que carregaria em sua bandeira o trevo quinado amarelo, símbolo da radioatividade. O depósito de rejeitos instalar-se-ia definitivamente nas adjacências do pequeno povoado emancipado como município de Abadia de Goiás."
+
+Atenção: o artigo diz que o município foi criado "para abrigar o lixo radioativo". O texto não repete essa motivação. Confira se quer incluí-la.
