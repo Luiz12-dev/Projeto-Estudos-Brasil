@@ -1,337 +1,364 @@
 [
   {
     "uf": "BR",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "A fome tem endereço e cor",
+    "texto": "No fim de 2023, cerca de 3,2 milhões de domicílios brasileiros (4,1%) passaram fome em algum momento de um período de três meses, segundo a PNAD Contínua do IBGE. Na Região Norte, a proporção de lares em insegurança alimentar grave (7,7%) foi cerca de quatro vezes a da Região Sul (2,0%). Entre esses lares, 58,1% tinham como responsável uma pessoa parda — mais que o dobro dos chefiados por pessoas brancas (23,4%).",
+    "periodo": "2023",
+    "pergunta": "Por que a fome no Brasil se concentra em certas regiões e em certos grupos de cor ou raça? Que processos históricos ajudam a explicar isso?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "IBGE — PNAD Contínua: Segurança Alimentar 2023",
+      "ano": "2024",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102084.pdf"
     },
     "verificado": false
   },
   {
     "uf": "AC",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Nem revolução, nem acreana?",
+    "texto": "O conflito de 1902 que levou à anexação do Acre ao Brasil começou em 6 de agosto, data da independência da Bolívia, e foi liderado pelo gaúcho Plácido de Castro, com patrocínio do governo do Amazonas. A maioria dos combatentes brasileiros eram seringueiros nordestinos. Pesquisadores lembram que o Acre era território boliviano e que muitos seringueiros lutaram por ordem de seus patrões, os seringalistas. Um livro sobre o tema se chama “Não foi revolução nem acreana”.",
+    "periodo": "1902",
+    "pergunta": "Os monumentos de Rio Branco homenageiam os líderes da “Revolução Acreana”. Por que a história dos seringueiros que lutaram nela é menos lembrada?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Costa e Macharel — Revista Das Amazônias (UFAC)",
+      "ano": "2024",
+      "url": "https://periodicos.ufac.br/index.php/amazonicas/article/download/7500/4874/30059"
     },
     "verificado": false
   },
   {
     "uf": "AL",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Destruir Palmares dava prêmio",
+    "texto": "Os mocambos de Palmares duraram mais de um século; as primeiras tentativas de destruí-los, pelo governo da Capitania de Pernambuco, datam de 1602. Na segunda metade do século XVII, várias expedições levaram centenas de soldados contra eles. Quem lutava pedia ao rei “mercês”: títulos, cargos e terras. Bandeirantes paulistas chamados para a guerra ganharam extensos lotes na região palmarina, o que lhes garantiu bases para se enraizar em Pernambuco.",
+    "periodo": "1602–século XVIII",
+    "pergunta": "Se combater quilombos rendia terras e títulos, quem ganhou com o fim de Palmares? Como isso ajuda a explicar a concentração de terras no Nordeste?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Dimas Bezerra Marques — Dissertação de Mestrado em História, UFAL",
+      "ano": "2014",
+      "url": "https://www.repositorio.ufal.br/bitstream/riufal/1383/1/Pelo%20bem%20de%20meus%20servi%C3%A7os,%20rogo-lhe%20est%C3%A1%20merc%C3%AA:%20A%20influ%C3%AAncia%20da%20guerra%20de%20Palmares%20na%20distribui%C3%A7%C3%A3o%20de%20merc%C3%AAs%20(Capitania%20de%20Pernambuco,%201660-1778).pdf"
     },
     "verificado": false
   },
   {
     "uf": "AP",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Desterrados no Oiapoque",
+    "texto": "No início dos anos 1920, o governo criou na região de fronteira do Amapá o Núcleo Colonial Cleveland, ocupado sobretudo por cearenses atingidos pela seca de 1915–1919. A colônia agrícola fracassou e virou colônia penal: a partir de 1924, Clevelândia do Norte recebeu dissidentes, anarquistas, comunistas e outros “indesejáveis”. Segundo um relatório da época citado por historiadores, em 1926, dos 946 presos enviados para lá, 444 tinham morrido.",
+    "periodo": "1924–1927",
+    "pergunta": "Por que um governo enviaria opositores políticos para um lugar tão distante e insalubre? O que esse episódio revela sobre o uso do território como castigo?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Adalberto Paz — em “Trabalhadores, migrações e natureza no Brasil equatorial” (UNIFAP)",
+      "ano": "2018",
+      "url": "https://www2.unifap.br/editora/files/2018/05/Livro-Trabalhadores-Migra%C3%A7%C3%B5es-e-Natureza-no-Brasil-Equatorial.pdf"
     },
     "verificado": false
   },
   {
     "uf": "AM",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Os soldados esquecidos da borracha",
+    "texto": "Na Segunda Guerra, os Aliados precisavam de borracha, e o governo Vargas criou em 1942 o SEMTA para recrutar trabalhadores para a “Batalha da Borracha” na Amazônia. A sede ficou em Fortaleza, onde a seca facilitava encontrar “flagelados candidatos a seringueiros”. A propaganda mostrava a Amazônia como terra de fartura e esperança, e os retirantes eram alistados como “soldados”. Para o historiador Frederico de Castro Neves, o fim da guerra mostrou o contrário: o soldado foi esquecido.",
+    "periodo": "1942",
+    "pergunta": "Por que o governo usou palavras de guerra — “batalha”, “soldados” — para recrutar retirantes da seca? O que isso escondia sobre as condições de trabalho nos seringais?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Frederico de Castro Neves — Revista Brasileira de História",
+      "ano": "2001",
+      "url": "https://www.scielo.br/j/rbh/a/5GNSQTXnMM7kTM3rr8B4TrM/?format=html&lang=pt"
     },
     "verificado": false
   },
   {
     "uf": "BA",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Quilombo não é só passado",
+    "texto": "A Bahia tem a maior população quilombola do Brasil: 397.059 pessoas, quase 30% do total do país, segundo o Censo 2022. Os dois municípios com mais quilombolas são baianos: Senhor do Bonfim (15.999) e a capital, Salvador (15.897). No Brasil inteiro, apenas 12,6% dos quilombolas vivem em territórios oficialmente reconhecidos; os demais estão fora de áreas formalmente delimitadas.",
+    "periodo": "2022",
+    "pergunta": "Quilombo costuma aparecer nos livros como algo do passado colonial. O que muda quando sabemos que há quase 16 mil quilombolas vivendo hoje em Salvador?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "IBGE Educa — Quilombolas (Censo 2022)",
+      "ano": "TODO: verificar",
+      "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html"
     },
     "verificado": false
   },
   {
     "uf": "CE",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Campos de concentração no sertão",
+    "texto": "Na seca de 1932, o governo implantou no Ceará campos de concentração para retirantes: famintos eram induzidos a entrar e proibidos de sair. Cinco campos ficavam perto das principais vias de acesso a Fortaleza, para impedir a chegada dos flagelados à capital. Lá dentro, recebiam rações e eram submetidos a regras de moradia, trabalho e comportamento. O maior campo, no Crato, chegou a abrigar quase 60 mil pessoas.",
+    "periodo": "1932",
+    "pergunta": "Os campos eram apresentados como assistência aos famintos. O que os torna, ao mesmo tempo, uma forma de controle? Por que esse episódio é tão pouco conhecido?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Frederico de Castro Neves — Revista Brasileira de História",
+      "ano": "2001",
+      "url": "https://www.scielo.br/j/rbh/a/5GNSQTXnMM7kTM3rr8B4TrM/?format=html&lang=pt"
     },
     "verificado": false
   },
   {
     "uf": "DF",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Quantos morreram na construção de Brasília?",
+    "texto": "No domingo de Carnaval, 8 de fevereiro de 1959, operários do acampamento da construtora Pacheco Fernandes Dantas, em Brasília, reclamaram da comida e da falta de água. A polícia foi chamada e, à noite, um caminhão de soldados da Guarda Especial de Brasília (GEB) chegou ao acampamento. Quantos morreram? Grandes jornais da época, com base na NOVACAP, registraram uma morte; outros falaram em 9; operários ouvidos por um jornalista nunca falaram em menos de 50.",
+    "periodo": "1959",
+    "pergunta": "Quando a versão oficial e a memória dos trabalhadores divergem tanto, como um historiador deve tratar os números? Por que esse episódio ficou fora da história oficial da capital?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Nair Heloisa Bicalho de Sousa (UnB) — artigo",
+      "ano": "TODO: verificar",
+      "url": "https://unb.revistaintercambio.net.br/24h/pessoa/temp/anexo/1/1251/2053.pdf"
     },
     "verificado": false
   },
   {
     "uf": "ES",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "A revolta no dia da festa",
+    "texto": "Em 19 de março de 1849, dia de São José, um grupo de escravizados armados entrou na igreja recém-construída do Queimado, hoje no município da Serra (ES). Eles tinham erguido o templo em suas folgas e dias santos e entendiam que esse trabalho lhes daria direito à alforria. Segundo um jornal da época, o grupo chegou a 300 pessoas. A repressão foi violenta: no julgamento, cinco foram condenados à morte e 25 a açoites.",
+    "periodo": "1849",
+    "pergunta": "Por que a revolta aconteceu justamente no dia da inauguração da igreja? O que ela revela sobre as promessas de liberdade feitas aos escravizados?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Aline B. V. N. Florentino — TCC em História, UFES",
+      "ano": "2024",
+      "url": "https://repositorio.ufes.br/server/api/core/bitstreams/be30139d-f403-4ba1-b74c-4f1313905e5a/content"
     },
     "verificado": false
   },
   {
     "uf": "GO",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "O brilho azul do césio-137",
+    "texto": "Em setembro de 1987, dois rapazes desempregados retiraram um aparelho de radioterapia abandonado nas ruínas de um instituto em Goiânia e venderam a peça a um ferro-velho. O pó de césio-137, que emitia uma luz azul à noite, passou de mão em mão entre vizinhos e parentes. A menina Leide das Neves, de seis anos, morreu depois de comer com as mãos sujas do pó. O lixo radioativo foi enterrado em Abadia de Goiás, onde deve permanecer ativo por pelo menos 300 anos.",
+    "periodo": "1987",
+    "pergunta": "A cápsula ficou anos abandonada sem fiscalização. Em um desastre assim, de quem é a responsabilidade: de quem encontrou o material ou de quem deveria vigiá-lo?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Suzane de Alencar Vieira — Estudos Avançados",
+      "ano": "2013",
+      "url": "https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt"
     },
     "verificado": false
   },
   {
     "uf": "MA",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Uma cidade quilombola",
+    "texto": "Em Alcântara, no Maranhão, 15.616 dos 18.466 habitantes — 84,57% — são quilombolas, segundo o Censo 2022. O Maranhão tem a segunda maior população quilombola do país, com 269.074 pessoas. Somados, Maranhão e Bahia reúnem 50,16% de todos os quilombolas do Brasil.",
+    "periodo": "2022",
+    "pergunta": "O que a forte presença quilombola no Maranhão revela sobre a história da escravidão e da resistência nessa região?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "IBGE Educa — Quilombolas (Censo 2022)",
+      "ano": "TODO: verificar",
+      "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html"
     },
     "verificado": false
   },
   {
     "uf": "MT",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Uma doença antiga na fronteira nova",
+    "texto": "Segundo um estudo publicado pelo Ministério da Saúde no relatório Saúde Brasil 2008, as áreas de maior risco de hanseníase na Amazônia coincidiam com projetos de assentamento e polos de desenvolvimento agropecuário. No Censo de 1980, 35,5% dos moradores de Mato Grosso não tinham nascido no estado. Entre 1950 e 2000, a densidade passou de 0,42 para 2,47 habitantes por km². Mato Grosso estava entre os estados com alta detecção em menores de 15 anos, sinal de transmissão recente.",
+    "periodo": "1980–2009",
+    "pergunta": "Por que uma doença pode acompanhar as frentes de ocupação e migração? Quem paga o custo de saúde da expansão da fronteira agrícola?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Penna, Gross, Rocha e Penna — Saúde Brasil 2008 (Ministério da Saúde)",
+      "ano": "TODO: verificar",
+      "url": "https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content"
     },
     "verificado": false
   },
   {
     "uf": "MS",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Confinados em 60 hectares",
+    "texto": "A Reserva de Dourados (MS) foi criada em 1917, com 3.539 hectares, para abrigar indígenas Guarani — sem seguir critérios da ocupação tradicional. A partir dos anos 1940, a Colônia Agrícola Nacional de Dourados, do governo federal, trouxe colonos para terras antes pertencentes aos Kaiowá. Cerca de 280 Kaiowá do Panambi ficaram confinados em 60 hectares até o fim de 2004, quando foram homologados 1.260 hectares como Terra Indígena.",
+    "periodo": "1917–2004",
+    "pergunta": "O que significa um povo esperar mais de 60 anos para ter parte de suas terras reconhecida? Quem ganhou com a colonização da região?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Renata Lourenço — Revista Fronteiras (UFGD)",
+      "ano": "2010",
+      "url": "https://ojs.ufgd.edu.br/FRONTEIRAS/article/download/598/715/3060"
     },
     "verificado": false
   },
   {
     "uf": "MG",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "O “trem de doido” de Barbacena",
+    "texto": "No Hospital Colônia de Barbacena (MG) morreram cerca de 60 mil pacientes, segundo o livro “Holocausto Brasileiro” (2013), da jornalista Daniela Arbex. Muitos chegavam em vagões de carga — o “trem de doido”. Havia frio sem roupas nem camas, comida racionada e eletrochoques, e corpos de mortos eram vendidos a faculdades de medicina. Na ditadura, os hospitais psiquiátricos recebiam diária por paciente, e os leitos saltaram de 14 mil para cerca de 70 mil em 1970.",
+    "pergunta": "Quem era internado como “louco” e quem lucrava com isso? Que relação existe entre esse sistema e a reforma psiquiátrica atual?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Matos-de-Souza e Medrado — Saúde em Debate",
+      "ano": "2021",
+      "url": "https://www.scielo.br/j/sdeb/a/v9vGDrqDPfQt3KJkS5Kjndc/?lang=pt"
     },
     "verificado": false
   },
   {
     "uf": "PA",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "A revolução que dizimou a Amazônia",
+    "texto": "A revolução cabana, que explodiu em Belém do Pará em 1835, deixou mais de 30 mil mortos, segundo a historiadora Magda Ricci, e a população local só voltou a crescer de forma significativa em 1860. Morreram mestiços, indígenas e africanos pobres ou escravizados, mas também boa parte da elite da Amazônia. Indígenas, negros de origem africana e mestiços, que se chamavam “patriotas”, perceberam lutas e problemas em comum. Mesmo assim, a Cabanagem costuma ser estudada como mais um movimento regional.",
+    "periodo": "1835–1840",
+    "pergunta": "Por que uma revolta com dezenas de milhares de mortos é tratada como “regional”, enquanto episódios do Sudeste viram história “nacional”?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Magda Ricci — Revista Tempo",
+      "ano": "2007",
+      "url": "https://www.scielo.br/j/tem/a/ZX5z5skg9g7YyC47qtn533N/?lang=pt"
     },
     "verificado": false
   },
   {
     "uf": "PB",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "O fim do cambão",
+    "texto": "Nos anos 1960, a Liga Camponesa de Sapé (PB) lutava pelo fim do “cambão”: dias de trabalho gratuito que camponeses eram obrigados a dar ao dono da terra. Seu líder, João Pedro Teixeira, foi assassinado em 2 de abril de 1962, numa emboscada na estrada entre Café do Vento e Sapé, quando voltava de João Pessoa. Um dos executores acusou Agnaldo Veloso Borges de ser o mandante. A pesquisa aponta um sentimento de impunidade em torno do crime.",
+    "periodo": "1962",
+    "pergunta": "O “cambão” lembra que formas de trabalho não pago continuaram depois da abolição. Que outras formas de trabalho forçado você conhece no Brasil de hoje?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Juliana Ferreira Alves — Dissertação de Mestrado em História, UFPB",
+      "ano": "2019",
+      "url": "https://repositorio.ufpb.br/jspui/bitstream/123456789/19966/1/JulianaFerreiraAlves_Dissert.pdf"
     },
     "verificado": false
   },
   {
     "uf": "PR",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "O açoite que a lei manteve",
+    "texto": "Na Praça Borges de Macedo, em Curitiba, um monumento lembra o pelourinho da cidade. Ele servia para punir pessoas livres e escravizadas, mas ficou na memória como símbolo da escravidão. Uma pista do porquê: a Constituição de 1824 aboliu os açoites, a tortura e “todas as mais penas cruéis”, mas o Código Criminal de 1830 manteve o açoite para escravizados — até 50 por dia —, e depois o senhor era obrigado a mantê-los com ferro.",
+    "periodo": "1824–1830",
+    "pergunta": "Como uma Constituição podia proibir o açoite e, seis anos depois, uma lei mantê-lo para escravizados? Quem era considerado “cidadão”?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Projeto de Extensão Afro Curitiba (UFPR)",
+      "ano": "TODO: verificar",
+      "url": "https://afrocuritiba.ufpr.br/praca-borges-de-macedo/"
     },
     "verificado": false
   },
   {
     "uf": "PE",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "“Liga” era apelido",
+    "texto": "A organização criada em 1955 no Engenho Galileia, em Vitória de Santo Antão (PE), chamava-se Sociedade Agrícola e Pecuária dos Plantadores de Pernambuco. O termo “Liga” foi adotado pela imprensa conservadora para associá-la às Ligas Comunistas dos anos 1940 — e o movimento acabou incorporando o apelido. Uma das bandeiras era o fim do cambão, o trabalho não remunerado nos engenhos, que piorou quando os proprietários passaram a cobrar mais dias. O modelo logo se espalhou por outros estados.",
+    "periodo": "1955–1964",
+    "pergunta": "Um nome criado para desqualificar acabou adotado com orgulho pelo movimento. Que outros exemplos você conhece de grupos que transformaram um rótulo pejorativo em identidade?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Marcus Dezemone — Revista Brasileira de História",
+      "ano": "2016",
+      "url": "https://www.scielo.br/j/rbh/a/R85xbJj5tVgt6YSDphF5gZS/?lang=pt"
     },
     "verificado": false
   },
   {
     "uf": "PI",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Quando o dono era o Estado",
+    "texto": "No Piauí, o próprio Estado foi dono de escravizados. Fazendas deixadas aos jesuítas viraram, em 1760, as “Fazendas do Fisco” — eram 39 — e, depois da Independência, “Fazendas da Nação”, mantendo o trabalho escravo. Em 1844, parte delas foi dada como dote à irmã do imperador Pedro II. Escravizados dessas fazendas foram enviados para construir Teresina, a nova capital; muitos eram devolvidos, e pesquisadores veem nisso uma possível forma de resistência.",
+    "periodo": "1760–1871",
+    "pergunta": "O que muda na nossa ideia de escravidão quando o “senhor” é o próprio governo? Que tipo de resistência era possível nessas condições?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Genimar M. R. de Carvalho e Solimar Oliveira Lima — Informe Econômico (UFPI)",
+      "ano": "2012",
+      "url": "https://periodicos.ufpi.br/index.php/ie/article/download/1908/1735/5464"
     },
     "verificado": false
   },
   {
     "uf": "RJ",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "O cais que ficou enterrado",
+    "texto": "Em 1843, o Cais do Valongo, no Rio de Janeiro, foi alargado e embelezado para receber a futura imperatriz Teresa Cristina e virou Cais da Imperatriz — depois soterrado pela Reforma Pereira Passos. O sítio onde desembarcaram africanos escravizados só foi redescoberto em 2011, nas obras do Porto Maravilha. Entre os objetos achados havia peças de uso religioso, e os arqueólogos chamaram yalorixás para ajudar a interpretá-las.",
+    "periodo": "1843–2011",
+    "pergunta": "Por que um lugar tão importante para a história da escravidão ficou literalmente enterrado por tanto tempo? O que uma cidade escolhe lembrar e esquecer?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Sandra de Sá Carneiro e Márcia Leitão Pinheiro — Religião & Sociedade",
+      "ano": "2015",
+      "url": "https://www.scielo.br/j/rs/a/bCPNfFkbtrHvWDMwWmj66XG/?lang=pt"
     },
     "verificado": false
   },
   {
     "uf": "RN",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Os libertos que libertavam",
+    "texto": "Em 30 de setembro de 1883, Mossoró (RN) declarou oficialmente libertos todos os seus escravizados. A história costuma destacar a elite da Sociedade Libertadora Mossoroense, mas ela não agiu sozinha. O pouco conhecido Clube dos Spartacus, formado principalmente por ex-escravizados e presidido por Rafael Mossoroense da Glória, ajudava em fugas, enfrentava capitães do mato e levava libertos e fugitivos em comboios até o Ceará.",
+    "periodo": "1883",
+    "pergunta": "Quanto tempo antes da Lei Áurea Mossoró aboliu a escravidão? Por que os nomes dos ex-escravizados que lutaram pela abolição são menos lembrados que os da elite?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Costa e Falcão (orgs.) — E-book “30 de Setembro: por uma história da libertação” (UERN)",
+      "ano": "2024",
+      "url": "https://portal.uern.br/wp-content/uploads/sites/14/2024/09/E-book-30-de-Setembro-por-uma-historia-da-libertacao.pdf"
     },
     "verificado": false
   },
   {
     "uf": "RS",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "O charque era feito por escravizados",
+    "texto": "A economia do charque em Pelotas (RS) dependia do trabalho escravizado. Em 1832, a Câmara de Pelotas afirmava que o distrito tinha “mais de quatro mil escravos” reunidos nas charqueadas e temia que emissários do “Estado vizinho” os levassem à revolta. Entre 1809 e 1825, segundo registros analisados por historiadores, 95% dos 6.984 cativos que entraram no Rio Grande do Sul eram africanos.",
+    "periodo": "1809–1832",
+    "pergunta": "O Rio Grande do Sul costuma ser associado à imigração europeia. Por que a presença africana e escravizada aparece tão pouco nessa imagem?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Marcelo Garcia da Rocha — Dissertação de Mestrado, UFPel",
+      "ano": "2014",
+      "url": "https://wp.ufpel.edu.br/ppgmp/files/2016/11/Marcelo-Garcia.pdf"
     },
     "verificado": false
   },
   {
     "uf": "RO",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "A ferrovia que não valeu a pena",
+    "texto": "A Estrada de Ferro Madeira-Mamoré foi construída de 1907 a 1912 para ligar Porto Velho a Guajará-Mirim. Morreram tantos trabalhadores de malária, beribéri e outras doenças que a obra não justificou o investimento: a borracha brasileira já perdia mercado para os seringais da Ásia. Na época, dizia-se que cada dormente assentado custara a vida de um operário. Entre os trabalhadores havia norte-americanos, bolivianos e cearenses expulsos pela seca. A ferrovia foi desativada em 1972.",
+    "periodo": "1907–1912",
+    "pergunta": "A frase “uma vida por dormente” é um dado ou uma lenda? Por que é tão difícil saber quantas pessoas morreram em grandes obras como essa?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Observatório História e Saúde — Casa de Oswaldo Cruz/Fiocruz",
+      "ano": "2023",
+      "url": "https://ohs.coc.fiocruz.br/posts_ohs/o-avanco-sobre-a-amazonia-exploracao-economica-e-doencas/"
     },
     "verificado": false
   },
   {
     "uf": "RR",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "O estado mais indígena do país",
+    "texto": "Em Roraima, 15,4% da população é indígena — a maior proporção entre todas as Unidades da Federação, segundo o Censo 2022 do IBGE. Em seguida vêm Amazonas (12,5%) e Mato Grosso do Sul (4,2%). No outro extremo, Rio de Janeiro e São Paulo têm apenas 0,1% de população indígena. No Brasil, são 1.694.836 indígenas, 0,8% da população.",
+    "periodo": "2022",
+    "pergunta": "Muita gente imagina os povos indígenas como parte do passado do Brasil. O que esses números dizem sobre o presente?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
     "verificado": false
   },
   {
     "uf": "SC",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Os “pelados” contra a ferrovia",
+    "texto": "Entre 1912 e o início de 1916, o planalto e o meio-oeste catarinense e o sul do Paraná viveram a Guerra do Contestado. De um lado, os governos estaduais e federal, grandes fazendeiros e as empresas Southern Brazil Railway e Lumber and Colonization Company. Do outro, peões, agregados, tropeiros, ervateiros e pequenos sitiantes, que se chamavam “pelados”. A luta pela terra estava entre as causas, mas os sertanejos ficaram conhecidos como “fanáticos”.",
+    "periodo": "1912–1916",
+    "pergunta": "Por que um conflito com causas ligadas à terra e a empresas estrangeiras ficou registrado como uma guerra de “fanáticos”? Quem escolhe os nomes que entram para a história?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Karsburg, Machado e Valentini — Revista Esboços (UFSC)",
+      "ano": "2012",
+      "url": "https://periodicos.ufsc.br/index.php/esbocos/article/download/2175-7976.2012v19n28p1/25643/104106"
     },
     "verificado": false
   },
   {
     "uf": "SP",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "111 mortos no Carandiru",
+    "texto": "Na tarde de 2 de outubro de 1992, a tropa de choque da Polícia Militar entrou na Casa de Detenção de São Paulo, o Carandiru, para conter uma rebelião. Morreram 111 presos; 93 deles receberam três ou mais tiros. Em 1993, a promotoria militar denunciou 120 policiais. Vinte anos depois, segundo pesquisadoras da FGV, ninguém havia sido responsabilizado, e só 26 familiares das vítimas tinham concluído processos de indenização.",
+    "periodo": "1992",
+    "pergunta": "O que significa um Estado demorar décadas para responsabilizar alguém pela morte de pessoas que estavam sob a sua guarda?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Ferreira, Machado e Machado — Novos Estudos CEBRAP",
+      "ano": "2012",
+      "url": "https://www.scielo.br/j/nec/a/ZbWF3kvfSYJMQCMSN9ZfmFt/?lang=pt"
     },
     "verificado": false
   },
   {
     "uf": "SE",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Cabeças em exposição",
+    "texto": "Ao amanhecer de 28 de julho de 1938, na grota de Angico, em Poço Redondo (SE), uma tropa volante alagoana cercou o bando de Lampião. Segundo o relato oficial, onze cangaceiros foram mortos e decapitados, entre eles Lampião e Maria Bonita. As cabeças foram expostas nas escadas da prefeitura de Piranhas (AL) e exibidas pelo caminho até Maceió. As de Lampião e Maria Bonita ficaram expostas em um museu de Salvador e só foram sepultadas em 1969, depois que a família ganhou o direito na Justiça.",
+    "periodo": "1938–1969",
+    "pergunta": "Por que o Estado exibiu as cabeças em público? O que essa exposição pretendia ensinar à população do sertão?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "José Ferreira Júnior — Ponta de Lança (UFS)",
+      "ano": "2023",
+      "url": "https://periodicos.ufs.br/pontadelanca/article/download/19549/14977"
     },
     "verificado": false
   },
   {
     "uf": "TO",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Guias à força",
+    "texto": "Na Guerrilha do Araguaia (combates de 1972 a 1975), a repressão se concentrou em Marabá (PA), em Xambioá — então em Goiás, hoje no Tocantins — e em Imperatriz (MA). Moradores com qualquer relação com os guerrilheiros eram tratados como simpatizantes. Mateiros da região foram contratados como guias com a promessa de receber terras do INCRA; vários foram obrigados a trabalhar para o Exército, inclusive após sessões de tortura. Escavações em Xambioá e no sul do Pará ajudam a investigar como as vítimas morreram.",
+    "periodo": "1972–1975",
+    "pergunta": "Como fica a vida de uma comunidade obrigada a colaborar com quem a reprime? Por que é importante, décadas depois, procurar os restos das vítimas?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Durbens Martins Nascimento — Dissertação de Mestrado, NAEA/UFPA",
+      "ano": "2000",
+      "url": "https://repositorio.ufpa.br/jspui/bitstream/2011/2458/1/Dissertacao_GuerrilhaAraguaiaPaulistas.pdf"
     },
     "verificado": false
   }

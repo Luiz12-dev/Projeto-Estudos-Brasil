@@ -23,12 +23,15 @@ Documento de referência: [`CLAUDE.md`](../CLAUDE.md).
 | 4. Visitados | `storage.ts` como único acesso ao localStorage; marcação com ícone e texto, não só cor | concluída |
 | 5. Visual | CSS puro, mobile-first, 360 px, contraste AA | concluída — testado em 360 px |
 | 6. Deploy | GitHub Actions → GitHub Pages | concluída — https://luiz12-dev.github.io/Projeto-Estudos-Brasil/ |
-| 7. Curadoria | Preencher as 28 entradas com fonte e `verificado: true` | **humana — Luiz** |
+| 7. Curadoria | 28 entradas pesquisadas pelo agente (regra 7.1); conferência e `verificado: true` | pesquisa concluída; **conferência humana — Luiz** |
 
 ## Pendências
 
 - [x] **SVG do mapa:** malha de UFs da API do IBGE, origem registrada no topo de `public/brasil.svg`.
-- [ ] **Curadoria:** 28 entradas em `public/data/curiosidades.json`.
+- [ ] **Conferência das 28 entradas:** abrir cada fonte, conferir o trecho em `docs/EVIDENCIAS.md` e marcar `verificado: true`.
+- [ ] **Campos `ano` como TODO:** BA, MA (IBGE Educa), DF, MT e PR — as páginas não mostram a data de publicação.
+- [ ] **Fontes fora da lista do CLAUDE.md ou sem revisão por pares:** ES (TCC), RN (e-book PIBID), RO (Observatório Fiocruz), MT (Ministério da Saúde/Fiocruz), PR (projeto de extensão UFPR). Decidir se são aceitáveis.
+- [ ] **Tamanho dos textos:** têm de 260 a 510 caracteres, mais que as "4 a 6 linhas" do schema em tela de celular. Decidir se é preciso encurtar.
 - [x] **GitHub Pages:** ativado com *Source: GitHub Actions*.
 
 ## Checklist "Pronto quando" (seção 9)
