@@ -441,3 +441,13 @@ Fonte: LUNA, Lenilda. "Quebra do Xangô: pesquisadores avaliam a intolerância r
 - "Foi na noite de 1º de fevereiro de 1912 que o terror se espalhou pelos terreiros de cultos afro-brasileiros em Alagoas. O quebra-quebra foi liderado pela Liga dos Repúblicanos Combatentes, agremiação política que fazia oposição ao governador da época, Euclides Malta. As invasões, espancamentos e prisões aos praticantes de candomblé, umbanda e outros cultos durou até a madrugada de 2 de fevereiro [...]"
 - "O Quebra provocou o fechamento de vários terreiros e a dispersão de ialorixás e babalorixás para outros Estados."
 - Fala da historiadora Clara Suassuna: "Esse evento durante muitos anos ficou restrito aos jornais como sendo uma ação para limpar as almas da população das práticas religiosas demoníacas e perigosas para a sociedade".
+
+## BA — O estado mais preto do Brasil
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- "Analisando o peso relativo da população preta nas Unidades da Federação, o destaque vai para a Bahia, com 22,4%, seguida do Rio de Janeiro, com 16,2% [...]"
+- "As três Unidades da Federação com menor peso relativo de população branca na população residente eram: Amazonas com 18,4%, Pará com 19,3% e Bahia com 19,6%."
+- Tabela 3 (Variação 2010-2022): "Bahia 0,9% -10,9% 32,0% -89,9% -2,3% 281,6%" (a última coluna é Indígena). Pela tabela, só o Rio Grande do Norte (351,4%) teve variação indígena maior.
+
+A pergunta liga o dado ao tráfico de escravizados como convite à discussão: a fonte (IBGE) não faz essa ligação.

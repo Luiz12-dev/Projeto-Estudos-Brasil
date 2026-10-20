@@ -156,6 +156,19 @@
     "verificado": false
   },
   {
+    "uf": "BA",
+    "titulo": "O estado mais preto do Brasil",
+    "texto": "Segundo o Censo 2022, a Bahia tem a maior proporção de pessoas pretas do país: 22,4% dos moradores, seguida do Rio de Janeiro (16,2%). É também um dos três estados com menor proporção de pessoas brancas (19,6%). Entre 2010 e 2022, a população indígena da Bahia cresceu 281,6%, uma das maiores variações do país.",
+    "periodo": "2022",
+    "pergunta": "Por que a Bahia concentra tanta população negra? Que relação isso tem com a história do tráfico de africanos escravizados?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "CE",
     "titulo": "Campos de concentração no sertão",
     "texto": "Na seca de 1932, o governo implantou no Ceará campos de concentração para retirantes: famintos eram induzidos a entrar e proibidos de sair. Cinco campos ficavam perto das principais vias de acesso a Fortaleza, para impedir a chegada dos flagelados à capital. Lá dentro, recebiam rações e eram submetidos a regras de moradia, trabalho e comportamento. O maior campo, no Crato, chegou a abrigar quase 60 mil pessoas.",
