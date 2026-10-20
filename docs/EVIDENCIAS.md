@@ -13,3 +13,11 @@ Fonte: IBGE, *Pesquisa Nacional por Amostra de Domicílios Contínua — Seguran
 - Cor ou raça: "Para casos de IA grave a participação de domicílios com pessoa responsável de cor ou raça parda passa para 58,1%, mais que o dobro da parcela que representa os domicílios cujo responsável é de cor ou raça branca, 23,4%."
 
 Atenção na conferência: buscas indicam que edições posteriores do IBGE revisaram a série de 2023. O texto usa os números desta publicação.
+
+## BA — Quilombo não é só passado
+
+Fonte: IBGE Educa, página "Quilombolas". https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html — a página não mostra data de publicação (campo `ano` deixado como TODO).
+
+- "Entre as Unidade da Federação, a Bahia é a que apresenta o maior quantitativo de quilombolas: 397.059 pessoas, correspondendo a 29,90% da população quilombola."
+- "O município de Senhor do Bonfim/BA possui o maior número de pessoas quilombolas (15.999). Na sequência: Salvador/BA, com 15.897, Alcântara/MA, com 15.616, e Januária/MG, com 15.000."
+- "[...] 12,6% dos quilombolas residentes no Brasil ocupam territórios oficialmente delimitados e 87,4% estão fora de áreas formalmente delimitadas e reconhecidas."

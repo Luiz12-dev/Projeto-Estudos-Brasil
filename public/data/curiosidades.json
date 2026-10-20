@@ -62,13 +62,14 @@
   },
   {
     "uf": "BA",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Quilombo não é só passado",
+    "texto": "A Bahia tem a maior população quilombola do Brasil: 397.059 pessoas, quase 30% do total do país, segundo o Censo 2022. Os dois municípios com mais quilombolas são baianos: Senhor do Bonfim (15.999) e a capital, Salvador (15.897). No Brasil inteiro, apenas 12,6% dos quilombolas vivem em territórios oficialmente reconhecidos; os demais estão fora de áreas formalmente delimitadas.",
+    "periodo": "2022",
+    "pergunta": "Quilombo costuma aparecer nos livros como algo do passado colonial. O que muda quando sabemos que há quase 16 mil quilombolas vivendo hoje em Salvador?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "IBGE Educa — Quilombolas (Censo 2022)",
+      "ano": "TODO: verificar",
+      "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html"
     },
     "verificado": false
   },
