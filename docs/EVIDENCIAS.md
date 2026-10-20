@@ -272,7 +272,7 @@ Fonte: CARVALHO, Genimar M. R. de; LIMA, Solimar Oliveira. "Escravidão e constr
 - "Entre estes primeiros trabalhadores que deram início ao processo de construção das obras públicas de Teresina, estavam os escravizados nacionais [...]"
 - "Percebe-se na documentação pesquisada uma frequência considerável de pedidos ou ordens de devolução de trabalhadores escravizados às fazendas nacionais [...] a motivação principal das devoluções de escravizados para as fazendas nacionais, parece ter sido o não aprendizado, propositadamente, de um ofício, como forma de resistência."
 
-O período termina em 1871 por causa do recorte do título (1850-1871). Buscas indicam que os escravizados da Nação foram libertados pela Lei n.º 2.040, de 1871, mas isso não está no trecho conferido. **Confirme ou mude o fim do período.**
+O período (1760–1871) vai da criação das Fazendas do Fisco até o fim do recorte do artigo (1850-1871). O artigo não afirma que as Fazendas da Nação ou a escravidão nelas terminaram em 1871, e o texto da curiosidade também não afirma isso.
 
 ## PR — O açoite que a lei manteve
 
@@ -511,3 +511,172 @@ Fonte: o mesmo artigo de José Ferreira Júnior usado na primeira entrada de SE 
 - Período: título do artigo, "(1922 – 1938)".
 
 Atenção: Zé Rufino atuava pela polícia da Bahia. A entrada está em SE porque o artigo trata do cangaço a partir de Angico (SE).
+
+## BR — Um país que se declara diferente
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- Tabela 3 (Variação 2010-2022), colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Brasil 6,5% -3,1% 42,3% -59,2% 11,9% 89,0%".
+- "Os dados do Censo Demográfico 2022 evidenciam que a população residente no Brasil é formada por 92 083 286 pessoas pardas (45,3%), 88 252 121 brancas (43,5%), 20 656 458 pretas (10,2%), 1 694 836 indígenas (0,8%) e 850 130 amarelas (0,4%)."
+
+O caráter autodeclarado do quesito é a base do método do IBGE (a publicação trata da "declaração" de cor ou raça). A pergunta não afirma causas.
+
+## BR — Quem passa fome no Brasil
+
+Fonte: IBGE, *PNAD Contínua — Segurança alimentar 2023* (© IBGE 2024). PDF: https://biblioteca.ibge.gov.br/visualizacao/livros/liv102084.pdf
+
+- "A parcela de domicílios em IA grave em que os responsáveis eram sem instrução e com ensino fundamental incompleto ou completo foi de 67,4%, confrontando com os 2,9% relativos aos domicílios cujo responsáveis cursaram o nível superior."
+- "A formalização da ocupação tem impacto significativo na capacidade de garantir a aquisição de alimentos nos domicílios, pois 22,8% dos domicílios encontravam-se em situação de SA quando o responsável é empregado privado com carteira assinada, o maior percentual entre todas as categorias. Já os que não tinham carteira assinada eram apenas 6,1%."
+
+Atenção à leitura: os 22,8% e 6,1% são a participação de cada categoria entre os lares em segurança alimentar (SA), não a chance de um lar estar em SA. O texto foi escrito com esse sentido. A frase "o emprego com carteira assinada protege" resume o trecho "A formalização da ocupação tem impacto significativo [...]".
+
+## DF — Viradas de 24 horas
+
+Fonte: o mesmo artigo de Nair Heloisa Bicalho de Sousa usado na primeira entrada do DF. PDF: https://unb.revistaintercambio.net.br/24h/pessoa/temp/anexo/1/1251/2053.pdf
+
+- "[...] prática de 'viradas' e serão", com a nota 4: "Trabalho durante o dia e à noite que alcançava um total de jornada de 24 horas durante três dias da semana."
+- "[...] à medida em que se aproximava a data de inauguração de Brasília (21 de abril de 1960) as jornadas de trabalho se intensificavam [...]"
+- "Os sanitários era um buraco cavado no chão [...] o acampamento também tinha problema de falta de água. As camas tinham colchões de capim e predominava enorme falta de higiene: pulgas, percevejos e piolhos [...] quebras das cantinas por motivo da comida crua, estragada ou com pequenos animais mortos dentro dela. Nessas ocasiões, a polícia era chamada pela direção da empresa para 'por ordem' no acampamento. Daí se seguiram inúmeros episódios repressivos que resultavam em espancamentos e prisões de operários"
+- "O próprio presidente Juscelino Kubitschek no seu livro 50 anos em 5 [...] relata que 'a nova capital, apesar de sua tradição de operosidade, havia perdido um recorde: o de acidentes de trabalho. Somente 944 ocorrências simples, com um caso fatal, para a maior concentração obreira do mundo em 1960!'"
+- Período: "[...] centenas de trabalhadores entre 1957 e 1960 [...]"
+
+## ES — A lenha que virou conflito
+
+Fonte: FERREIRA, Simone Raquel Batista. "'Donos do lugar': a geo-grafia negra e camponesa do Sapê do Norte – ES". *Revista Geografares* (UFES), n. 8, 2010. PDF: https://periodicos.ufes.br/geografares/article/download/1298/980/1568
+
+- "O 'imprensamento' trouxe a falta de espaço para a reprodução da vida e escassas alternativas de trabalho e sobrevivência. Dentre elas, a coleta dos resíduos de eucalipto não aproveitados pelas empresas – o 'facho' – vendidos como carvão para siderurgias ou como lenha para olarias."
+- "Essa atividade era proibida pela empresa – que dispunha de polícia particular para vigiar seus plantios contra a retirada de lenha ou qualquer outro produto pelos moradores locais – e se tornou o principal fator de conflito com as comunidades negras. Esse conflito adquiriu destaque a partir do ano de 2003, quando diversas pessoas foram presas enquanto coletavam os resíduos de eucalipto numa área recém-cortada pela Aracruz Celulose. As comunidades engendraram um enfrentamento à situação, exigindo a soltura das pessoas presas [...] Na ocasião, disseminados pelo Sapê do Norte, vários focos de incêndio queimaram talhões de eucalipto da empresa."
+
+## GO — Barrados por serem de Goiânia
+
+Fonte: o mesmo artigo de Suzane de Alencar Vieira usado na primeira entrada de GO (*Estudos Avançados*, 2013). URL: https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt
+
+- "No Estádio Olímpico, milhares de pessoas atormentadas pelas suspeitas de contaminação alongavam as filas para exames dosimétricos. Outras pessoas se encaminhavam ao Estádio a fim de solicitar atestados de descontaminação para fazer viagens para fora do Estado de Goiás. Em outros Estados, os goianienses eram barrados em hotéis, restaurantes e aeroportos, e veículos com placa de Goiânia eram depredados. Naqueles dias, tudo o que fosse originário do Estado de Goiás era tido como contaminado."
+
+O estádio é "o Estádio Olímpico", em Goiânia, onde as vítimas foram abrigadas ("[...] abrigados em barracas plásticas no Estádio Olímpico").
+
+## GO — Uma cidade com o símbolo da radiação
+
+Fonte: o mesmo artigo de Suzane de Alencar Vieira (*Estudos Avançados*, 2013). URL: https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt
+
+- "A 20 quilômetros do perímetro urbano de Goiânia [...] O lixo radioativo era removido da Rua 57 para as imediações do bairro Vila Pedroso, em Abadia de Goiás [...]"
+- "No lugar designado para o depósito, os primeiros caminhões carregados com os tambores radioativos foram recebidos pelos moradores dos arredores com uma vigorosa artilharia de pedras e paus. [...] Policiais militares e agentes da Defesa Civil foram acionados para controlar a revolta popular [...]"
+- "Um 'cemitério atômico' seria, então, armado sorrateiramente. A cada anoitecer recomeçava o trabalho de construção do depósito. A noite era mais propícia para transportar os contêineres de lixo e contornar a resistência e a insatisfação popular."
+- "Oito anos mais tarde, no ano 1995, seria criado um novo município para abrigar o lixo radioativo que carregaria em sua bandeira o trevo quinado amarelo, símbolo da radioatividade. O depósito de rejeitos instalar-se-ia definitivamente nas adjacências do pequeno povoado emancipado como município de Abadia de Goiás."
+
+Atenção: o artigo diz que o município foi criado "para abrigar o lixo radioativo". O texto não repete essa motivação. Confira se quer incluí-la.
+
+## MT — Primeiro lugar que ninguém quer
+
+Fonte: TAVARES, Aline Menezes Rossi et al. "Perfil epidemiológico da hanseníase no estado de Mato Grosso: estudo descritivo". *Einstein (São Paulo)*, 19, 2021. https://doi.org/10.31744/einstein_journal/2021AO5622 — URL usada: https://www.scielo.br/j/eins/a/sFYSvJxNsH3MF3W4ydfzSnd/?lang=pt
+
+- "O Brasil destaca-se como o segundo país em número de casos absolutos. Há alguns anos, o estado do Mato Grosso (MT), Brasil apresenta nível hiperendêmico para casos de hanseníase, ocupando a primeira posição, com as maiores taxas de prevalência e incidência da doença no país."
+- Resumo: "No período em estudo notificaram-se 11.388 casos no estado, com maior prevalência no ano de 2017." Pela conclusão, o período é 2014 a 2017: "Dos indivíduos notificados com hanseníase entre 2014 a 2017 [...]"
+- "[...] sistema este que, em 2014, apresentou fragilidades, como a subnotificação, resultando na notificação de apenas três casos em todo o estado de Mato Grosso."
+
+## MS — De 40 mil km² a pequenas reservas
+
+Fonte: o mesmo artigo de Renata Lourenço usado na primeira entrada do MS (*Fronteiras*, UFGD, 2010). PDF: https://ojs.ufgd.edu.br/FRONTEIRAS/article/download/598/715/3060
+
+- "[...] espaço territorial tradicional dos Kaiowá que, segundo Meliá, Grunberg e Grunberg (1976), estendia-se ao norte do então estado de Mato Grosso, até os Rios Apa e Dourados e, ao sul, até a Serra de Maracaju e os afluentes do Rio Jejuí, chegando a uma extensão de aproximadamente 40 mil km2, divididos pela fronteira Brasil/Paraguai. Contudo, aquele amplo espaço de ocupação Kaiowá foi drasticamente reduzido, como resultado do processo de colonização que teve início com a criação da Colônia Agrícola Nacional de Dourados (CAND), promovida pelo governo federal a partir da década de 1940."
+- "Num passado recente, no período da colonização promovida pela CAND, as duas comunidades formavam um único tekohá. [...] as duas aldeias ficaram separadas por 26 km"
+
+O campo `periodo` marca o início do processo; a fonte não dá data de fim.
+
+## MG — Minas quilombola
+
+Fonte: IBGE Educa, página "Quilombolas". https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html — sem data de publicação visível.
+
+- "Na sequência vêm as Unidades de Minas Gerais (135.310), Pará (135.033) e Pernambuco (78.827) [...]" (depois de Bahia e Maranhão)
+- "O município de Senhor do Bonfim/BA possui o maior número de pessoas quilombolas (15.999). Na sequência: Salvador/BA, com 15.897, Alcântara/MA, com 15.616, e Januária/MG, com 15.000."
+- "[...] 12,6% dos quilombolas residentes no Brasil ocupam territórios oficialmente delimitados e 87,4% estão fora de áreas formalmente delimitadas e reconhecidas."
+
+A pergunta liga o dado ao trabalho escravizado nas minas como convite à discussão: a fonte não faz essa ligação.
+
+## PR — O primeiro combate do Contestado
+
+Fonte: a mesma apresentação do dossiê usada na primeira entrada de SC (*Revista Esboços*, UFSC, 2012). PDF: https://periodicos.ufsc.br/index.php/esbocos/article/download/2175-7976.2012v19n28p1/25643/104106
+
+- "Na manhã do dia 22 de outubro de 1912, na localidade do Banhado Grande do Irani, então Município de Palmas, região sob administração paranaense, uma força de mais de 50 soldados do Regimento de Segurança do Paraná entrou em confronto com um grupo de sertanejos seguidores do monge José Maria. A refrega durou menos de 1 hora e resultou em 23 mortos [...] Neste combate iniciava-se um conflito que, em diferentes fases e com características próprias, estendeu-se até o início de 1916."
+- "O conflito atingiu um grande território do planalto e meio-oeste catarinense, além do sul do Paraná."
+
+No PDF, parte da frase sai com caracteres corrompidos ("HGH]HQDVGHIHULGRV..."); a parte legível foi a usada. A primeira frase da pergunta é um convite à discussão.
+
+## PE — Guerra aos mocambos
+
+Fonte: FISCHER, Brodwyn. "A ética do silêncio racial no contexto urbano: políticas públicas e desigualdade social no Recife, 1900-1940". *Anais do Museu Paulista*, 28, 2020. https://doi.org/10.1590/1982-02672020v28d1e15 — URL usada: https://www.scielo.br/j/anaismp/a/LxQRQyCSGgMdzhsk9wwMwSt/?lang=pt
+
+- "[...] mucambo era uma palavra da língua quimbundo que se referia a comunidades quilombolas, antes de passar a significar barraco rústico ou de favela."
+- "A principal prioridade urbana de Magalhães [...] foi uma campanha massiva para erradicar os mocambos do Recife. [...] a Liga Social Contra o Mocambo de Magalhães era um empreendimento inovador: uma campanha governamental maciça e integrada que combinava remoções violentas com recenseamentos, educação pública e habitação subsidiada."
+- "A liga lançou sua ofensiva em julho de 1939 com uma blitz multimídia. Magalhães era, convenientemente, dono de um jornal - a Folha da Manhã - e encheu suas páginas de propaganda pró-liga. Os censores da Era Vargas silenciaram a oposição em outros veículos [...]"
+- O artigo chama Magalhães de governador: "[...] o governador também buscou a inclusão de um amplo espectro de setores sociais organizados [...]"
+
+## PI — Indígenas no Piauí
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- Tabela 3 (Variação 2010-2022), coluna Indígena: "Piauí [...] 144,6%", "Nordeste [...] 127,3%", "Brasil [...] 89,0%".
+- "Uma das maiores variações": pela coluna Indígena, a ordem é RN (351,4%), BA (281,6%), CE (172,4%), AM (167,5%) e PI (144,6%).
+- Nota sobre o quesito "se considera indígena", como nas outras entradas do IBGE.
+
+A primeira frase da pergunta ("por muito tempo se disse...") é um convite à discussão, não um dado verificado.
+
+## RJ — A região que resistiu
+
+Fonte: o mesmo artigo usado na primeira entrada do RJ (*Religião & Sociedade*, 2015). URL: https://www.scielo.br/j/rs/a/bCPNfFkbtrHvWDMwWmj66XG/?lang=pt
+
+- Citação de Birman, Fernandes e Pierobon (2014) no artigo: "[...] essa região possui uma vasta história de resistências populares: [...] Lembremos que foi nessa mesma região, a duas quadras da Estação Ferroviária, que existiu o maior cortiço da história da cidade no início do século XX, o Cabeça de Porco, que acolheu cerca de 4 mil pessoas (Chalhoub 1996). A sua destruição foi aplaudida como um sinal de apoio às reformas urbanas e higienistas da ocasião. Nessa região, ocorreram também as Barricadas da Saúde, insurreição que marcou o imaginário político da cidade, mais conhecida como a Revolta da Vacina, em 1904 [...]"
+
+A fonte situa o cortiço "no início do século XX". O texto omite essa data porque ela não pôde ser confrontada com a obra citada (Chalhoub, 1996).
+
+## RR — Quando o garimpo chegou
+
+Fonte: PITHAN, Oneron A.; CONFALONIERI, Ulisses E. C.; MORGADO, Anastácio F. "A situação de saúde dos índios Yanomámi: diagnóstico a partir da Casa do Índio de Boa Vista, Roraima, 1987-1989". *Cadernos de Saúde Pública*, 7 (4), dez. 1991. https://doi.org/10.1590/S0102-311X1991000400007 — URL usada: https://www.scielo.br/j/csp/a/J3nLCgVDs8NhZzYPpgqpM4P/?lang=pt
+
+- "Do lado brasileiro, até 1987, o seu território tradicional, que se estende por uma área de cerca de 94.500 Km2, continha uma população total de cerca de 9 mil indivíduos. Estes tinham contato sistemático apenas com um reduzido número de não-índios [...]"
+- "[...] em função do fluxo de garimpeiros ter se dado a partir de agosto de 1987."
+- "A infecção malárica [...] teve um aumento de cerca de 500% na sua ocorrência entre 1987 e 1989."
+- "Dentre 495 internações, constatou-se que os principais agravos observados foram, em ordem descrescente, a malária, as infecções respiratórias agudas, a tuberculose, a desnutrição grave e as doenças sexualmente transmissíveis. Dentre os 114 óbitos, a malária foi a causa principal nos três anos est[udados]"
+- "[...] verifica-se também uma maior concentração de casos em áreas de maior atividade garimpeira."
+
+Atenção: os 114 óbitos incluem mortes registradas fora da Casa do Índio ("também foram incluídos no estudo óbitos ocorridos fora da CIBV [...]"). O texto diz "entre os 114 óbitos registrados" sem localizá-los na Casa do Índio.
+
+## RS — Vindos da África
+
+Fonte: a mesma dissertação de Marcelo Garcia da Rocha usada na primeira entrada do RS (UFPel, 2014). PDF: https://wp.ufpel.edu.br/ppgmp/files/2016/11/Marcelo-Garcia.pdf
+
+- "Berute (2006) [...] pontuou uma série de dados sobre as origens, sexo e idade dos escravos, num período relativo entre 1788 e 1802. Seus cálculos sobre a origem dos escravos nos dão um total de 88% de Africanos e 12% de crioulos. Deve-se ponderar, contudo, a relatividade da amostragem feita pelo autor, quem ressalva a impossibilidade de analisar as origens de 3% dos 3.294 desembarcados na capitania de Rio Grande durante o período acima mencionado."
+- "Para os registros de 1809-1825, num um total de 6.984 cativos que deram entrada nas bandas do Rio Grande do Sul, a margem varia entre 95% (6.635) de africanos e 5% (349) de crioulos. Nesta contagem, temos um total de 5.375 africanos novos, correspondendo a 81%, e 1260 cativos ladinos, quantidade que se refere a 19% de escravos conhecedores de língua portuguesa (PESSI, 2008, p. 3)."
+- "[...] provinham do tronco linguístico Banto, o qual engloba as regiões de Angola, Benguela e Congo [...]" (citando FAUSTINO, 1991)
+
+"Que ainda não falavam português" resume a definição da fonte, que opõe os "africanos novos" aos "ladinos", "escravos conhecedores de língua portuguesa". Pela mesma fonte, Faustino diz que esses escravizados vinham em sua maioria do tráfico interprovincial (de Pernambuco e do Rio de Janeiro), não direto da África: o texto diz "Muitos vinham do tronco linguístico banto", sem dizer por qual rota.
+
+## SC — Santa Catarina menos branca
+
+Fonte: IBGE, *Censo Demográfico 2022 — Identificação étnico-racial da população* (2023). PDF: https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf
+
+- "As três Unidades da Federação com maior peso relativo de população branca estavam localizadas na Região Sul. Eram elas: Rio Grande do Sul, com 78,4% de população branca, Santa Catarina, com 76,3%, e Paraná com 64,6%."
+- "Os menores pesos relativos encontravam-se nas Unidades da Federação de Santa Catarina, com 4,1% de população preta [...]"
+- Tabela 3 (Variação 2010-2022), colunas Total, Branca, Preta, Amarela, Parda, Indígena: "Santa Catarina 21,8% 10,6% 68,6% -52,2% 88,6% 19,5%".
+- "Maior crescimento de pardos" e "segunda maior variação total": comparei as colunas de todas as UFs da Tabela 3. Na parda, SC (88,6%) vem antes de RS (41,3%); no total, SC (21,8%) só fica atrás de RR (41,3%).
+
+A migração é mencionada só na pergunta: a fonte não explica a causa.
+
+## SC — Da guerra às serrarias
+
+Fonte: a mesma apresentação do dossiê usada na primeira entrada de SC (*Revista Esboços*, UFSC, 2012). PDF: https://periodicos.ufsc.br/index.php/esbocos/article/download/2175-7976.2012v19n28p1/25643/104106
+
+Resumo, feito na apresentação, do artigo de Alexandre Assis Tomporoski:
+- "[...] analisa a materialidade da existência e a sociabilidade dos sertanejos no periodo anterior à penetração de forças capitalistas na região, através de práticas como o pixirum, processo de trabalho coletivo e gerador de solidariedade. Em um segundo momento, o autor destaca o advento das empresas estrangeiras na região e a abrupta mudança no estilo de vida das populações locais, representada pela introdução da Estrada de Ferro São Paulo – Rio Grande e pela implantação das serrarias pertencentes à Southern Brazil Lumber and Colonization Company [...] Em uma terceira parte do artigo, Tomporoski estuda o período pós guerra, quando parte dos remanescentes torna-se operário nas serrarias, desenvolvendo greves nos anos de 1917 e 1919. Acredita o autor que exista uma relação de continuidade na resistência desenvolvida durante e após o movimento por parte dos trabalhadores."
+
+Atenção: é o resumo de outro artigo do mesmo dossiê. O ideal seria trocar a fonte pelo artigo de Tomporoski, que não foi aberto.
+
+## SP — Os colonos negros que a história esqueceu
+
+Fonte: MONSMA, Karl. "Vantagens de imigrantes e desvantagens de negros: emprego, propriedade, estrutura familiar e alfabetização depois da abolição no oeste paulista". *Dados*, 53 (3), 2010. https://doi.org/10.1590/S0011-52582010000300001 — URL usada: https://www.scielo.br/j/dados/a/mcWkb8BJqWT8GckNn8zn9Lf/?lang=pt
+
+- "A maior parte da literatura afirma que, nas regiões cafeicultoras mais novas e ricas do Oeste paulista, os imigrantes monopolizaram os contratos familiares do colonato [...]"
+- "Este artigo compara a situação de negros, brasileiros brancos e vários grupos imigrantes no município de São Carlos, no centro-oeste paulista, em 1907 [...] quando se realizou um censo local."
+- "Entretanto, os resultados desta pesquisa mostram que os negros não eram excluídos do colonato. [...] esta também era a categoria ocupacional mais comum entre chefes de família negros. Eram colonos, em 1907, 43,5% das famílias com chefe masculino preto e 31,3% das com chefe mulato."
+- Resumo em inglês: "Meanwhile, Blacks were almost completely absent from the elites, and literacy rates were extremely low among Blacks, including in the new generation, born after Abolition."
+- "[...] o governo paulista só pagava passagens para famílias de agricultores - ou para aqueles que se diziam agricultores - [...]" (sobre os imigrantes)

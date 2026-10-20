@@ -13,6 +13,32 @@
     "verificado": false
   },
   {
+    "uf": "BR",
+    "titulo": "Um país que se declara diferente",
+    "texto": "Entre os Censos de 2010 e 2022, a população brasileira cresceu 6,5%. No mesmo período, quem se declarou preto aumentou 42,3%, e o total de indígenas, 89,0%. Já a população declarada branca caiu 3,1%. Em 2022, o Brasil tinha 45,3% de pessoas pardas, 43,5% brancas, 10,2% pretas, 0,8% indígenas e 0,4% amarelas, segundo o IBGE.",
+    "periodo": "2010–2022",
+    "pergunta": "Cor ou raça no Censo é autodeclarada. O que pode levar mais pessoas a se declararem pretas ou indígenas? Isso muda a história ou a forma de contá-la?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "BR",
+    "titulo": "Quem passa fome no Brasil",
+    "texto": "Em 2023, entre os lares brasileiros em insegurança alimentar grave, 67,4% tinham como responsável alguém sem instrução ou com no máximo o ensino fundamental; só 2,9% eram chefiados por quem tinha nível superior. O emprego com carteira assinada protege: 22,8% dos lares em segurança alimentar eram chefiados por empregados com carteira, contra 6,1% chefiados por empregados sem carteira, segundo o IBGE.",
+    "periodo": "2023",
+    "pergunta": "Que relação existe entre escola, trabalho formal e comida na mesa? O que isso diz sobre as políticas públicas contra a fome?",
+    "fonte": {
+      "nome": "IBGE — PNAD Contínua: Segurança Alimentar 2023",
+      "ano": "2024",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102084.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "AC",
     "titulo": "Nem revolução, nem acreana?",
     "texto": "O conflito de 1902 que levou à anexação do Acre ao Brasil começou em 6 de agosto, data da independência da Bolívia, e foi liderado pelo gaúcho Plácido de Castro, com patrocínio do governo do Amazonas. A maioria dos combatentes brasileiros eram seringueiros nordestinos. Pesquisadores lembram que o Acre era território boliviano e que muitos seringueiros lutaram por ordem de seus patrões, os seringalistas. Um livro sobre o tema se chama “Não foi revolução nem acreana”.",
@@ -208,6 +234,19 @@
     "verificado": false
   },
   {
+    "uf": "DF",
+    "titulo": "Viradas de 24 horas",
+    "texto": "Para inaugurar Brasília a tempo, operários faziam “viradas”: jornadas que chegavam a 24 horas, três dias por semana. Nos alojamentos, colchões de capim, pulgas e percevejos, sanitários feitos de um buraco no chão e falta de água. Comida crua ou estragada levava a quebras de cantinas, e a polícia, chamada pelas empresas, espancava e prendia operários. Mesmo assim, Juscelino Kubitschek escreveu que a nova capital registrou só “944 ocorrências simples, com um caso fatal”.",
+    "periodo": "1957–1960",
+    "pergunta": "Por que a versão de JK sobre os acidentes é tão diferente da memória dos operários? Quem escreve a história oficial de uma obra como Brasília?",
+    "fonte": {
+      "nome": "Nair Heloisa Bicalho de Sousa (UnB) — artigo",
+      "ano": "TODO: verificar",
+      "url": "https://unb.revistaintercambio.net.br/24h/pessoa/temp/anexo/1/1251/2053.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "ES",
     "titulo": "A revolta no dia da festa",
     "texto": "Em 19 de março de 1849, dia de São José, um grupo de escravizados armados entrou na igreja recém-construída do Queimado, hoje no município da Serra (ES). Eles tinham erguido o templo em suas folgas e dias santos e entendiam que esse trabalho lhes daria direito à alforria. Segundo um jornal da época, o grupo chegou a 300 pessoas. A repressão foi violenta: no julgamento, cinco foram condenados à morte e 25 a açoites.",
@@ -221,11 +260,50 @@
     "verificado": false
   },
   {
+    "uf": "ES",
+    "titulo": "A lenha que virou conflito",
+    "texto": "No Sapê do Norte (ES), comunidades negras rurais ficaram “imprensadas” pelos plantios de eucalipto. Uma das poucas formas de sobreviver passou a ser o “facho”: coletar os resíduos de eucalipto deixados pelas empresas, vendidos como carvão ou lenha. A Aracruz Celulose proibia a coleta e tinha polícia particular. Em 2003, várias pessoas foram presas coletando resíduos; as comunidades exigiram a soltura, e focos de incêndio queimaram talhões de eucalipto da empresa.",
+    "periodo": "2003",
+    "pergunta": "Por que recolher sobras de madeira virou caso de polícia? O que esse conflito revela sobre quem tem direito à terra?",
+    "fonte": {
+      "nome": "Simone Raquel Batista Ferreira — Revista Geografares (UFES)",
+      "ano": "2010",
+      "url": "https://periodicos.ufes.br/geografares/article/download/1298/980/1568"
+    },
+    "verificado": false
+  },
+  {
     "uf": "GO",
     "titulo": "O brilho azul do césio-137",
     "texto": "Em setembro de 1987, dois rapazes desempregados retiraram um aparelho de radioterapia abandonado nas ruínas de um instituto em Goiânia e venderam a peça a um ferro-velho. O pó de césio-137, que emitia uma luz azul à noite, passou de mão em mão entre vizinhos e parentes. A menina Leide das Neves, de seis anos, morreu depois de comer com as mãos sujas do pó. O lixo radioativo foi enterrado em Abadia de Goiás, onde deve permanecer ativo por pelo menos 300 anos.",
     "periodo": "1987",
     "pergunta": "A cápsula ficou anos abandonada sem fiscalização. Em um desastre assim, de quem é a responsabilidade: de quem encontrou o material ou de quem deveria vigiá-lo?",
+    "fonte": {
+      "nome": "Suzane de Alencar Vieira — Estudos Avançados",
+      "ano": "2013",
+      "url": "https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "GO",
+    "titulo": "Barrados por serem de Goiânia",
+    "texto": "Depois do acidente com o césio-137, em 1987, milhares de pessoas fizeram fila no Estádio Olímpico de Goiânia para exames de contaminação. Muitas pediam atestados de descontaminação para poder viajar. Em outros estados, goianienses eram barrados em hotéis, restaurantes e aeroportos, e veículos com placa de Goiânia eram depredados. Naqueles dias, tudo o que vinha de Goiás era tratado como contaminado.",
+    "periodo": "1987",
+    "pergunta": "Por que o medo se voltou contra as vítimas, e não contra os responsáveis pelo abandono da cápsula? Você conhece outros casos em que uma doença ou desastre gerou preconceito?",
+    "fonte": {
+      "nome": "Suzane de Alencar Vieira — Estudos Avançados",
+      "ano": "2013",
+      "url": "https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "GO",
+    "titulo": "Uma cidade com o símbolo da radiação",
+    "texto": "O lixo radioativo do césio-137 foi levado para perto de Abadia de Goiás, a 20 km de Goiânia. Os moradores receberam os primeiros caminhões com pedras e paus, e a polícia foi chamada para conter a revolta. O depósito passou a ser erguido à noite, para evitar a resistência. Em 1995, Abadia virou município — e sua bandeira traz o trevo amarelo, símbolo da radioatividade.",
+    "periodo": "1987–1995",
+    "pergunta": "Quem decide onde fica o lixo perigoso de uma sociedade? Por que, muitas vezes, ele vai para perto de quem tem menos poder?",
     "fonte": {
       "nome": "Suzane de Alencar Vieira — Estudos Avançados",
       "ano": "2013",
@@ -273,11 +351,37 @@
     "verificado": false
   },
   {
+    "uf": "MT",
+    "titulo": "Primeiro lugar que ninguém quer",
+    "texto": "Há anos Mato Grosso apresenta nível hiperendêmico de hanseníase e ocupa a primeira posição do país, com as maiores taxas de prevalência e incidência, segundo artigo publicado em 2021. O Brasil se destaca como o segundo país em número absoluto de casos. Entre 2014 e 2017, o estado notificou 11.388 casos. Em 2014, falhas no sistema fizeram com que só três casos fossem notificados em todo o estado.",
+    "periodo": "2014–2017",
+    "pergunta": "Uma doença com tratamento ainda é tão comum. O que isso diz sobre o acesso à saúde? E o que significa um sistema que “perde” quase todos os casos de um ano?",
+    "fonte": {
+      "nome": "Aline Menezes Rossi Tavares et al. — Einstein (São Paulo)",
+      "ano": "2021",
+      "url": "https://www.scielo.br/j/eins/a/sFYSvJxNsH3MF3W4ydfzSnd/?lang=pt"
+    },
+    "verificado": false
+  },
+  {
     "uf": "MS",
     "titulo": "Confinados em 60 hectares",
     "texto": "A Reserva de Dourados (MS) foi criada em 1917, com 3.539 hectares, para abrigar indígenas Guarani — sem seguir critérios da ocupação tradicional. A partir dos anos 1940, a Colônia Agrícola Nacional de Dourados, do governo federal, trouxe colonos para terras antes pertencentes aos Kaiowá. Cerca de 280 Kaiowá do Panambi ficaram confinados em 60 hectares até o fim de 2004, quando foram homologados 1.260 hectares como Terra Indígena.",
     "periodo": "1917–2004",
     "pergunta": "O que significa um povo esperar mais de 60 anos para ter parte de suas terras reconhecida? Quem ganhou com a colonização da região?",
+    "fonte": {
+      "nome": "Renata Lourenço — Revista Fronteiras (UFGD)",
+      "ano": "2010",
+      "url": "https://ojs.ufgd.edu.br/FRONTEIRAS/article/download/598/715/3060"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "MS",
+    "titulo": "De 40 mil km² a pequenas reservas",
+    "texto": "O território tradicional dos Kaiowá ia do norte do antigo Mato Grosso, até os rios Apa e Dourados, ao sul, até a Serra de Maracaju e os afluentes do rio Jejuí — cerca de 40 mil km², divididos pela fronteira Brasil–Paraguai. Esse espaço foi drasticamente reduzido pela colonização que começou com a Colônia Agrícola Nacional de Dourados, criada pelo governo federal a partir dos anos 1940. As aldeias de Panambi e Panambizinho, antes um só território, ficaram separadas por 26 km.",
+    "periodo": "década de 1940",
+    "pergunta": "O que significa para um povo ter seu território dividido por uma fronteira entre países e depois cortado por lotes de colonização?",
     "fonte": {
       "nome": "Renata Lourenço — Revista Fronteiras (UFGD)",
       "ano": "2010",
@@ -294,6 +398,19 @@
       "nome": "Matos-de-Souza e Medrado — Saúde em Debate",
       "ano": "2021",
       "url": "https://www.scielo.br/j/sdeb/a/v9vGDrqDPfQt3KJkS5Kjndc/?lang=pt"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "MG",
+    "titulo": "Minas quilombola",
+    "texto": "Minas Gerais tem 135.310 quilombolas, segundo o Censo 2022 — a terceira maior população quilombola do país, atrás de Bahia e Maranhão. O município mineiro de Januária tem 15.000 quilombolas, o quarto maior número entre todos os municípios brasileiros. No Brasil, 87,4% dos quilombolas vivem fora de territórios oficialmente delimitados.",
+    "periodo": "2022",
+    "pergunta": "Minas costuma ser lembrada pelo ouro e pelas cidades históricas. Quem trabalhou nas minas, e onde estão hoje seus descendentes?",
+    "fonte": {
+      "nome": "IBGE Educa — Quilombolas (Censo 2022)",
+      "ano": "TODO: verificar",
+      "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html"
     },
     "verificado": false
   },
@@ -363,6 +480,19 @@
     "verificado": false
   },
   {
+    "uf": "PR",
+    "titulo": "O primeiro combate do Contestado",
+    "texto": "Na manhã de 22 de outubro de 1912, no Banhado Grande do Irani — então município de Palmas, região sob administração paranaense —, mais de 50 soldados do Regimento de Segurança do Paraná enfrentaram sertanejos seguidores do monge José Maria. O combate durou menos de uma hora e deixou 23 mortos. Ali começou a Guerra do Contestado, que se estendeu até 1916 pelo planalto catarinense e pelo sul do Paraná.",
+    "periodo": "1912",
+    "pergunta": "O Contestado costuma ser lembrado como uma guerra de Santa Catarina. Por que a participação do Paraná aparece menos? Quem decide de qual estado é uma história?",
+    "fonte": {
+      "nome": "Karsburg, Machado e Valentini — Revista Esboços (UFSC)",
+      "ano": "2012",
+      "url": "https://periodicos.ufsc.br/index.php/esbocos/article/download/2175-7976.2012v19n28p1/25643/104106"
+    },
+    "verificado": false
+  },
+  {
     "uf": "PE",
     "titulo": "“Liga” era apelido",
     "texto": "A organização criada em 1955 no Engenho Galileia, em Vitória de Santo Antão (PE), chamava-se Sociedade Agrícola e Pecuária dos Plantadores de Pernambuco. O termo “Liga” foi adotado pela imprensa conservadora para associá-la às Ligas Comunistas dos anos 1940 — e o movimento acabou incorporando o apelido. Uma das bandeiras era o fim do cambão, o trabalho não remunerado nos engenhos, que piorou quando os proprietários passaram a cobrar mais dias. O modelo logo se espalhou por outros estados.",
@@ -372,6 +502,19 @@
       "nome": "Marcus Dezemone — Revista Brasileira de História",
       "ano": "2016",
       "url": "https://www.scielo.br/j/rbh/a/R85xbJj5tVgt6YSDphF5gZS/?lang=pt"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "PE",
+    "titulo": "Guerra aos mocambos",
+    "texto": "“Mucambo” era uma palavra quimbundo para comunidades quilombolas, antes de passar a significar barraco. Em 1939, o governador Agamenon Magalhães lançou a Liga Social contra o Mocambo, para erradicar essas moradias do Recife. A campanha combinava remoções violentas com recenseamentos, educação e habitação subsidiada. Magalhães era dono do jornal Folha da Manhã, que encheu de propaganda, enquanto a censura do Estado Novo silenciava a oposição em outros veículos.",
+    "periodo": "1939",
+    "pergunta": "Acabar com moradias precárias é o mesmo que acabar com a pobreza? Para onde iam as pessoas cujos mocambos eram derrubados?",
+    "fonte": {
+      "nome": "Brodwyn Fischer — Anais do Museu Paulista (USP)",
+      "ano": "2020",
+      "url": "https://www.scielo.br/j/anaismp/a/LxQRQyCSGgMdzhsk9wwMwSt/?lang=pt"
     },
     "verificado": false
   },
@@ -389,11 +532,37 @@
     "verificado": false
   },
   {
+    "uf": "PI",
+    "titulo": "Indígenas no Piauí",
+    "texto": "Entre 2010 e 2022, a população indígena do Piauí cresceu 144,6%, segundo o Censo do IBGE — uma das maiores variações do país e bem acima da média nacional (89,0%). No Nordeste como um todo, o crescimento foi de 127,3%. O total de indígenas inclui quem respondeu “sim” à pergunta “você se considera indígena?”, aplicada de forma ampliada em 2022.",
+    "periodo": "2010–2022",
+    "pergunta": "Por muito tempo se disse que não havia mais indígenas em vários estados do Nordeste. O que pode explicar que tantas pessoas passem a se declarar indígenas?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
     "uf": "RJ",
     "titulo": "O cais que ficou enterrado",
     "texto": "Em 1843, o Cais do Valongo, no Rio de Janeiro, foi alargado e embelezado para receber a futura imperatriz Teresa Cristina e virou Cais da Imperatriz — depois soterrado pela Reforma Pereira Passos. O sítio onde desembarcaram africanos escravizados só foi redescoberto em 2011, nas obras do Porto Maravilha. Entre os objetos achados havia peças de uso religioso, e os arqueólogos chamaram yalorixás para ajudar a interpretá-las.",
     "periodo": "1843–2011",
     "pergunta": "Por que um lugar tão importante para a história da escravidão ficou literalmente enterrado por tanto tempo? O que uma cidade escolhe lembrar e esquecer?",
+    "fonte": {
+      "nome": "Sandra de Sá Carneiro e Márcia Leitão Pinheiro — Religião & Sociedade",
+      "ano": "2015",
+      "url": "https://www.scielo.br/j/rs/a/bCPNfFkbtrHvWDMwWmj66XG/?lang=pt"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "RJ",
+    "titulo": "A região que resistiu",
+    "texto": "A zona portuária do Rio, onde ficava o Cais do Valongo, tem uma longa história de resistência popular. Ali, a duas quadras da Estação Ferroviária, existiu o maior cortiço da história da cidade, o Cabeça de Porco, que abrigou cerca de 4 mil pessoas; sua destruição foi aplaudida como apoio às reformas urbanas e higienistas. Na mesma região ocorreram as Barricadas da Saúde, na Revolta da Vacina de 1904.",
+    "periodo": "1904",
+    "pergunta": "Por que reformas “higienistas” costumam começar derrubando as casas dos mais pobres? Para onde vai quem é removido?",
     "fonte": {
       "nome": "Sandra de Sá Carneiro e Márcia Leitão Pinheiro — Religião & Sociedade",
       "ano": "2015",
@@ -445,6 +614,19 @@
     "texto": "A economia do charque em Pelotas (RS) dependia do trabalho escravizado. Em 1832, a Câmara de Pelotas afirmava que o distrito tinha “mais de quatro mil escravos” reunidos nas charqueadas e temia que emissários do “Estado vizinho” os levassem à revolta. Entre 1809 e 1825, segundo registros analisados por historiadores, 95% dos 6.984 cativos que entraram no Rio Grande do Sul eram africanos.",
     "periodo": "1809–1832",
     "pergunta": "O Rio Grande do Sul costuma ser associado à imigração europeia. Por que a presença africana e escravizada aparece tão pouco nessa imagem?",
+    "fonte": {
+      "nome": "Marcelo Garcia da Rocha — Dissertação de Mestrado, UFPel",
+      "ano": "2014",
+      "url": "https://wp.ufpel.edu.br/ppgmp/files/2016/11/Marcelo-Garcia.pdf"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "RS",
+    "titulo": "Vindos da África",
+    "texto": "Entre 1788 e 1802, 88% dos escravizados desembarcados na capitania do Rio Grande eram africanos, segundo cálculos do historiador Berute sobre 3.294 pessoas. Entre 1809 e 1825, de 6.984 cativos que entraram no Rio Grande do Sul, 95% eram africanos, e 81% eram “africanos novos”, recém-chegados que ainda não falavam português. Muitos vinham do tronco linguístico banto, de regiões como Angola, Benguela e Congo.",
+    "periodo": "1788–1825",
+    "pergunta": "O que significava chegar a uma terra estranha sem falar a língua, para trabalhar escravizado? Que marcas da cultura banto existem hoje no Sul?",
     "fonte": {
       "nome": "Marcelo Garcia da Rocha — Dissertação de Mestrado, UFPel",
       "ano": "2014",
@@ -505,11 +687,50 @@
     "verificado": false
   },
   {
+    "uf": "RR",
+    "titulo": "Quando o garimpo chegou",
+    "texto": "Até 1987, o território Yanomami no Brasil, de cerca de 94.500 km², tinha uma população de cerca de 9 mil pessoas, com pouco contato com não indígenas. A partir de agosto de 1987, garimpeiros invadiram a área. Entre 1987 e 1989, a malária aumentou cerca de 500%. Na Casa do Índio de Boa Vista houve 495 internações de Yanomami e, entre os 114 óbitos registrados, a malária foi a principal causa. As doenças se concentravam nas áreas de maior atividade garimpeira.",
+    "periodo": "1987–1989",
+    "pergunta": "Por que a chegada do garimpo trouxe doenças? Quem é responsável por proteger a saúde de povos indígenas em seus territórios?",
+    "fonte": {
+      "nome": "Pithan, Confalonieri e Morgado — Cadernos de Saúde Pública (Fiocruz)",
+      "ano": "1991",
+      "url": "https://www.scielo.br/j/csp/a/J3nLCgVDs8NhZzYPpgqpM4P/?lang=pt"
+    },
+    "verificado": false
+  },
+  {
     "uf": "SC",
     "titulo": "Os “pelados” contra a ferrovia",
     "texto": "Entre 1912 e o início de 1916, o planalto e o meio-oeste catarinense e o sul do Paraná viveram a Guerra do Contestado. De um lado, os governos estaduais e federal, grandes fazendeiros e as empresas Southern Brazil Railway e Lumber and Colonization Company. Do outro, peões, agregados, tropeiros, ervateiros e pequenos sitiantes, que se chamavam “pelados”. A luta pela terra estava entre as causas, mas os sertanejos ficaram conhecidos como “fanáticos”.",
     "periodo": "1912–1916",
     "pergunta": "Por que um conflito com causas ligadas à terra e a empresas estrangeiras ficou registrado como uma guerra de “fanáticos”? Quem escolhe os nomes que entram para a história?",
+    "fonte": {
+      "nome": "Karsburg, Machado e Valentini — Revista Esboços (UFSC)",
+      "ano": "2012",
+      "url": "https://periodicos.ufsc.br/index.php/esbocos/article/download/2175-7976.2012v19n28p1/25643/104106"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "SC",
+    "titulo": "Santa Catarina menos branca",
+    "texto": "Santa Catarina é um dos estados mais brancos do país (76,3% de pessoas brancas em 2022) e o que tem a menor proporção de pessoas pretas (4,1%). Mas, entre 2010 e 2022, foi onde a população parda mais cresceu: 88,6%. A população preta aumentou 68,6%, e a branca, 10,6%. A população total do estado cresceu 21,8%, a segunda maior variação do país.",
+    "periodo": "2010–2022",
+    "pergunta": "Que imagem você tem da população de Santa Catarina? O que esses números sugerem sobre migração e sobre como as pessoas se declaram?",
+    "fonte": {
+      "nome": "IBGE — Censo Demográfico 2022: Identificação étnico-racial da população",
+      "ano": "2023",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "SC",
+    "titulo": "Da guerra às serrarias",
+    "texto": "Antes da guerra, os sertanejos do Contestado praticavam o pixirum, trabalho coletivo que gerava solidariedade. Com a chegada da Estrada de Ferro São Paulo–Rio Grande e das serrarias da Southern Brazil Lumber and Colonization Company, o modo de vida mudou de forma abrupta. Depois da guerra, parte dos remanescentes virou operária nessas mesmas serrarias e fez greves em 1917 e 1919. Para o historiador Alexandre Tomporoski, há continuidade entre a resistência na guerra e a do pós-guerra.",
+    "periodo": "1917–1919",
+    "pergunta": "O que acontece com quem perde uma guerra pela terra? Por que trabalhar para a empresa contra a qual se lutou?",
     "fonte": {
       "nome": "Karsburg, Machado e Valentini — Revista Esboços (UFSC)",
       "ano": "2012",
@@ -527,6 +748,19 @@
       "nome": "Ferreira, Machado e Machado — Novos Estudos CEBRAP",
       "ano": "2012",
       "url": "https://www.scielo.br/j/nec/a/ZbWF3kvfSYJMQCMSN9ZfmFt/?lang=pt"
+    },
+    "verificado": false
+  },
+  {
+    "uf": "SP",
+    "titulo": "Os colonos negros que a história esqueceu",
+    "texto": "Muitos livros dizem que, depois da abolição, os imigrantes europeus monopolizaram o trabalho nas fazendas de café paulistas. Mas o censo municipal de São Carlos de 1907 mostra outra coisa: o colonato era a ocupação mais comum entre chefes de família negros — 43,5% das famílias chefiadas por homens pretos. Ao mesmo tempo, os negros estavam quase ausentes das elites e tinham alfabetização muito baixa, inclusive a geração nascida depois da abolição. O governo paulista só pagava passagem a imigrantes agricultores.",
+    "periodo": "1907",
+    "pergunta": "Se os negros continuaram trabalhando no café, por que a história contou que eles foram “substituídos”? Quem ganhou com o apoio do governo à imigração?",
+    "fonte": {
+      "nome": "Karl Monsma — Dados (Revista de Ciências Sociais)",
+      "ano": "2010",
+      "url": "https://www.scielo.br/j/dados/a/mcWkb8BJqWT8GckNn8zn9Lf/?lang=pt"
     },
     "verificado": false
   },
