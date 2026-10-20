@@ -292,3 +292,14 @@ Fonte: FERREIRA JÚNIOR, José. "Cabeças cortadas: troféus exibidos e puniçã
 - Para a pergunta: "Além da tática antiga de impor medo através de ações violentas praticadas pelo Estado [...]"
 
 Dado em disputa: buscas mostram um trabalho da UFBA que dá 1971 para o sepultamento. O texto usa 1969, ano desta fonte.
+
+## TO — Guias à força
+
+Fonte: NASCIMENTO, Durbens Martins. *A Guerrilha do Araguaia: "paulistas" e militares na Amazônia*. Dissertação (Mestrado em Planejamento do Desenvolvimento), NAEA/UFPA, defendida em 05/01/2000. PDF: https://repositorio.ufpa.br/jspui/bitstream/2011/2458/1/Dissertacao_GuerrilhaAraguaiaPaulistas.pdf
+
+- Período: "[...] até o começo dos combates em abril de 1972, a segunda etapa, se estende desta data a março de 1975. É a etapa da guerra de guerrilhas e das Campanhas de Cerco e Aniquilamento."
+- "A investida das forças repressivas concentrou-se nas cidades de Marabá, no Pará e Xambioá (próxima a Serra das Andorinhas), em Goiás e Imperatriz no Maranhão."
+- "[...] escavações no Sul e Sudeste do estado do Pará e em Xambioá, no Tocantins. Elas dão suporte às investigações científicas sobre as circunstâncias em que foram mortos."
+- "O morador que, de uma forma ou de outra, tivesse estabelecido algum tipo de relação com os paulistas, recebia o tratamento de simpatizante da Guerrilha [...] Bate-paus conhecidos foram 'contratados' como guias, na promessa de, ao final da operação militar, receberem o pagamento em terras que seriam doadas pelo INCRA. Vários guias, entretanto, foram obrigados, inclusive após sessões de tortura, a trabalhar para o Exército na mata."
+
+Notas: a fonte chama os guias de "bate-paus" e "mateiros" (nota 68: "Homens contratados pelo Exército como informantes. Eram utilizados como guias, também conhecidos como 'mateiros'"). O texto não traz o número de mortos e desaparecidos: buscas mostram contagens diferentes (62 na sentença da Corte Interamericana, cerca de 70 segundo dados atribuídos à CNV), que não foram conferidas em página aberta.

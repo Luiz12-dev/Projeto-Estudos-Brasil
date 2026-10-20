@@ -351,13 +351,14 @@
   },
   {
     "uf": "TO",
-    "titulo": "TODO",
-    "texto": "TODO: aguardando curadoria",
-    "pergunta": "TODO",
+    "titulo": "Guias à força",
+    "texto": "Na Guerrilha do Araguaia (combates de 1972 a 1975), a repressão se concentrou em Marabá (PA), em Xambioá — então em Goiás, hoje no Tocantins — e em Imperatriz (MA). Moradores com qualquer relação com os guerrilheiros eram tratados como simpatizantes. Mateiros da região foram contratados como guias com a promessa de receber terras do INCRA; vários foram obrigados a trabalhar para o Exército, inclusive após sessões de tortura. Escavações em Xambioá e no sul do Pará ajudam a investigar como as vítimas morreram.",
+    "periodo": "1972–1975",
+    "pergunta": "Como fica a vida de uma comunidade obrigada a colaborar com quem a reprime? Por que é importante, décadas depois, procurar os restos das vítimas?",
     "fonte": {
-      "nome": "TODO",
-      "ano": "TODO",
-      "url": "TODO"
+      "nome": "Durbens Martins Nascimento — Dissertação de Mestrado, NAEA/UFPA",
+      "ano": "2000",
+      "url": "https://repositorio.ufpa.br/jspui/bitstream/2011/2458/1/Dissertacao_GuerrilhaAraguaiaPaulistas.pdf"
     },
     "verificado": false
   }
