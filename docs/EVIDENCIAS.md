@@ -691,3 +691,13 @@ Fonte: a mesma página do Projeto Afro Curitiba (UFPR) usada na primeira entrada
 - "Em 1880, quando visitou a escola, o Presidente da Província – Souza Dantas Filho – considerou que não era adequado que as aulas da cadeia fossem regidas por um escravo que, a seu ver, não possuía a 'força moral necessária a um mestre'. Pedro Antonio foi então demitido da função, e em seu lugar foi nomeado um professor público. Sob a regência desse professor, ao menos no primeiro ano, o número de alunos na escola ficou reduzida à quase a metade. Quanto a Pedro Antonio, sabemos que fugiu da prisão em 1881 [...]"
 
 A página cita como fonte a dissertação de Noemi Santos da Silva ("O 'batismo na instrução' [...]"), que não foi aberta.
+
+## SP — Metade do salário, o dobro da luta
+
+Fonte: FRACCARO, Glaucia Cristina Candian. "Mulheres, sindicato e organização política nas greves de 1917 em São Paulo". *Revista Brasileira de História*, 37 (76), set.-dez. 2017. https://doi.org/10.1590/1806-93472017v37n76-04 — URL usada: https://www.scielo.br/j/rbh/a/THvpNy5TDW34ZgVDKgCFvBR/?lang=pt
+
+- "Naquele momento, as mulheres ocupavam quase 34% da força de trabalho, e no setor têxtil o número de empregadas superava o de homens (Pena, 1981). Na Fábrica de Fósforos Pauliceia, os trabalhadores chegavam a receber diárias de 4 mil réis, mas havia lá cem mulheres empregadas que não recebiam mais que 1.800 réis por dia."
+- "[...] organizou-se o Comitê Popular de Agitação contra a exploração das crianças, fundado em março de 1917."
+- "Com a deflagração da greve, a polícia igualmente se mobilizou e as pressões [...] resultaram em investigação de ativistas, repressão de algumas lideranças, fechamento de reuniões e até assassinato de trabalhadores, como o de José Gimenez Martinez, sapateiro, anarquista, com 21 anos."
+
+O título ("metade do salário") é uma aproximação: 1.800 é 45% de 4.000 réis.
