@@ -41,7 +41,7 @@ Documento de referência: [`CLAUDE.md`](../CLAUDE.md).
 
 ## Checklist "Pronto quando" (seção 9)
 
-- [x] Carrega em menos de 3 s em 4G — site publicado medido com perfil "Slow 4G" (1,6 Mbps, 150 ms): mapa interativo em 1,8 s, 53 KB transferidos com as 80 curiosidades (2026-10-20)
+- [x] Carrega em menos de 3 s em 4G — site publicado medido com perfil "Slow 4G" (1,6 Mbps, 150 ms): mapa interativo em 2,2 s, 56 KB transferidos, já com o novo visual (2026-10-20)
 - [x] Funciona em tela de 360 px de largura — testado sem rolagem horizontal
 - [ ] Todas as entradas (80) com `verificado: true` — **depende da conferência humana**; enquanto isso, aparecem com aviso (D6)
 - [ ] Toda URL de fonte abre e corresponde ao fato afirmado — as URLs das 80 entradas foram abertas na pesquisa; a correspondência é parte da conferência humana
