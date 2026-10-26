@@ -47,41 +47,48 @@ export function renderizar(painel: HTMLElement, nome: string, todas: Curiosidade
   trocar(painel, () => montar(painel, nome, todas, indice, uf));
 }
 
+// O painel tem quatro blocos fixos: cabeçalho (recorte, região, posição),
+// corpo (aviso, título, período, texto), pergunta e rodapé (fonte e ações).
 function montar(painel: HTMLElement, nome: string, todas: Curiosidade[], indice: number, uf: string): void {
   const lista = visiveis(todas);
+  const c = lista[indice];
   painel.replaceChildren();
-  const cabecalho = el('div', '', 'cabecalho');
-  cabecalho.append(el('p', nome, 'recorte'));
+
+  const cab = el('div', '', 'painel-cab');
+  const identidade = el('div', '', 'identidade');
+  identidade.append(el('p', nome, 'recorte'));
   const regiao = REGIAO_DE[uf];
   if (regiao) {
     const chip = el('span', NOME_REGIAO[regiao], 'chip-regiao');
     chip.dataset.regiao = regiao;
-    cabecalho.append(chip);
+    identidade.append(chip);
   }
-  painel.append(cabecalho);
+  cab.append(identidade);
+  if (lista.length > 1) cab.append(el('p', `${indice + 1} de ${lista.length}`, 'contador'));
+  painel.append(cab);
 
-  const c = lista[indice];
+  const corpo = el('div', '', 'painel-corpo');
+  painel.append(corpo);
   if (!c) {
-    painel.append(el('h2', 'Conteúdo em curadoria'));
-    painel.append(el('p', 'As curiosidades deste recorte ainda estão sendo verificadas.'));
+    corpo.append(el('h2', 'Conteúdo em curadoria'), el('p', 'As curiosidades deste recorte ainda estão sendo verificadas.', 'texto'));
     return;
   }
-
-  if (lista.length > 1) painel.append(el('p', `Curiosidade ${indice + 1} de ${lista.length}`, 'contador'));
   if (!c.verificado) {
     const aviso = el('p', '', 'carimbo');
-    aviso.append(el('strong', 'Em conferência'), ' Fonte ainda não revisada pelo curador. Confira o link abaixo.');
-    painel.append(aviso);
+    aviso.append(el('strong', 'Em conferência'), el('span', 'Fonte ainda não revisada pelo curador. Confira o link no rodapé.'));
+    corpo.append(aviso);
   }
-  painel.append(el('h2', c.titulo));
-  if (c.periodo) painel.append(el('p', c.periodo, 'periodo'));
-  painel.append(el('p', c.texto, 'texto'));
+  corpo.append(el('h2', c.titulo));
+  if (c.periodo) corpo.append(el('p', c.periodo, 'periodo'));
+  corpo.append(el('p', c.texto, 'texto'));
 
   const pergunta = el('div', '', 'pergunta');
   pergunta.append(el('h3', 'Para discutir'), el('p', c.pergunta));
   painel.append(pergunta);
 
-  const fonte = el('p', 'Fonte: ', 'fonte');
+  const rodape = el('div', '', 'painel-rodape');
+  const fonte = el('p', '', 'fonte');
+  fonte.append(el('span', 'Fonte', 'rotulo-fonte'));
   const { nome: org, ano, url } = c.fonte;
   const rotulo = ano.startsWith('TODO') ? org : `${org} (${ano})`;
   if (url.startsWith('https://') || url.startsWith('http://')) {
@@ -93,8 +100,9 @@ function montar(painel: HTMLElement, nome: string, todas: Curiosidade[], indice:
   } else {
     fonte.append(rotulo);
   }
-  painel.append(fonte);
+  rodape.append(fonte);
 
+  const acoes = el('div', '', 'acoes');
   const status = el('span', '', 'status');
   status.setAttribute('role', 'status');
   const copiar = botao('Copiar texto', 'copiar', async () => {
@@ -106,9 +114,8 @@ function montar(painel: HTMLElement, nome: string, todas: Curiosidade[], indice:
       status.textContent = 'Não foi possível copiar.';
     }
   });
-  const acoes = el('div', '', 'acoes');
   acoes.append(copiar, status);
-  painel.append(acoes);
+  rodape.append(acoes);
 
   if (lista.length > 1) {
     const ir = (i: number) => {
@@ -120,6 +127,7 @@ function montar(painel: HTMLElement, nome: string, todas: Curiosidade[], indice:
       botao('← Anterior', 'anterior', () => ir(indice - 1)),
       botao('Próxima →', 'proxima', () => ir(indice + 1)),
     );
-    painel.append(nav);
+    rodape.append(nav);
   }
+  painel.append(rodape);
 }

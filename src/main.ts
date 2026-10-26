@@ -13,6 +13,8 @@ async function carregar(): Promise<void> {
     const resp = await fetch(`${import.meta.env.BASE_URL}data/curiosidades.json`);
     const dados: Curiosidade[] = await resp.json();
     for (const c of dados) curiosidades.set(c.uf, [...(curiosidades.get(c.uf) ?? []), c]);
+    const total = document.querySelector('#total-curiosidades');
+    if (total) total.textContent = String(dados.length);
   } catch {
     painel.textContent = 'Não foi possível carregar as curiosidades. Recarregue a página.';
   }
@@ -29,3 +31,4 @@ async function selecionar(uf: string): Promise<void> {
 montarLista(document.querySelector('#lista')!, selecionar);
 marcarVisitados(lerVisitados());
 montarMapa(document.querySelector('#mapa')!, selecionar).then(() => marcarVisitados(lerVisitados()));
+document.querySelector('#comecar-brasil')?.addEventListener('click', () => selecionar('BR'));
