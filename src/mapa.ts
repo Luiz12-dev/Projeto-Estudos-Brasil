@@ -199,16 +199,35 @@ export function aproximar(uf: string | null): void {
   requestAnimationFrame(passo);
 }
 
-export function montarLista(ul: HTMLElement, aoSelecionar: AoSelecionar): void {
-  for (const [sigla, nome] of Object.entries(NOMES)) {
+// Lista alternativa ao mapa: "Brasil" em destaque e os estados agrupados por região.
+export function montarLista(alvo: HTMLElement, aoSelecionar: AoSelecionar): void {
+  const criar = (sigla: string) => {
     const btn = document.createElement('button');
     btn.type = 'button';
     btn.dataset.uf = sigla;
-    btn.textContent = nome;
+    btn.textContent = NOMES[sigla] ?? sigla;
     btn.addEventListener('click', () => aoSelecionar(sigla));
-    const li = document.createElement('li');
-    li.append(btn);
-    ul.append(li);
+    return btn;
+  };
+  const brasil = criar('BR');
+  brasil.classList.add('botao-brasil');
+  alvo.append(brasil);
+  for (const [r, nomeRegiao] of Object.entries(NOME_REGIAO)) {
+    const grupo = document.createElement('section');
+    grupo.className = 'grupo-regiao';
+    grupo.dataset.regiao = r;
+    const titulo = document.createElement('h3');
+    titulo.textContent = nomeRegiao;
+    const ul = document.createElement('ul');
+    const ufs = Object.keys(NOMES).filter((uf) => REGIAO_DE[uf] === r);
+    ufs.sort((a, b) => NOMES[a].localeCompare(NOMES[b], 'pt-BR'));
+    for (const uf of ufs) {
+      const li = document.createElement('li');
+      li.append(criar(uf));
+      ul.append(li);
+    }
+    grupo.append(titulo, ul);
+    alvo.append(grupo);
   }
 }
 

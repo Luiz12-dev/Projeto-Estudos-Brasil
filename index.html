@@ -4,26 +4,61 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="Mapa clicável do Brasil com curiosidades históricas e fontes." />
+    <meta name="theme-color" content="#1E2230" />
     <title>Mapa Histórico do Brasil</title>
     <link rel="stylesheet" href="/src/style.css" />
   </head>
   <body>
-    <header>
-      <h1>Mapa Histórico do Brasil</h1>
-      <p>Toque em um estado ou em “Brasil” para ler curiosidades históricas.</p>
+    <header class="topo">
+      <div class="conteudo topo-int">
+        <p class="sobretitulo">IFPR Campus Jacarezinho · Informática Aplicada à Educação</p>
+        <h1>Mapa Histórico do Brasil</h1>
+        <p class="subtitulo">Escravidão, seca, fome, saúde, violência de Estado, trabalho, povos indígenas e migração: histórias que quase não aparecem nos livros, com a fonte de cada uma.</p>
+        <ul class="numeros" aria-label="Conteúdo do mapa">
+          <li><strong id="total-curiosidades">80</strong> curiosidades</li>
+          <li><strong>27</strong> unidades da federação e o Brasil</li>
+          <li><strong>1</strong> pergunta para discutir em cada uma</li>
+        </ul>
+      </div>
     </header>
-    <main>
-      <section id="mapa" aria-label="Mapa do Brasil por estado"></section>
-      <section id="painel" aria-live="polite" tabindex="-1">
-        <p>Nenhum estado selecionado.</p>
+
+    <main class="conteudo layout">
+      <section class="cartao cartao-mapa" aria-labelledby="titulo-mapa">
+        <div class="cartao-cab">
+          <h2 id="titulo-mapa">Mapa</h2>
+          <p class="dica-uso">Toque em um estado ou use Tab e Enter</p>
+        </div>
+        <div id="mapa"></div>
       </section>
-      <nav aria-labelledby="titulo-lista">
-        <h2 id="titulo-lista">Estados</h2>
-        <ul id="lista"></ul>
+
+      <section id="painel" class="cartao" aria-live="polite" tabindex="-1">
+        <div class="boas-vindas">
+          <p class="recorte">Comece por aqui</p>
+          <h2>Escolha um estado no mapa</h2>
+          <p class="texto">Cada estado tem de duas a três curiosidades, sempre com a fonte e uma pergunta para levar para a conversa em sala.</p>
+          <ol class="passos">
+            <li>Toque em um estado, ou use a lista abaixo.</li>
+            <li>Leia a curiosidade e abra a fonte se quiser conferir.</li>
+            <li>Use “Próxima” para ver as outras do mesmo estado.</li>
+          </ol>
+          <button type="button" id="comecar-brasil" class="botao-principal">Começar pelo Brasil</button>
+        </div>
+      </section>
+
+      <nav class="cartao cartao-lista" aria-labelledby="titulo-lista">
+        <div class="cartao-cab">
+          <h2 id="titulo-lista">Estados por região</h2>
+          <p class="dica-uso">Alternativa ao mapa · ✓ marca os já lidos</p>
+        </div>
+        <div id="lista"></div>
       </nav>
     </main>
-    <footer>
-      <p>IFPR Campus Jacarezinho — Informática Aplicada à Educação</p>
+
+    <footer class="rodape">
+      <div class="conteudo rodape-int">
+        <p><strong>Mapa Histórico do Brasil</strong> · Trabalho da unidade curricular Informática Aplicada à Educação, Tecnologia em Sistemas para Internet, IFPR Campus Jacarezinho.</p>
+        <p>As curiosidades vêm de fontes públicas, como IBGE, universidades e periódicos científicos. As marcadas “Em conferência” ainda não foram revisadas pelo curador. Mapa: malha de Unidades da Federação do IBGE.</p>
+      </div>
     </footer>
     <script type="module" src="/src/main.ts"></script>
   </body>
