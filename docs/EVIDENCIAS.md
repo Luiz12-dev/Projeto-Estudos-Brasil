@@ -18,6 +18,7 @@ Correções feitas nessa conferência:
 
 - **AC, MT e RO (hanseníase):** o capítulo de Penna et al. não está em *Saúde Brasil 2008*, como o cabeçalho do PDF da Fiocruz indicava, e sim em *Saúde Brasil 2009: uma análise da situação de saúde e da agenda nacional e internacional de prioridades em saúde* (Brasília: Ministério da Saúde, 2010, p. 295-318, ISBN 978-85-334-1737-3). Confirmado no registro do repositório Arca (https://arca.fiocruz.br/handle/icict/43970) e no sumário do livro oficial (https://bvsms.saude.gov.br/bvs/publicacoes/saude_brasil_2009.pdf). O nome da fonte, o ano (2010) e o texto do MT ("relatório Saúde Brasil 2009") foram corrigidos.
 - **AC (borracha):** o PDF do livro de Martinello mudou de endereço. O link antigo (www2.ufac.br) não abre mais; o novo, na página da Edufac, é o mesmo livro (mesmo ISBN): https://www.ufac.br/editora/publicacoes/a-batalha-da-borracha-na-segunda-guerra-mundial/AbatalhadaborrachanaSegundaGuerraMundial.pdf
+- **GO (as três entradas), corrigidas depois de um aviso:** usavam o artigo de Vieira (*Estudos Avançados*, 2013), que é um relato em forma de narrativa ("experimento textual"). Na conferência eu o aceitei porque os trechos estavam no artigo, mas isso não basta: a bandeira de Abadia não tem o trevo amarelo (o trevo é azul e fica no brasão, segundo o IBGE). As três entradas passaram a usar o artigo da *Revista UFG* (2007) e o histórico do IBGE, e os detalhes que só a narrativa trazia saíram dos textos.
 - **RS (Vindos da África):** "recém-chegados que ainda não falavam português" virou "que ainda não conheciam a língua portuguesa", porque a fonte define os "africanos novos" só pelo idioma, não pela data de chegada.
 - **Anos que estavam como TODO:** PR = 2023 (a página diz "Publicado em 7 de setembro de 2023"); AC, MT e RO = 2010 (acima); BA, MA e MG (IBGE Educa) e DF (artigo de Bicalho de Sousa) = "s.d." (sem data), porque nenhum dos documentos mostra a data de publicação.
 
@@ -67,8 +68,8 @@ Todas as 80 entradas foram conferidas em 2026-11-09 e estão com `verificado: tr
 | ES | A lenha que virou conflito | — | [x] |
 | ES | De revolta esquecida a patrimônio | fonte sem revisão por pares | [x] |
 | GO | O brilho azul do césio-137 | — | [x] |
-| GO | Barrados por serem de Goiânia | — | [x] |
-| GO | Uma cidade com o símbolo da radiação | ver "Atenção" | [x] |
+| GO | Quando ser de Goiás virou suspeita | — | [x] |
+| GO | Rejeitos por imposição | corrigida em 2026-11-09 | [x] |
 | MA | Uma cidade quilombola | — | [x] |
 | MA | Foguetes no território quilombola | ver "Atenção" | [x] |
 | MA | Movimentos dos atingidos pela base | — | [x] |
@@ -152,15 +153,15 @@ A segunda pergunta ("por que é pouco conhecido") é um convite à discussão, n
 
 ## GO — O brilho azul do césio-137
 
-Fonte: VIEIRA, Suzane de Alencar. "Césio-137, um drama recontado". *Estudos Avançados*, 27 (77), 2013. https://doi.org/10.1590/S0103-40142013000100017 — URL usada: https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt
+Fonte (desde 2026-11-09): CHAVES, Elza Guedes. "Goiânia é azul: o acidente com o césio 137". *Revista UFG* (Universidade Federal de Goiás), v. 9, n. 1, 2007. Página: https://revistas.ufg.br/revistaufg/article/view/48158 — PDF: https://revistas.ufg.br/revistaufg/article/viewFile/48158/23497. A autora é apresentada no artigo como "Doutora em Ciências Sociais, professora da Universidade Católica de Goiás".
 
-Observação: o artigo se define como "experimento textual" baseado em personagens e acontecimentos reais. Só foram usados fatos que o texto afirma diretamente.
+- "Na cidade de Goiânia, durante a ensolarada e calorenta tarde domingueira de 13 de setembro de 1987, dois sucateiros Pereira Roberto Santos Alves e Wagner Mota dirigiram-se às ruínas de um prédio situado entre as Avenidas Tocantins e Paranaíba, no centro da cidade, onde funcionara uma clínica de radioterapia, visando retirar do local um equipamento abandonado. Movia-os a possibilidade de utilizarem o chumbo que revestia o aparelho para vendê-lo como sucata a um dos ferros-velhos da cidade"
+- "No quintal da casa, usando ferramentas comuns, separaram a parte de chumbo do restante da peça, rompendo a janela de irídio que protegia a cápsula de césio 137, o que permitiu a liberação de radioatividade para o meio ambiente."
+- "[...] a radiação foi liberada para um grupo de pessoas que manipularam partículas de césio 137 como se fossem sucata comum."
+- Brilho: "A mesma característica que deslumbrou aquele grupo emitida na escuridão, como um azul celeste a luminosidade [...]"
+- "De acordo com informações oficiais, quando o fato se tornou público dezesseis dias mais tarde, 249 pessoas já estavam contaminadas ou irradiadas, entre as quais quatro faleceram em menos de um mês contado a partir da divulgação do acidente."
 
-- "No mês de setembro de 1987, o despojo de equipamentos abandonados nas ruínas do Instituto despertou a curiosidade e o interesse de dois moradores do Bairro Popular [...] Os dois rapazes, que estavam temporariamente sem emprego [...] A peça de chumbo foi vendida para Devair, dono de um ferro-velho [...] a cápsula indeterminada foi incluída na transação."
-- "Nas noites de setembro de 1987, o césio-137 emanava uma deslumbrante luz azul [...] circulava de mão em mão como uma dádiva maravilhosa [...]"
-- "A menina Leide das Neves de seis anos havia recebido do pai [...] algumas pedrinhas azuis de césio-137 para brincar. A criança foi contaminada ao comer ovo cozido com as mãos sujas do pó radioativo durante o jantar." / "Maria Gabriela e a criança Leide das Neves não suportaram a excessiva dose de radiação [...] e morreram [...]"
-- "Somente em 1991 foi construído o depósito definitivo de rejeitos radioativos em Abadia de Goiás [...] a radiação e o potencial de contaminação permanecerão ativos por, pelo menos, 300 anos [...]"
-- Para a pergunta: "Nos três anos em que permanecera abandonada (1985 a 1987), a cápsula não fora objeto de nenhum ato de fiscalização da Comissão Nacional de Energia Nuclear (CNEN)."
+A pergunta não afirma que houve falta de fiscalização: só que o equipamento foi deixado nas ruínas ("equipamento abandonado").
 
 ## MA — Uma cidade quilombola
 
@@ -629,24 +630,23 @@ Fonte: FERREIRA, Simone Raquel Batista. "'Donos do lugar': a geo-grafia negra e 
 - "O 'imprensamento' trouxe a falta de espaço para a reprodução da vida e escassas alternativas de trabalho e sobrevivência. Dentre elas, a coleta dos resíduos de eucalipto não aproveitados pelas empresas – o 'facho' – vendidos como carvão para siderurgias ou como lenha para olarias."
 - "Essa atividade era proibida pela empresa – que dispunha de polícia particular para vigiar seus plantios contra a retirada de lenha ou qualquer outro produto pelos moradores locais – e se tornou o principal fator de conflito com as comunidades negras. Esse conflito adquiriu destaque a partir do ano de 2003, quando diversas pessoas foram presas enquanto coletavam os resíduos de eucalipto numa área recém-cortada pela Aracruz Celulose. As comunidades engendraram um enfrentamento à situação, exigindo a soltura das pessoas presas [...] Na ocasião, disseminados pelo Sapê do Norte, vários focos de incêndio queimaram talhões de eucalipto da empresa."
 
-## GO — Barrados por serem de Goiânia
+## GO — Quando ser de Goiás virou suspeita
 
-Fonte: o mesmo artigo de Suzane de Alencar Vieira usado na primeira entrada de GO (*Estudos Avançados*, 2013). URL: https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt
+Fonte (desde 2026-11-09): CHAVES, Elza Guedes. "Goiânia é azul: o acidente com o césio 137". *Revista UFG* (Universidade Federal de Goiás), v. 9, n. 1, 2007. Página: https://revistas.ufg.br/revistaufg/article/view/48158 — PDF: https://revistas.ufg.br/revistaufg/article/viewFile/48158/23497. A autora é apresentada no artigo como "Doutora em Ciências Sociais, professora da Universidade Católica de Goiás".
 
-- "No Estádio Olímpico, milhares de pessoas atormentadas pelas suspeitas de contaminação alongavam as filas para exames dosimétricos. Outras pessoas se encaminhavam ao Estádio a fim de solicitar atestados de descontaminação para fazer viagens para fora do Estado de Goiás. Em outros Estados, os goianienses eram barrados em hotéis, restaurantes e aeroportos, e veículos com placa de Goiânia eram depredados. Naqueles dias, tudo o que fosse originário do Estado de Goiás era tido como contaminado."
+- "Em decorrência das peculiaridades do evento, criou-se a necessidade de fazer circular entre a população uma série de informações normalmente restritas a especialistas que lidam com o césio 137 [...] A transmissão rápida dessas informações ocorreu principalmente pela utilização dos meios de comunicação de massa: imprensa e redes de rádio e televisão."
+- "[...] o público reelaborou essas informações e passou a adotar um comportamento discriminatório, inicialmente em relação aos atingidos e, posteriormente, em relação a todos os moradores das áreas onde os focos mais graves foram identificados. Em seguida, num crescendo, esse comportamento discriminatório foi estendido aos produtos e serviços comercializados nos bairros identificados como áreas do acidente, saltou os limites do município e as fronteiras do Estado e começou a se manifestar em relação às pessoas e mercadorias originárias de Goiás."
 
-O estádio é "o Estádio Olímpico", em Goiânia, onde as vítimas foram abrigadas ("[...] abrigados em barracas plásticas no Estádio Olímpico").
+Até 2026-11-09 esta entrada se chamava "Barrados por serem de Goiânia" e falava de hotéis, aeroportos e carros com placa de Goiânia depredados. Esses detalhes vinham só do artigo de Vieira, que é um relato em forma de narrativa (ver a nota abaixo, na entrada de Abadia), e não foram confirmados em outra fonte aceitável. Saíram do texto.
 
-## GO — Uma cidade com o símbolo da radiação
+## GO — Rejeitos por imposição
 
-Fonte: o mesmo artigo de Suzane de Alencar Vieira (*Estudos Avançados*, 2013). URL: https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt
+Fonte (desde 2026-11-09): IBGE, histórico do município de Abadia de Goiás (Divisão Territorial Brasileira). PDF: https://biblioteca.ibge.gov.br/visualizacao/dtb/goias/abadiadegoias.pdf — sem data de publicação visível (cita a divisão territorial de 2007; campo `ano`: "s.d.").
 
-- "A 20 quilômetros do perímetro urbano de Goiânia [...] O lixo radioativo era removido da Rua 57 para as imediações do bairro Vila Pedroso, em Abadia de Goiás [...]"
-- "No lugar designado para o depósito, os primeiros caminhões carregados com os tambores radioativos foram recebidos pelos moradores dos arredores com uma vigorosa artilharia de pedras e paus. [...] Policiais militares e agentes da Defesa Civil foram acionados para controlar a revolta popular [...]"
-- "Um 'cemitério atômico' seria, então, armado sorrateiramente. A cada anoitecer recomeçava o trabalho de construção do depósito. A noite era mais propícia para transportar os contêineres de lixo e contornar a resistência e a insatisfação popular."
-- "Oito anos mais tarde, no ano 1995, seria criado um novo município para abrigar o lixo radioativo que carregaria em sua bandeira o trevo quinado amarelo, símbolo da radioatividade. O depósito de rejeitos instalar-se-ia definitivamente nas adjacências do pequeno povoado emancipado como município de Abadia de Goiás."
+- "Em 29 setembro de 1987 com o acidente Radiológico ocorrido em Goiânia (CÉSIO 137) deu-se a vinda dos rejeitos ao povoado de Abadia de Goiás por imposição dos Governos Municipal e Estadual. Após a transferência criou-se pelo Decreto 666 de 05 de junho de 1990, assinado pelo Prefeito de Goiânia Nion Albernaz o Distrito de Abadia de Goiás, e em seguida o processo de Emancipação Política do referido Distrito, que ficou suspenso até meados de 1995."
+- "Elevado à categoria de município com a denominação de Abadia de Goiás, pela lei estadual nº 12799, de 27-12-1995 [...] Instalado em 01-01-1997."
 
-Atenção: o artigo diz que o município foi criado "para abrigar o lixo radioativo". O texto não repete essa motivação. Confira se quer incluí-la.
+**Correção (2026-11-09), depois do aviso de um colega do Luiz:** até esta data, a entrada se chamava "Uma cidade com o símbolo da radiação" e usava o artigo de Suzane de Alencar Vieira (*Estudos Avançados*, 2013), que se apresenta como "um experimento textual [...] baseada em personagens e acontecimentos reais". O texto dizia que a bandeira de Abadia "traz o trevo amarelo" da radioatividade. A *Monografia municipal* do IBGE (https://biblioteca.ibge.gov.br/visualizacao/periodicos/2976/momun_co_go_abadiadegoias.pdf, p. 3) mostra outra coisa: o trevo da radioatividade aparece em **azul**, no **brasão** do município, que fica no centro da bandeira. Como essa imagem está num documento diferente da fonte desta entrada, o brasão ficou fora do texto. Também saíram as pedras nos caminhões e a construção do depósito à noite, que só o artigo de Vieira relatava.
 
 ## MT — Primeiro lugar que ninguém quer
 

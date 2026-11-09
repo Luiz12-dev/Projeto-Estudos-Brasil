@@ -340,39 +340,39 @@
   {
     "uf": "GO",
     "titulo": "O brilho azul do césio-137",
-    "texto": "Em setembro de 1987, dois rapazes desempregados retiraram um aparelho de radioterapia abandonado nas ruínas de um instituto em Goiânia e venderam a peça a um ferro-velho. O pó de césio-137, que emitia uma luz azul à noite, passou de mão em mão entre vizinhos e parentes. A menina Leide das Neves, de seis anos, morreu depois de comer com as mãos sujas do pó. O lixo radioativo foi enterrado em Abadia de Goiás, onde deve permanecer ativo por pelo menos 300 anos.",
+    "texto": "Em 13 de setembro de 1987, dois sucateiros retiraram um equipamento abandonado das ruínas de uma antiga clínica de radioterapia, no centro de Goiânia, para vender o chumbo como sucata. No quintal de uma casa, romperam a peça e liberaram o césio-137, que brilhava em azul no escuro. Pessoas manipularam o pó como se fosse sucata comum. Quando o caso veio a público, 16 dias depois, 249 pessoas estavam contaminadas ou irradiadas; quatro morreram em menos de um mês.",
     "periodo": "1987",
-    "pergunta": "A cápsula ficou anos abandonada sem fiscalização. Em um desastre assim, de quem é a responsabilidade: de quem encontrou o material ou de quem deveria vigiá-lo?",
+    "pergunta": "O equipamento foi deixado nas ruínas de uma clínica. Em um desastre assim, de quem é a responsabilidade: de quem encontrou o material ou de quem deveria vigiá-lo?",
     "fonte": {
-      "nome": "Suzane de Alencar Vieira — Estudos Avançados",
-      "ano": "2013",
-      "url": "https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt"
+      "nome": "Elza Guedes Chaves — Revista UFG",
+      "ano": "2007",
+      "url": "https://revistas.ufg.br/revistaufg/article/view/48158"
     },
     "verificado": true
   },
   {
     "uf": "GO",
-    "titulo": "Barrados por serem de Goiânia",
-    "texto": "Depois do acidente com o césio-137, em 1987, milhares de pessoas fizeram fila no Estádio Olímpico de Goiânia para exames de contaminação. Muitas pediam atestados de descontaminação para poder viajar. Em outros estados, goianienses eram barrados em hotéis, restaurantes e aeroportos, e veículos com placa de Goiânia eram depredados. Naqueles dias, tudo o que vinha de Goiás era tratado como contaminado.",
+    "titulo": "Quando ser de Goiás virou suspeita",
+    "texto": "Depois do acidente com o césio-137 em Goiânia, em 1987, informações antes restritas a especialistas passaram a circular pela imprensa, pelo rádio e pela TV. Segundo a pesquisadora Elza Guedes Chaves, o público reelaborou essas informações e passou a discriminar: primeiro os atingidos, depois todos os moradores dos bairros mais afetados e os produtos vendidos ali. Por fim, a discriminação atravessou as fronteiras do estado e atingiu pessoas e mercadorias vindas de Goiás.",
     "periodo": "1987",
-    "pergunta": "Por que o medo se voltou contra as vítimas, e não contra os responsáveis pelo abandono da cápsula? Você conhece outros casos em que uma doença ou desastre gerou preconceito?",
+    "pergunta": "Por que o medo se voltou contra as vítimas, e não contra os responsáveis pelo abandono do equipamento? Você conhece outros casos em que uma doença ou desastre gerou preconceito?",
     "fonte": {
-      "nome": "Suzane de Alencar Vieira — Estudos Avançados",
-      "ano": "2013",
-      "url": "https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt"
+      "nome": "Elza Guedes Chaves — Revista UFG",
+      "ano": "2007",
+      "url": "https://revistas.ufg.br/revistaufg/article/view/48158"
     },
     "verificado": true
   },
   {
     "uf": "GO",
-    "titulo": "Uma cidade com o símbolo da radiação",
-    "texto": "O lixo radioativo do césio-137 foi levado para perto de Abadia de Goiás, a 20 km de Goiânia. Os moradores receberam os primeiros caminhões com pedras e paus, e a polícia foi chamada para conter a revolta. O depósito passou a ser erguido à noite, para evitar a resistência. Em 1995, Abadia virou município — e sua bandeira traz o trevo amarelo, símbolo da radioatividade.",
-    "periodo": "1987–1995",
+    "titulo": "Rejeitos por imposição",
+    "texto": "Em 1987, os rejeitos radioativos do acidente com o césio-137 em Goiânia foram levados para o povoado de Abadia de Goiás “por imposição dos Governos Municipal e Estadual”, segundo o histórico do município publicado pelo IBGE. Depois da transferência, em 1990, o povoado virou distrito de Goiânia. O processo de emancipação ficou suspenso até meados de 1995, quando Abadia de Goiás foi elevada a município, instalado em 1997.",
+    "periodo": "1987–1997",
     "pergunta": "Quem decide onde fica o lixo perigoso de uma sociedade? Por que, muitas vezes, ele vai para perto de quem tem menos poder?",
     "fonte": {
-      "nome": "Suzane de Alencar Vieira — Estudos Avançados",
-      "ano": "2013",
-      "url": "https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt"
+      "nome": "IBGE — Histórico do município de Abadia de Goiás",
+      "ano": "s.d.",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/dtb/goias/abadiadegoias.pdf"
     },
     "verificado": true
   },
