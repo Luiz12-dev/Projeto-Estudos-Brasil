@@ -129,5 +129,10 @@ function montar(painel: HTMLElement, nome: string, todas: Curiosidade[], indice:
     );
     rodape.append(nav);
   }
+  // No celular o mapa fica acima do painel: atalho para escolher outro estado.
+  rodape.append(botao('↑ Escolher outro estado', 'voltar-mapa', () => {
+    const mapa = document.querySelector<HTMLElement>('.cartao-mapa');
+    mapa?.scrollIntoView({ behavior: reduzMovimento.matches ? 'auto' : 'smooth', block: 'start' });
+  }));
   painel.append(rodape);
 }

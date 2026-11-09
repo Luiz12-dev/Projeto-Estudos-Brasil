@@ -145,7 +145,7 @@ svg.com-destaque .uf:not(.ativo) { opacity: 0.45; }
   top: 12px;
   right: 16px;
   z-index: 1;
-  min-height: 38px;
+  min-height: 44px;
   font-size: 0.85rem;
   box-shadow: var(--sombra);
 }
@@ -216,7 +216,7 @@ svg.com-destaque .uf:not(.ativo) { opacity: 0.45; }
 /* Carimbo de "em conferência": texto + borda, não só cor. */
 .carimbo { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; font-size: 0.82rem; color: var(--suave); }
 .carimbo strong {
-  font: 700 0.7rem var(--mono);
+  font: 700 0.75rem var(--mono);
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--alerta);
@@ -234,7 +234,7 @@ svg.com-destaque .uf:not(.ativo) { opacity: 0.45; }
   border-left: 3px solid var(--alerta);
   border-radius: 0 var(--raio-controle) var(--raio-controle) 0;
 }
-.pergunta h3 { font: 700 0.72rem system-ui, sans-serif; letter-spacing: 0.08em; text-transform: uppercase; color: var(--alerta); }
+.pergunta h3 { font: 700 0.75rem system-ui, sans-serif; letter-spacing: 0.08em; text-transform: uppercase; color: var(--alerta); }
 .pergunta p { margin-top: 4px; font-family: var(--serif); font-size: 1.05rem; line-height: 1.45; }
 
 .painel-rodape {
@@ -245,11 +245,14 @@ svg.com-destaque .uf:not(.ativo) { opacity: 0.45; }
   border-top: 1px solid var(--borda);
 }
 .fonte { display: grid; gap: 2px; font-size: 0.88rem; color: var(--suave); overflow-wrap: anywhere; }
-.rotulo-fonte { font-size: 0.7rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; }
+.rotulo-fonte { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; }
 .acoes { display: flex; align-items: center; gap: 12px; }
 .status { font-size: 0.85rem; color: var(--suave); }
 .navegacao { display: flex; gap: 8px; }
 .navegacao button { flex: 1; font-weight: 600; }
+.navegacao .proxima { background: var(--acao); color: var(--sobre-acao); }
+.navegacao .proxima:hover { background: var(--texto); border-color: var(--texto); color: var(--superficie); }
+.voltar-mapa { border-color: var(--borda-forte); color: var(--texto); }
 
 /* Boas-vindas (antes de escolher um estado) */
 .boas-vindas { display: grid; gap: 12px; padding: 22px 20px 24px; }
@@ -314,7 +317,20 @@ button:focus-visible { outline: 3px solid var(--texto); outline-offset: 2px; }
 .rodape-int { display: grid; gap: 8px; padding-block: 22px 28px; font-size: 0.85rem; color: var(--suave); max-width: 1180px; }
 .rodape-int strong { color: var(--texto); }
 
+/* Celular: cabeçalho compacto para o mapa aparecer na primeira tela. */
+@media (max-width: 599px) {
+  .topo-int { padding-block: 16px 18px; gap: 6px; }
+  .topo h1 { font-size: 1.65rem; }
+  .subtitulo { font-size: 0.92rem; line-height: 1.45; }
+  .numeros { display: none; }
+  .layout { padding-block: 14px 8px; gap: 14px; }
+  .cartao-cab { padding: 10px 14px; }
+  #mapa { padding: 8px 10px 12px; }
+  .ver-brasil { top: 8px; right: 10px; }
+}
+
 @media (min-width: 900px) {
+  .voltar-mapa { display: none; }
   .layout { grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr); align-items: start; }
   .cartao-lista { grid-column: 1 / -1; }
   #painel { position: sticky; top: 16px; max-height: calc(100vh - 32px); overflow-y: auto; }
