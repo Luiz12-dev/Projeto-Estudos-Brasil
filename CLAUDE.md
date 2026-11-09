@@ -117,6 +117,8 @@ export type Curiosidade = {
 > **Alteração aprovada pelo Luiz em 2026-10-20:**
 > 1. **Exibição em conferência.** Enquanto a conferência humana não termina, entradas com `verificado: false` aparecem no site com o aviso "Em conferência — fonte ainda não revisada pelo curador". Para voltar à regra original, troque `MOSTRAR_EM_CONFERENCIA` para `false` em `src/painel.ts`.
 > 2. **Várias curiosidades por recorte.** O schema não mudou: o JSON pode ter mais de uma entrada com a mesma `uf`, e o painel navega entre elas.
+>
+> **Alteração aprovada pelo Luiz em 2026-11-09:** o Luiz delegou ao agente a conferência final das 80 entradas e a troca para `verificado: true`. O método, as correções e os limites estão em `docs/EVIDENCIAS.md`, seção "Conferência final". Entradas novas ou alteradas voltam a nascer com `verificado: false`.
 
 ## 7. Regras de conteúdo — crítico
 

@@ -1,97 +1,125 @@
 # Evidências das curiosidades
 
-Para cada entrada de `public/data/curiosidades.json`: a URL aberta durante a pesquisa e o trecho exato que sustenta cada dado do texto. Serve para a conferência humana antes de marcar `verificado: true` (CLAUDE.md, seção 7.1).
+Para cada entrada de `public/data/curiosidades.json`: a URL aberta durante a pesquisa e o trecho exato que sustenta cada dado do texto. Serve para a conferência antes de marcar `verificado: true` (CLAUDE.md, seção 7.1).
 
 Como conferir: abra a URL, localize o trecho (Ctrl+F) e confirme que o texto da curiosidade não diz nada além do que o trecho diz.
+
+## Conferência final (2026-11-09)
+
+Pedido do Luiz em 2026-11-09: o agente conferiu todas as fontes e marcou as entradas como verificadas. Método:
+
+1. **Reabertura das fontes.** As 37 URLs usadas no site foram abertas de novo nesse dia, e o texto de cada página ou PDF foi extraído.
+2. **Trechos.** Cada trecho citado neste arquivo foi procurado no texto da fonte: os 80 têm seção de evidência, e todos os trechos aparecem na fonte (as diferenças encontradas eram só de quebra de linha ou de coluna em PDF).
+3. **Números.** Todo número do texto exibido foi procurado nos trechos ou, quando não estava neles, no texto da fonte (ex.: "cinquenta" açoites no Código Criminal, "vinte e seis" familiares no Carandiru).
+4. **Comparações entre UFs** (maior crescimento, segunda maior etc.) foram recalculadas a partir da Tabela 3 do Censo 2022 (27 UFs lidas do PDF): todas conferem.
+5. **Nome e ano das fontes** foram conferidos com o próprio documento ou com o registro do repositório que o publica.
+
+Correções feitas nessa conferência:
+
+- **AC, MT e RO (hanseníase):** o capítulo de Penna et al. não está em *Saúde Brasil 2008*, como o cabeçalho do PDF da Fiocruz indicava, e sim em *Saúde Brasil 2009: uma análise da situação de saúde e da agenda nacional e internacional de prioridades em saúde* (Brasília: Ministério da Saúde, 2010, p. 295-318, ISBN 978-85-334-1737-3). Confirmado no registro do repositório Arca (https://arca.fiocruz.br/handle/icict/43970) e no sumário do livro oficial (https://bvsms.saude.gov.br/bvs/publicacoes/saude_brasil_2009.pdf). O nome da fonte, o ano (2010) e o texto do MT ("relatório Saúde Brasil 2009") foram corrigidos.
+- **AC (borracha):** o PDF do livro de Martinello mudou de endereço. O link antigo (www2.ufac.br) não abre mais; o novo, na página da Edufac, é o mesmo livro (mesmo ISBN): https://www.ufac.br/editora/publicacoes/a-batalha-da-borracha-na-segunda-guerra-mundial/AbatalhadaborrachanaSegundaGuerraMundial.pdf
+- **RS (Vindos da África):** "recém-chegados que ainda não falavam português" virou "que ainda não conheciam a língua portuguesa", porque a fonte define os "africanos novos" só pelo idioma, não pela data de chegada.
+- **Anos que estavam como TODO:** PR = 2023 (a página diz "Publicado em 7 de setembro de 2023"); AC, MT e RO = 2010 (acima); BA, MA e MG (IBGE Educa) e DF (artigo de Bicalho de Sousa) = "s.d." (sem data), porque nenhum dos documentos mostra a data de publicação.
+
+Decisões sobre as notas de "Atenção":
+
+- **Fontes sem revisão por pares** (ES: TCC da UFES; RN: e-book do PIBID/UERN; PR: projeto de extensão da UFPR; AL: notícia da UFAL): aceitas, porque são publicações de universidades públicas, que estão na lista de fontes aceitáveis do CLAUDE.md, e os trechos usados foram conferidos. Fiocruz e Ministério da Saúde (AM, RO, AC, MT): aceitos como instituições públicas de pesquisa e saúde, equivalentes às da lista.
+- **Dados em disputa:** os textos já mostram quem mede o quê (seção 7 do CLAUDE.md). Nada a mudar.
+- **Tamanho dos textos** (260 a 510 caracteres): mantido. Encurtar 80 textos agora criaria risco de erro; o painel foi desenhado para textos desse tamanho.
+
+Limites desta conferência:
+
+- Duas páginas pedem uma verificação anti-robô e não abriram para o agente nesse dia: IBGE Educa "Quilombolas" (BA, MA, MG) e o artigo dos *Anais do Museu Paulista* na SciELO (PE). Para elas foram usadas as cópias salvas quando as páginas foram abertas na pesquisa (2026-10-20). Num navegador comum elas abrem normalmente.
+- O repositório da UFPB (PB) às vezes responde com erro 500; numa nova tentativa o PDF abriu e é idêntico ao da pesquisa.
 
 ## Lista de conferência
 
 São 80 curiosidades. A coluna "Atenção" é gerada a partir das notas de cada evidência abaixo.
 
-Depois de conferir uma entrada, marque `[x]` aqui e troque `"verificado": false` por `true` em `public/data/curiosidades.json`. Ou avise o agente quais UFs foram aprovadas.
+Todas as 80 entradas foram conferidas em 2026-11-09 e estão com `verificado: true` (ver "Conferência final" acima). Se uma entrada mudar, volte-a para `false` até conferir de novo.
 
 | UF | Título | Atenção | Conferido |
 |---|---|---|---|
-| BR | A fome tem endereço e cor | — | [ ] |
-| BR | Um país que se declara diferente | — | [ ] |
-| BR | Quem passa fome no Brasil | — | [ ] |
-| AC | Nem revolução, nem acreana? | ver "Atenção" | [ ] |
-| AC | Quantos soldados da borracha sumiram? | dado em disputa; ver "Atenção" | [ ] |
-| AC | A doença que seguiu a borracha | `ano` TODO | [ ] |
-| AL | Destruir Palmares dava prêmio | — | [ ] |
-| AL | A noite em que quebraram os terreiros | fonte sem revisão por pares; ver "Atenção" | [ ] |
-| AL | Os sobreviventes de Palmares | — | [ ] |
-| AP | Desterrados no Oiapoque | dado em disputa | [ ] |
-| AP | Escravizados no governo de Counani | — | [ ] |
-| AM | Os soldados esquecidos da borracha | ver "Atenção" | [ ] |
-| AM | Quase meio milhão de indígenas | — | [ ] |
-| AM | Floresta derrubada, malária em alta | ver "Atenção" | [ ] |
-| BA | Quilombo não é só passado | `ano` TODO | [ ] |
-| BA | O estado mais preto do Brasil | — | [ ] |
-| BA | 234 processos e papéis em árabe | texto de 1907 (linguagem da época); ver "Atenção" | [ ] |
-| CE | Campos de concentração no sertão | — | [ ] |
-| CE | A polícia tomava, mas devolvia | — | [ ] |
-| CE | O Ceará indígena | — | [ ] |
-| DF | Quantos morreram na construção de Brasília? | dado em disputa; `ano` TODO | [ ] |
-| DF | Viradas de 24 horas | `ano` TODO | [ ] |
-| DF | A polícia paga pela construtora | `ano` TODO | [ ] |
-| ES | A revolta no dia da festa | dado em disputa; fonte sem revisão por pares; ver "Atenção" | [ ] |
-| ES | A lenha que virou conflito | — | [ ] |
-| ES | De revolta esquecida a patrimônio | fonte sem revisão por pares | [ ] |
-| GO | O brilho azul do césio-137 | — | [ ] |
-| GO | Barrados por serem de Goiânia | — | [ ] |
-| GO | Uma cidade com o símbolo da radiação | ver "Atenção" | [ ] |
-| MA | Uma cidade quilombola | `ano` TODO | [ ] |
-| MA | Foguetes no território quilombola | ver "Atenção" | [ ] |
-| MA | Movimentos dos atingidos pela base | — | [ ] |
-| MT | Uma doença antiga na fronteira nova | `ano` TODO | [ ] |
-| MT | Primeiro lugar que ninguém quer | — | [ ] |
-| MS | Confinados em 60 hectares | — | [ ] |
-| MS | De 40 mil km² a pequenas reservas | — | [ ] |
-| MS | Diversidade em Mato Grosso do Sul | — | [ ] |
-| MG | O “trem de doido” de Barbacena | dado em disputa | [ ] |
-| MG | Minas quilombola | `ano` TODO | [ ] |
-| MG | Internar demais | ver "Atenção" | [ ] |
-| PA | A revolução que dizimou a Amazônia | dado em disputa | [ ] |
-| PA | Rebeldes em nome do imperador | — | [ ] |
-| PA | Cidades transformadas em quartéis | — | [ ] |
-| PB | O fim do cambão | ver "Atenção" | [ ] |
-| PB | A viúva que assumiu a luta | — | [ ] |
-| PR | O açoite que a lei manteve | `ano` TODO; ver "Atenção" | [ ] |
-| PR | O primeiro combate do Contestado | — | [ ] |
-| PR | O professor escravizado | `ano` TODO | [ ] |
-| PE | “Liga” era apelido | ver "Atenção" | [ ] |
-| PE | Guerra aos mocambos | — | [ ] |
-| PE | Pernambuco, refúgio dos terreiros | — | [ ] |
-| PI | Quando o dono era o Estado | — | [ ] |
-| PI | Indígenas no Piauí | — | [ ] |
-| PI | Os primeiros construtores de Teresina | — | [ ] |
-| RJ | O cais que ficou enterrado | dado em disputa | [ ] |
-| RJ | A região que resistiu | — | [ ] |
-| RJ | Preto, sim; indígena, quase nada | — | [ ] |
-| RN | Os libertos que libertavam | fonte sem revisão por pares; ver "Atenção" | [ ] |
-| RN | Indígenas no Rio Grande do Norte | — | [ ] |
-| RN | O capitão do mato cercado | ver "Atenção" | [ ] |
-| RS | O charque era feito por escravizados | — | [ ] |
-| RS | Vindos da África | — | [ ] |
-| RS | O estado mais branco | — | [ ] |
-| RO | A ferrovia que não valeu a pena | dado em disputa; fonte fora da lista; ver "Atenção" | [ ] |
-| RO | Um estado de migrantes | `ano` TODO | [ ] |
-| RO | Um cientista para calar as críticas | — | [ ] |
-| RR | O estado mais indígena do país | — | [ ] |
-| RR | O estado que mais cresceu | — | [ ] |
-| RR | Quando o garimpo chegou | ver "Atenção" | [ ] |
-| SC | Os “pelados” contra a ferrovia | — | [ ] |
-| SC | Santa Catarina menos branca | — | [ ] |
-| SC | Da guerra às serrarias | ver "Atenção" | [ ] |
-| SP | 111 mortos no Carandiru | ver "Atenção" | [ ] |
-| SP | Os colonos negros que a história esqueceu | — | [ ] |
-| SP | Metade do salário, o dobro da luta | — | [ ] |
-| SE | Cabeças em exposição | dado em disputa | [ ] |
-| SE | Cabeça em troca de promoção | ver "Atenção" | [ ] |
-| SE | Três em cada quatro nasceram aqui | — | [ ] |
-| TO | Guias à força | — | [ ] |
-| TO | O terceiro estado mais preto do país | — | [ ] |
+| BR | A fome tem endereço e cor | — | [x] |
+| BR | Um país que se declara diferente | — | [x] |
+| BR | Quem passa fome no Brasil | — | [x] |
+| AC | Nem revolução, nem acreana? | ver "Atenção" | [x] |
+| AC | Quantos soldados da borracha sumiram? | dado em disputa; ver "Atenção" | [x] |
+| AC | A doença que seguiu a borracha | — | [x] |
+| AL | Destruir Palmares dava prêmio | — | [x] |
+| AL | A noite em que quebraram os terreiros | fonte sem revisão por pares; ver "Atenção" | [x] |
+| AL | Os sobreviventes de Palmares | — | [x] |
+| AP | Desterrados no Oiapoque | dado em disputa | [x] |
+| AP | Escravizados no governo de Counani | — | [x] |
+| AM | Os soldados esquecidos da borracha | ver "Atenção" | [x] |
+| AM | Quase meio milhão de indígenas | — | [x] |
+| AM | Floresta derrubada, malária em alta | ver "Atenção" | [x] |
+| BA | Quilombo não é só passado | — | [x] |
+| BA | O estado mais preto do Brasil | — | [x] |
+| BA | 234 processos e papéis em árabe | texto de 1907 (linguagem da época); ver "Atenção" | [x] |
+| CE | Campos de concentração no sertão | — | [x] |
+| CE | A polícia tomava, mas devolvia | — | [x] |
+| CE | O Ceará indígena | — | [x] |
+| DF | Quantos morreram na construção de Brasília? | dado em disputa | [x] |
+| DF | Viradas de 24 horas | — | [x] |
+| DF | A polícia paga pela construtora | — | [x] |
+| ES | A revolta no dia da festa | dado em disputa; fonte sem revisão por pares; ver "Atenção" | [x] |
+| ES | A lenha que virou conflito | — | [x] |
+| ES | De revolta esquecida a patrimônio | fonte sem revisão por pares | [x] |
+| GO | O brilho azul do césio-137 | — | [x] |
+| GO | Barrados por serem de Goiânia | — | [x] |
+| GO | Uma cidade com o símbolo da radiação | ver "Atenção" | [x] |
+| MA | Uma cidade quilombola | — | [x] |
+| MA | Foguetes no território quilombola | ver "Atenção" | [x] |
+| MA | Movimentos dos atingidos pela base | — | [x] |
+| MT | Uma doença antiga na fronteira nova | — | [x] |
+| MT | Primeiro lugar que ninguém quer | — | [x] |
+| MS | Confinados em 60 hectares | — | [x] |
+| MS | De 40 mil km² a pequenas reservas | — | [x] |
+| MS | Diversidade em Mato Grosso do Sul | — | [x] |
+| MG | O “trem de doido” de Barbacena | dado em disputa | [x] |
+| MG | Minas quilombola | — | [x] |
+| MG | Internar demais | ver "Atenção" | [x] |
+| PA | A revolução que dizimou a Amazônia | dado em disputa | [x] |
+| PA | Rebeldes em nome do imperador | — | [x] |
+| PA | Cidades transformadas em quartéis | — | [x] |
+| PB | O fim do cambão | ver "Atenção" | [x] |
+| PB | A viúva que assumiu a luta | — | [x] |
+| PR | O açoite que a lei manteve | ver "Atenção" | [x] |
+| PR | O primeiro combate do Contestado | — | [x] |
+| PR | O professor escravizado | — | [x] |
+| PE | “Liga” era apelido | ver "Atenção" | [x] |
+| PE | Guerra aos mocambos | — | [x] |
+| PE | Pernambuco, refúgio dos terreiros | — | [x] |
+| PI | Quando o dono era o Estado | — | [x] |
+| PI | Indígenas no Piauí | — | [x] |
+| PI | Os primeiros construtores de Teresina | — | [x] |
+| RJ | O cais que ficou enterrado | dado em disputa | [x] |
+| RJ | A região que resistiu | — | [x] |
+| RJ | Preto, sim; indígena, quase nada | — | [x] |
+| RN | Os libertos que libertavam | fonte sem revisão por pares; ver "Atenção" | [x] |
+| RN | Indígenas no Rio Grande do Norte | — | [x] |
+| RN | O capitão do mato cercado | ver "Atenção" | [x] |
+| RS | O charque era feito por escravizados | — | [x] |
+| RS | Vindos da África | — | [x] |
+| RS | O estado mais branco | — | [x] |
+| RO | A ferrovia que não valeu a pena | dado em disputa; fonte fora da lista; ver "Atenção" | [x] |
+| RO | Um estado de migrantes | — | [x] |
+| RO | Um cientista para calar as críticas | — | [x] |
+| RR | O estado mais indígena do país | — | [x] |
+| RR | O estado que mais cresceu | — | [x] |
+| RR | Quando o garimpo chegou | ver "Atenção" | [x] |
+| SC | Os “pelados” contra a ferrovia | — | [x] |
+| SC | Santa Catarina menos branca | — | [x] |
+| SC | Da guerra às serrarias | ver "Atenção" | [x] |
+| SP | 111 mortos no Carandiru | ver "Atenção" | [x] |
+| SP | Os colonos negros que a história esqueceu | — | [x] |
+| SP | Metade do salário, o dobro da luta | — | [x] |
+| SE | Cabeças em exposição | dado em disputa | [x] |
+| SE | Cabeça em troca de promoção | ver "Atenção" | [x] |
+| SE | Três em cada quatro nasceram aqui | — | [x] |
+| TO | Guias à força | — | [x] |
+| TO | O terceiro estado mais preto do país | — | [x] |
 
 
 ## BR — A fome tem endereço e cor
@@ -106,7 +134,7 @@ Atenção na conferência: buscas indicam que edições posteriores do IBGE revi
 
 ## BA — Quilombo não é só passado
 
-Fonte: IBGE Educa, página "Quilombolas". https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html — a página não mostra data de publicação (campo `ano` deixado como TODO).
+Fonte: IBGE Educa, página "Quilombolas". https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html — a página não mostra data de publicação (campo `ano`: "s.d.").
 
 - "Entre as Unidade da Federação, a Bahia é a que apresenta o maior quantitativo de quilombolas: 397.059 pessoas, correspondendo a 29,90% da população quilombola."
 - "O município de Senhor do Bonfim/BA possui o maior número de pessoas quilombolas (15.999). Na sequência: Salvador/BA, com 15.897, Alcântara/MA, com 15.616, e Januária/MG, com 15.000."
@@ -136,7 +164,7 @@ Observação: o artigo se define como "experimento textual" baseado em personage
 
 ## MA — Uma cidade quilombola
 
-Fonte: IBGE Educa, página "Quilombolas". https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html — sem data de publicação visível (campo `ano` como TODO).
+Fonte: IBGE Educa, página "Quilombolas". https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html — sem data de publicação visível (campo `ano`: "s.d.").
 
 - "O município de Alcântara/MA se destaca por ter a maior parte de sua população sendo quilombola; pois dos 18.466 habitantes, 15.616 (84,57%) são pessoas quilombolas."
 - "Em segundo lugar está o Maranhão, com 269.074 pessoas quilombolas, o que corresponde a 20,26% da população quilombola. Estas duas Unidades somadas representam 50,16% de toda a população quilombola do Brasil."
@@ -277,7 +305,7 @@ Dado em disputa: buscas mostram outras contagens de presos (948 no relatório of
 
 ## DF — Quantos morreram na construção de Brasília?
 
-Fonte: SOUSA, Nair Heloisa Bicalho de. "O massacre da Pacheco Fernandes Dantas em 1959: memória dos trabalhadores da construção civil de Brasília". PDF: https://unb.revistaintercambio.net.br/24h/pessoa/temp/anexo/1/1251/2053.pdf — a autora é apresentada como "Professora da Universidade de Brasília". O ano de publicação não aparece no texto (cita trabalhos de 2011, então é posterior a isso); campo `ano` como TODO. Outra cópia do mesmo texto: http://www.derhuman.jus.gov.ar/conti/2011/10/mesa_11/bicalho_mesa_11.pdf
+Fonte: SOUSA, Nair Heloisa Bicalho de. "O massacre da Pacheco Fernandes Dantas em 1959: memória dos trabalhadores da construção civil de Brasília". PDF: https://unb.revistaintercambio.net.br/24h/pessoa/temp/anexo/1/1251/2053.pdf — a autora é apresentada como "Professora da Universidade de Brasília". O ano de publicação não aparece no texto (cita trabalhos de 2011, então é posterior a isso); campo `ano`: "s.d.". Outra cópia do mesmo texto: http://www.derhuman.jus.gov.ar/conti/2011/10/mesa_11/bicalho_mesa_11.pdf
 
 **Dado em disputa** (seção 7 do CLAUDE.md): o texto mostra as três contagens e quem as fez.
 
@@ -290,7 +318,7 @@ Fonte: SOUSA, Nair Heloisa Bicalho de. "O massacre da Pacheco Fernandes Dantas e
 
 ## MT — Uma doença antiga na fronteira nova
 
-Fonte: PENNA, Maria Lucia Fernandes; GROSS, Maria Aparecida de Faria; ROCHA, Margarida Cristiana Napoleão; PENNA, Gerson Oliveira. "Comportamento epidemiológico da hanseníase no Brasil". Capítulo 12 de *Saúde Brasil 2008: 20 anos de Sistema Único de Saúde (SUS) no Brasil*, Secretaria de Vigilância em Saúde/Ministério da Saúde. PDF no repositório Arca/Fiocruz: https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content — o ano de publicação não aparece no trecho (o capítulo analisa 1980-2009), então o campo `ano` ficou como TODO. Uma busca indica que o livro *Saúde Brasil 2008* foi impresso em 2009 (Ministério da Saúde, ISBN 978-85-334-1600-0), mas o PDF oficial (https://bvsms.saude.gov.br/bvs/publicacoes/saude_brasil_2008.pdf) não abriu no ambiente do agente: confira antes de preencher.
+Fonte: PENNA, Maria Lucia Fernandes; GROSS, Maria Aparecida de Faria; ROCHA, Margarida Cristiana Napoleão; PENNA, Gerson Oliveira. "Comportamento epidemiológico da hanseníase no Brasil". Capítulo 12 de *Saúde Brasil 2009: uma análise da situação de saúde e da agenda nacional e internacional de prioridades em saúde*. Brasília: Ministério da Saúde, 2010, p. 295-318 (corrigido em 2026-11-09; ver "Conferência final"). PDF no repositório Arca/Fiocruz: https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content. Registro do repositório: https://arca.fiocruz.br/handle/icict/43970 (data de publicação: 2010). O cabeçalho das páginas do PDF diz *Saúde Brasil 2008*, mas o livro de 2008 não tem este capítulo; o de 2009 tem, a partir da p. 295.
 
 - "As áreas dos clusters na região Amazônica coincidem com áreas de projetos de assentamento e de polos de desenvolvimento agropecuário. No censo de 1980, não haviam nascido no estado de residência 35,5% da população no Mato Grosso e 40,7% em Rondônia. A densidade demográfica passou de 0,15 habitante por km2, em 1950, para 5,8 habitantes/km2 em 2000, em Rondônia; e de 0,42 para 2,47, nos mesmos anos, em Mato Grosso [...]"
 - "Apresentam taxa de detecção, em menores de 15 anos, maior do que dez casos por 100 mil habitantes os estados de Rondônia, Pará, Tocantins, Maranhão, Piauí, Pernambuco e Mato Grosso, refletindo transmissão recente do bacilo."
@@ -330,7 +358,7 @@ O período (1760–1871) vai da criação das Fazendas do Fisco até o fim do re
 
 ## PR — O açoite que a lei manteve
 
-Fonte: Projeto de Extensão Afro Curitiba (UFPR), página "Cadeia e Pelourinho: histórias de escravidão". https://afrocuritiba.ufpr.br/praca-borges-de-macedo/ — sem data de publicação visível (campo `ano` como TODO).
+Fonte: Projeto de Extensão Afro Curitiba (UFPR), página "Cadeia e Pelourinho: histórias de escravidão". https://afrocuritiba.ufpr.br/praca-borges-de-macedo/ — a página diz "Publicado em 7 de setembro de 2023" (campo `ano`: 2023).
 
 - "Na atual Praça Borges de Macedo, duas referências nos dizem algumas coisas sobre as experiências vividas por pessoas escravizadas na cidade de Curitiba. [...] Um deles é o monumento que rememora o pelourinho."
 - "Na memória contemporânea, entretanto, o Pelourinho tornou-se um símbolo da escravidão [...]" / "Se o Pelourinho servia para aplicação de penas de pessoas livres tanto quanto de escravos, porque então, na memória contemporânea, o Pelourinho é tão diretamente associado à opressão praticada contra os escravizados [...]?"
@@ -399,7 +427,7 @@ Notas: a fonte chama os guias de "bate-paus" e "mateiros" (nota 68: "Homens cont
 
 ## AC — Quantos soldados da borracha sumiram?
 
-Fonte: MARTINELLO, Pedro. *A batalha da borracha na Segunda Guerra Mundial*. Rio Branco: Edufac, 2024 (ISBN 978-65-88975-82-4). PDF: http://www2.ufac.br/editora/livros/Abatalha.pdf
+Fonte: MARTINELLO, Pedro. *A batalha da borracha na Segunda Guerra Mundial*. Rio Branco: Edufac, 2024 (ISBN 978-65-88975-82-4). PDF: https://www.ufac.br/editora/publicacoes/a-batalha-da-borracha-na-segunda-guerra-mundial/AbatalhadaborrachanaSegundaGuerraMundial.pdf (endereço antigo, que não abre mais: http://www2.ufac.br/editora/livros/Abatalha.pdf)
 
 **Dado em disputa:** o texto mostra os três números e quem os deu.
 
@@ -412,11 +440,11 @@ O período 1942–1945 é o da Segunda Guerra, contexto do livro. Atenção: o l
 
 ## AC — A doença que seguiu a borracha
 
-Fonte: o mesmo capítulo usado na entrada do MT ("Comportamento epidemiológico da hanseníase no Brasil", *Saúde Brasil 2008*, Ministério da Saúde). PDF: https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content
+Fonte: o mesmo capítulo usado na entrada do MT ("Comportamento epidemiológico da hanseníase no Brasil", *Saúde Brasil 2009*, Ministério da Saúde, 2010). PDF: https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content
 
 - "Agrícola (1975) avaliou a situação epidemiológica da hanseníase no País, em 1973, apontando que o estado do Acre, com economia baseada na borracha, tinha a pior situação epidemiológica. Ele também aponta que a região Nordeste tinha então o menor coeficiente de prevalência. Atualmente, os estados pertencentes à Amazônia brasileira apresentam a pior situação epidemiológica da hanseníase, com os maiores coeficientes de detecção. A região Nordeste foi substituída pela região Sul como aquela com menos hanseníase."
 
-"Atualmente" no trecho se refere à época do estudo (série 1980-2009), por isso o texto diz "décadas depois". Ano de publicação como TODO: veja a nota da entrada do MT.
+"Atualmente" no trecho se refere à época do estudo (série 1980-2009), por isso o texto diz "décadas depois". Ano de publicação: 2010, veja a nota da entrada do MT.
 
 ## AM — Quase meio milhão de indígenas
 
@@ -463,7 +491,7 @@ O texto diz "o menino Pedro II" porque a fonte fala em "Imperador menino, Pedro 
 
 ## RO — Um estado de migrantes
 
-Fonte: o mesmo capítulo de *Saúde Brasil 2008* usado na entrada do MT. PDF: https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content
+Fonte: o mesmo capítulo de *Saúde Brasil 2009* (2010) usado na entrada do MT. PDF: https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content
 
 - "As áreas dos clusters na região Amazônica coincidem com áreas de projetos de assentamento e de polos de desenvolvimento agropecuário. No censo de 1980, não haviam nascido no estado de residência 35,5% da população no Mato Grosso e 40,7% em Rondônia. A densidade demográfica passou de 0,15 habitante por km2, em 1950, para 5,8 habitantes/km2 em 2000, em Rondônia [...] Há, ainda, a circulação de garimpeiros, à procura de ouro e cassiterita, nas áreas desses clusters."
 
@@ -703,7 +731,7 @@ Fonte: a mesma dissertação de Marcelo Garcia da Rocha usada na primeira entrad
 - "Para os registros de 1809-1825, num um total de 6.984 cativos que deram entrada nas bandas do Rio Grande do Sul, a margem varia entre 95% (6.635) de africanos e 5% (349) de crioulos. Nesta contagem, temos um total de 5.375 africanos novos, correspondendo a 81%, e 1260 cativos ladinos, quantidade que se refere a 19% de escravos conhecedores de língua portuguesa (PESSI, 2008, p. 3)."
 - "[...] provinham do tronco linguístico Banto, o qual engloba as regiões de Angola, Benguela e Congo [...]" (citando FAUSTINO, 1991)
 
-"Que ainda não falavam português" resume a definição da fonte, que opõe os "africanos novos" aos "ladinos", "escravos conhecedores de língua portuguesa". Pela mesma fonte, Faustino diz que esses escravizados vinham em sua maioria do tráfico interprovincial (de Pernambuco e do Rio de Janeiro), não direto da África: o texto diz "Muitos vinham do tronco linguístico banto", sem dizer por qual rota.
+"Que ainda não conheciam a língua portuguesa" (até 2026-11-09: "recém-chegados que ainda não falavam português") resume a definição da fonte, que opõe os "africanos novos" aos "ladinos", "escravos conhecedores de língua portuguesa". Pela mesma fonte, Faustino diz que esses escravizados vinham em sua maioria do tráfico interprovincial (de Pernambuco e do Rio de Janeiro), não direto da África: o texto diz "Muitos vinham do tronco linguístico banto", sem dizer por qual rota.
 
 ## SC — Santa Catarina menos branca
 
