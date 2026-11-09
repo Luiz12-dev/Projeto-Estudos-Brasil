@@ -10,7 +10,7 @@
       "ano": "2024",
       "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102084.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "BR",
@@ -23,7 +23,7 @@
       "ano": "2023",
       "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "BR",
@@ -36,7 +36,7 @@
       "ano": "2024",
       "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102084.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "AC",
@@ -49,7 +49,7 @@
       "ano": "2024",
       "url": "https://periodicos.ufac.br/index.php/amazonicas/article/download/7500/4874/30059"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "AC",
@@ -60,9 +60,9 @@
     "fonte": {
       "nome": "Pedro Martinello — A batalha da borracha na Segunda Guerra Mundial (Edufac)",
       "ano": "2024",
-      "url": "http://www2.ufac.br/editora/livros/Abatalha.pdf"
+      "url": "https://www.ufac.br/editora/publicacoes/a-batalha-da-borracha-na-segunda-guerra-mundial/AbatalhadaborrachanaSegundaGuerraMundial.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "AC",
@@ -71,11 +71,11 @@
     "periodo": "1973",
     "pergunta": "O que uma doença pode revelar sobre as condições de vida e de trabalho de uma economia, como a da borracha?",
     "fonte": {
-      "nome": "Penna, Gross, Rocha e Penna — Saúde Brasil 2008 (Ministério da Saúde)",
-      "ano": "TODO: verificar",
+      "nome": "Penna, Gross, Rocha e Penna — Saúde Brasil 2009 (Ministério da Saúde)",
+      "ano": "2010",
       "url": "https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "AL",
@@ -88,7 +88,7 @@
       "ano": "2014",
       "url": "https://www.repositorio.ufal.br/bitstream/riufal/1383/1/Pelo%20bem%20de%20meus%20servi%C3%A7os,%20rogo-lhe%20est%C3%A1%20merc%C3%AA:%20A%20influ%C3%AAncia%20da%20guerra%20de%20Palmares%20na%20distribui%C3%A7%C3%A3o%20de%20merc%C3%AAs%20(Capitania%20de%20Pernambuco,%201660-1778).pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "AL",
@@ -101,7 +101,7 @@
       "ano": "2012",
       "url": "https://noticias.ufal.br/ufal/noticias/2012/01/quebra-do-xango-pesquisadores-avaliam-a-intolerancia-religiosa"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "AL",
@@ -114,7 +114,7 @@
       "ano": "2014",
       "url": "https://www.repositorio.ufal.br/bitstream/riufal/1383/1/Pelo%20bem%20de%20meus%20servi%C3%A7os,%20rogo-lhe%20est%C3%A1%20merc%C3%AA:%20A%20influ%C3%AAncia%20da%20guerra%20de%20Palmares%20na%20distribui%C3%A7%C3%A3o%20de%20merc%C3%AAs%20(Capitania%20de%20Pernambuco,%201660-1778).pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "AP",
@@ -127,7 +127,7 @@
       "ano": "2018",
       "url": "https://www2.unifap.br/editora/files/2018/05/Livro-Trabalhadores-Migra%C3%A7%C3%B5es-e-Natureza-no-Brasil-Equatorial.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "AP",
@@ -140,7 +140,7 @@
       "ano": "2018",
       "url": "https://www2.unifap.br/editora/files/2018/05/Livro-Trabalhadores-Migra%C3%A7%C3%B5es-e-Natureza-no-Brasil-Equatorial.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "AM",
@@ -153,7 +153,7 @@
       "ano": "2001",
       "url": "https://www.scielo.br/j/rbh/a/5GNSQTXnMM7kTM3rr8B4TrM/?format=html&lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "AM",
@@ -166,7 +166,7 @@
       "ano": "2023",
       "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "AM",
@@ -179,7 +179,7 @@
       "ano": "2023",
       "url": "https://ohs.coc.fiocruz.br/posts_ohs/o-avanco-sobre-a-amazonia-exploracao-economica-e-doencas/"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "BA",
@@ -189,10 +189,10 @@
     "pergunta": "Quilombo costuma aparecer nos livros como algo do passado colonial. O que muda quando sabemos que há quase 16 mil quilombolas vivendo hoje em Salvador?",
     "fonte": {
       "nome": "IBGE Educa — Quilombolas (Censo 2022)",
-      "ano": "TODO: verificar",
+      "ano": "s.d.",
       "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "BA",
@@ -205,7 +205,7 @@
       "ano": "2023",
       "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "BA",
@@ -218,7 +218,7 @@
       "ano": "1907",
       "url": "https://periodicos.ufba.br/index.php/afroasia/article/download/20764/13367"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "CE",
@@ -231,7 +231,7 @@
       "ano": "2001",
       "url": "https://www.scielo.br/j/rbh/a/5GNSQTXnMM7kTM3rr8B4TrM/?format=html&lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "CE",
@@ -244,7 +244,7 @@
       "ano": "2001",
       "url": "https://www.scielo.br/j/rbh/a/5GNSQTXnMM7kTM3rr8B4TrM/?format=html&lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "CE",
@@ -257,7 +257,7 @@
       "ano": "2023",
       "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "DF",
@@ -267,10 +267,10 @@
     "pergunta": "Quando a versão oficial e a memória dos trabalhadores divergem tanto, como um historiador deve tratar os números? Por que esse episódio ficou fora da história oficial da capital?",
     "fonte": {
       "nome": "Nair Heloisa Bicalho de Sousa (UnB) — artigo",
-      "ano": "TODO: verificar",
+      "ano": "s.d.",
       "url": "https://unb.revistaintercambio.net.br/24h/pessoa/temp/anexo/1/1251/2053.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "DF",
@@ -280,10 +280,10 @@
     "pergunta": "Por que a versão de JK sobre os acidentes é tão diferente da memória dos operários? Quem escreve a história oficial de uma obra como Brasília?",
     "fonte": {
       "nome": "Nair Heloisa Bicalho de Sousa (UnB) — artigo",
-      "ano": "TODO: verificar",
+      "ano": "s.d.",
       "url": "https://unb.revistaintercambio.net.br/24h/pessoa/temp/anexo/1/1251/2053.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "DF",
@@ -293,10 +293,10 @@
     "pergunta": "Que problema existe quando a polícia que deveria proteger os trabalhadores é paga por quem os emprega?",
     "fonte": {
       "nome": "Nair Heloisa Bicalho de Sousa (UnB) — artigo",
-      "ano": "TODO: verificar",
+      "ano": "s.d.",
       "url": "https://unb.revistaintercambio.net.br/24h/pessoa/temp/anexo/1/1251/2053.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "ES",
@@ -309,7 +309,7 @@
       "ano": "2024",
       "url": "https://repositorio.ufes.br/server/api/core/bitstreams/be30139d-f403-4ba1-b74c-4f1313905e5a/content"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "ES",
@@ -322,7 +322,7 @@
       "ano": "2010",
       "url": "https://periodicos.ufes.br/geografares/article/download/1298/980/1568"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "ES",
@@ -335,7 +335,7 @@
       "ano": "2024",
       "url": "https://repositorio.ufes.br/server/api/core/bitstreams/be30139d-f403-4ba1-b74c-4f1313905e5a/content"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "GO",
@@ -348,7 +348,7 @@
       "ano": "2013",
       "url": "https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "GO",
@@ -361,7 +361,7 @@
       "ano": "2013",
       "url": "https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "GO",
@@ -374,7 +374,7 @@
       "ano": "2013",
       "url": "https://www.scielo.br/j/ea/a/pWxC3bW79km3cRFB83DXX3B/?lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "MA",
@@ -384,10 +384,10 @@
     "pergunta": "O que a forte presença quilombola no Maranhão revela sobre a história da escravidão e da resistência nessa região?",
     "fonte": {
       "nome": "IBGE Educa — Quilombolas (Censo 2022)",
-      "ano": "TODO: verificar",
+      "ano": "s.d.",
       "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "MA",
@@ -400,7 +400,7 @@
       "ano": "2023",
       "url": "https://periodicoseletronicos.ufma.br/index.php/rpcsoc/article/download/20939/11683/63313"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "MA",
@@ -413,20 +413,20 @@
       "ano": "2023",
       "url": "https://periodicoseletronicos.ufma.br/index.php/rpcsoc/article/download/20939/11683/63313"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "MT",
     "titulo": "Uma doença antiga na fronteira nova",
-    "texto": "Segundo um estudo publicado pelo Ministério da Saúde no relatório Saúde Brasil 2008, as áreas de maior risco de hanseníase na Amazônia coincidiam com projetos de assentamento e polos de desenvolvimento agropecuário. No Censo de 1980, 35,5% dos moradores de Mato Grosso não tinham nascido no estado. Entre 1950 e 2000, a densidade passou de 0,42 para 2,47 habitantes por km². Mato Grosso estava entre os estados com alta detecção em menores de 15 anos, sinal de transmissão recente.",
+    "texto": "Segundo um estudo publicado pelo Ministério da Saúde no relatório Saúde Brasil 2009, as áreas de maior risco de hanseníase na Amazônia coincidiam com projetos de assentamento e polos de desenvolvimento agropecuário. No Censo de 1980, 35,5% dos moradores de Mato Grosso não tinham nascido no estado. Entre 1950 e 2000, a densidade passou de 0,42 para 2,47 habitantes por km². Mato Grosso estava entre os estados com alta detecção em menores de 15 anos, sinal de transmissão recente.",
     "periodo": "1980–2009",
     "pergunta": "Por que uma doença pode acompanhar as frentes de ocupação e migração? Quem paga o custo de saúde da expansão da fronteira agrícola?",
     "fonte": {
-      "nome": "Penna, Gross, Rocha e Penna — Saúde Brasil 2008 (Ministério da Saúde)",
-      "ano": "TODO: verificar",
+      "nome": "Penna, Gross, Rocha e Penna — Saúde Brasil 2009 (Ministério da Saúde)",
+      "ano": "2010",
       "url": "https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "MT",
@@ -439,7 +439,7 @@
       "ano": "2021",
       "url": "https://www.scielo.br/j/eins/a/sFYSvJxNsH3MF3W4ydfzSnd/?lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "MS",
@@ -452,7 +452,7 @@
       "ano": "2010",
       "url": "https://ojs.ufgd.edu.br/FRONTEIRAS/article/download/598/715/3060"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "MS",
@@ -465,7 +465,7 @@
       "ano": "2010",
       "url": "https://ojs.ufgd.edu.br/FRONTEIRAS/article/download/598/715/3060"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "MS",
@@ -478,7 +478,7 @@
       "ano": "2023",
       "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "MG",
@@ -490,7 +490,7 @@
       "ano": "2021",
       "url": "https://www.scielo.br/j/sdeb/a/v9vGDrqDPfQt3KJkS5Kjndc/?lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "MG",
@@ -500,10 +500,10 @@
     "pergunta": "Minas costuma ser lembrada pelo ouro e pelas cidades históricas. Quem trabalhou nas minas, e onde estão hoje seus descendentes?",
     "fonte": {
       "nome": "IBGE Educa — Quilombolas (Censo 2022)",
-      "ano": "TODO: verificar",
+      "ano": "s.d.",
       "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "MG",
@@ -515,7 +515,7 @@
       "ano": "2021",
       "url": "https://www.scielo.br/j/sdeb/a/v9vGDrqDPfQt3KJkS5Kjndc/?lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "PA",
@@ -528,7 +528,7 @@
       "ano": "2007",
       "url": "https://www.scielo.br/j/tem/a/ZX5z5skg9g7YyC47qtn533N/?lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "PA",
@@ -541,7 +541,7 @@
       "ano": "2007",
       "url": "https://www.scielo.br/j/tem/a/ZX5z5skg9g7YyC47qtn533N/?lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "PA",
@@ -554,7 +554,7 @@
       "ano": "2000",
       "url": "https://repositorio.ufpa.br/jspui/bitstream/2011/2458/1/Dissertacao_GuerrilhaAraguaiaPaulistas.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "PB",
@@ -567,7 +567,7 @@
       "ano": "2019",
       "url": "https://repositorio.ufpb.br/jspui/bitstream/123456789/19966/1/JulianaFerreiraAlves_Dissert.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "PB",
@@ -580,7 +580,7 @@
       "ano": "2019",
       "url": "https://repositorio.ufpb.br/jspui/bitstream/123456789/19966/1/JulianaFerreiraAlves_Dissert.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "PR",
@@ -590,10 +590,10 @@
     "pergunta": "Como uma Constituição podia proibir o açoite e, seis anos depois, uma lei mantê-lo para escravizados? Quem era considerado “cidadão”?",
     "fonte": {
       "nome": "Projeto de Extensão Afro Curitiba (UFPR)",
-      "ano": "TODO: verificar",
+      "ano": "2023",
       "url": "https://afrocuritiba.ufpr.br/praca-borges-de-macedo/"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "PR",
@@ -606,7 +606,7 @@
       "ano": "2012",
       "url": "https://periodicos.ufsc.br/index.php/esbocos/article/download/2175-7976.2012v19n28p1/25643/104106"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "PR",
@@ -616,10 +616,10 @@
     "pergunta": "O que esse caso revela sobre quem podia ensinar e quem podia aprender no Brasil escravista? Por que os alunos deixaram a escola depois da troca de professor?",
     "fonte": {
       "nome": "Projeto de Extensão Afro Curitiba (UFPR)",
-      "ano": "TODO: verificar",
+      "ano": "2023",
       "url": "https://afrocuritiba.ufpr.br/praca-borges-de-macedo/"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "PE",
@@ -632,7 +632,7 @@
       "ano": "2016",
       "url": "https://www.scielo.br/j/rbh/a/R85xbJj5tVgt6YSDphF5gZS/?lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "PE",
@@ -645,7 +645,7 @@
       "ano": "2020",
       "url": "https://www.scielo.br/j/anaismp/a/LxQRQyCSGgMdzhsk9wwMwSt/?lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "PE",
@@ -658,7 +658,7 @@
       "ano": "2012",
       "url": "https://noticias.ufal.br/ufal/noticias/2012/01/quebra-do-xango-pesquisadores-avaliam-a-intolerancia-religiosa"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "PI",
@@ -671,7 +671,7 @@
       "ano": "2012",
       "url": "https://periodicos.ufpi.br/index.php/ie/article/download/1908/1735/5464"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "PI",
@@ -684,7 +684,7 @@
       "ano": "2023",
       "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "PI",
@@ -697,7 +697,7 @@
       "ano": "2012",
       "url": "https://periodicos.ufpi.br/index.php/ie/article/download/1908/1735/5464"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "RJ",
@@ -710,7 +710,7 @@
       "ano": "2015",
       "url": "https://www.scielo.br/j/rs/a/bCPNfFkbtrHvWDMwWmj66XG/?lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "RJ",
@@ -723,7 +723,7 @@
       "ano": "2015",
       "url": "https://www.scielo.br/j/rs/a/bCPNfFkbtrHvWDMwWmj66XG/?lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "RJ",
@@ -736,7 +736,7 @@
       "ano": "2023",
       "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "RN",
@@ -749,7 +749,7 @@
       "ano": "2024",
       "url": "https://portal.uern.br/wp-content/uploads/sites/14/2024/09/E-book-30-de-Setembro-por-uma-historia-da-libertacao.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "RN",
@@ -762,7 +762,7 @@
       "ano": "2023",
       "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "RN",
@@ -774,7 +774,7 @@
       "ano": "2024",
       "url": "https://portal.uern.br/wp-content/uploads/sites/14/2024/09/E-book-30-de-Setembro-por-uma-historia-da-libertacao.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "RS",
@@ -787,12 +787,12 @@
       "ano": "2014",
       "url": "https://wp.ufpel.edu.br/ppgmp/files/2016/11/Marcelo-Garcia.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "RS",
     "titulo": "Vindos da África",
-    "texto": "Entre 1788 e 1802, 88% dos escravizados desembarcados na capitania do Rio Grande eram africanos, segundo cálculos do historiador Berute sobre 3.294 pessoas. Entre 1809 e 1825, de 6.984 cativos que entraram no Rio Grande do Sul, 95% eram africanos, e 81% eram “africanos novos”, recém-chegados que ainda não falavam português. Muitos vinham do tronco linguístico banto, de regiões como Angola, Benguela e Congo.",
+    "texto": "Entre 1788 e 1802, 88% dos escravizados desembarcados na capitania do Rio Grande eram africanos, segundo cálculos do historiador Berute sobre 3.294 pessoas. Entre 1809 e 1825, de 6.984 cativos que entraram no Rio Grande do Sul, 95% eram africanos, e 81% eram “africanos novos”, que ainda não conheciam a língua portuguesa. Muitos vinham do tronco linguístico banto, de regiões como Angola, Benguela e Congo.",
     "periodo": "1788–1825",
     "pergunta": "O que significava chegar a uma terra estranha sem falar a língua, para trabalhar escravizado? Que marcas da cultura banto existem hoje no Sul?",
     "fonte": {
@@ -800,7 +800,7 @@
       "ano": "2014",
       "url": "https://wp.ufpel.edu.br/ppgmp/files/2016/11/Marcelo-Garcia.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "RS",
@@ -813,7 +813,7 @@
       "ano": "2023",
       "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "RO",
@@ -826,7 +826,7 @@
       "ano": "2023",
       "url": "https://ohs.coc.fiocruz.br/posts_ohs/o-avanco-sobre-a-amazonia-exploracao-economica-e-doencas/"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "RO",
@@ -835,11 +835,11 @@
     "periodo": "1950–2000",
     "pergunta": "O que acontece com a saúde de uma região quando sua população cresce tão rápido, vinda de tantos lugares diferentes?",
     "fonte": {
-      "nome": "Penna, Gross, Rocha e Penna — Saúde Brasil 2008 (Ministério da Saúde)",
-      "ano": "TODO: verificar",
+      "nome": "Penna, Gross, Rocha e Penna — Saúde Brasil 2009 (Ministério da Saúde)",
+      "ano": "2010",
       "url": "https://api.arca.fiocruz.br/api/core/bitstreams/f6b7f0c7-96f5-4a46-921e-5a4e7c555755/content"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "RO",
@@ -852,7 +852,7 @@
       "ano": "2023",
       "url": "https://ohs.coc.fiocruz.br/posts_ohs/o-avanco-sobre-a-amazonia-exploracao-economica-e-doencas/"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "RR",
@@ -865,7 +865,7 @@
       "ano": "2023",
       "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "RR",
@@ -878,7 +878,7 @@
       "ano": "2023",
       "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "RR",
@@ -891,7 +891,7 @@
       "ano": "1991",
       "url": "https://www.scielo.br/j/csp/a/J3nLCgVDs8NhZzYPpgqpM4P/?lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "SC",
@@ -904,7 +904,7 @@
       "ano": "2012",
       "url": "https://periodicos.ufsc.br/index.php/esbocos/article/download/2175-7976.2012v19n28p1/25643/104106"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "SC",
@@ -917,7 +917,7 @@
       "ano": "2023",
       "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "SC",
@@ -930,7 +930,7 @@
       "ano": "2012",
       "url": "https://periodicos.ufsc.br/index.php/esbocos/article/download/2175-7976.2012v19n28p1/25643/104106"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "SP",
@@ -943,7 +943,7 @@
       "ano": "2012",
       "url": "https://www.scielo.br/j/nec/a/ZbWF3kvfSYJMQCMSN9ZfmFt/?lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "SP",
@@ -956,7 +956,7 @@
       "ano": "2010",
       "url": "https://www.scielo.br/j/dados/a/mcWkb8BJqWT8GckNn8zn9Lf/?lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "SP",
@@ -969,7 +969,7 @@
       "ano": "2017",
       "url": "https://www.scielo.br/j/rbh/a/THvpNy5TDW34ZgVDKgCFvBR/?lang=pt"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "SE",
@@ -982,7 +982,7 @@
       "ano": "2023",
       "url": "https://periodicos.ufs.br/pontadelanca/article/download/19549/14977"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "SE",
@@ -995,7 +995,7 @@
       "ano": "2023",
       "url": "https://periodicos.ufs.br/pontadelanca/article/download/19549/14977"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "SE",
@@ -1008,7 +1008,7 @@
       "ano": "2021",
       "url": "https://www.ufs.br/conteudo/67348-tres-em-cada-quatro-escravos-em-sergipe-eram-nascidos-no-brasil-entre-1800-e-1849-revela-pesquisa"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "TO",
@@ -1021,7 +1021,7 @@
       "ano": "2000",
       "url": "https://repositorio.ufpa.br/jspui/bitstream/2011/2458/1/Dissertacao_GuerrilhaAraguaiaPaulistas.pdf"
     },
-    "verificado": false
+    "verificado": true
   },
   {
     "uf": "TO",
@@ -1034,6 +1034,6 @@
       "ano": "2023",
       "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/3105/cd_2022_etnico_racial.pdf"
     },
-    "verificado": false
+    "verificado": true
   }
 ]

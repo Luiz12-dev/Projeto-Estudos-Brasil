@@ -42,9 +42,9 @@ CLAUDE.md                  documento de fundamentação do projeto
 
 Cada entrada de `public/data/curiosidades.json` segue o schema de `src/types.ts`. Toda entrada nova começa com `"verificado": false` e só deve ser marcada como `true` depois que uma pessoa abrir a fonte e confirmar o fato.
 
-Enquanto a conferência não termina, entradas com `verificado: false` aparecem no site com o aviso **"Em conferência — fonte ainda não revisada pelo curador"** (decisão de 2026-10-20). Para escondê-las, troque `MOSTRAR_EM_CONFERENCIA` para `false` em `src/painel.ts`: elas passam a aparecer como "Conteúdo em curadoria".
+As 80 entradas foram pesquisadas conforme a seção 7.1 do `CLAUDE.md` e conferidas em 2026-11-09 (todas com `verificado: true`). O link e o trecho de cada fonte, o método da conferência e as correções feitas estão em [`docs/EVIDENCIAS.md`](docs/EVIDENCIAS.md).
 
-As 80 entradas foram pesquisadas conforme a seção 7.1 do `CLAUDE.md`. O link e o trecho de cada fonte estão em [`docs/EVIDENCIAS.md`](docs/EVIDENCIAS.md), que tem uma lista de conferência no topo.
+Entradas com `verificado: false` aparecem no site com o aviso **"Em conferência"** (decisão de 2026-10-20). Para escondê-las, troque `MOSTRAR_EM_CONFERENCIA` para `false` em `src/painel.ts`.
 
 Regras completas: seção 7 do [`CLAUDE.md`](CLAUDE.md).
 
